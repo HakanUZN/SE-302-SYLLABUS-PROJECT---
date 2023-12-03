@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="812.0" prefWidth="602.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.se302syllabusproject.Controller">
+   <children>
+      <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="970.0" prefWidth="790.0">
+         <children>
+            <Pane layoutX="30.0" layoutY="43.0" prefHeight="31.0" prefWidth="529.0" style="-fx-background-color: orange; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="14.0" layoutY="20.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3. ASSESSMENT" wrappingWidth="297.13671875">
+                     <font>
+                        <Font name="System Bold" size="12.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="30.0" layoutY="96.0" prefHeight="31.0" prefWidth="162.0" style="-fx-background-color: lightgrey; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="48.0" layoutY="20.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Semester Activities">
+                     <font>
+                        <Font name="System Bold" size="11.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="192.0" layoutY="96.0" prefHeight="31.0" prefWidth="42.0" style="-fx-background-color: lightgrey; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="1.0" layoutY="21.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Number" wrappingWidth="40.0">
+                     <font>
+                        <Font name="System Bold" size="10.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="232.0" layoutY="96.0" prefHeight="31.0" prefWidth="40.0" style="-fx-background-color: lightgrey; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="2.0" layoutY="14.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Weigthing" wrappingWidth="36.0">
+                     <font>
+                        <Font name="System Bold" size="10.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="270.0" layoutY="96.0" prefHeight="31.0" prefWidth="42.0" style="-fx-background-color: lightgrey; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="10.0" layoutY="19.0" strokeType="OUTSIDE" strokeWidth="0.0" text="LO1">
+                     <font>
+                        <Font name="System Bold" size="12.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="312.0" layoutY="96.0" prefHeight="31.0" prefWidth="40.0" style="-fx-background-color: lightgrey; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="7.0" layoutY="19.0" strokeType="OUTSIDE" strokeWidth="0.0" text="LO2">
+                     <font>
+                        <Font name="System Bold" size="12.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="352.0" layoutY="96.0" prefHeight="31.0" prefWidth="40.0" style="-fx-background-color: lightgrey; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="9.0" layoutY="19.0" strokeType="OUTSIDE" strokeWidth="0.0" text="LO3" wrappingWidth="22.13671875">
+                     <font>
+                        <Font name="System Bold" size="12.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="392.0" layoutY="96.0" prefHeight="31.0" prefWidth="40.0" style="-fx-background-color: lightgrey; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="7.0" layoutY="21.0" strokeType="OUTSIDE" strokeWidth="0.0" text="LO4">
+                     <font>
+                        <Font name="System Bold" size="12.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="432.0" layoutY="96.0" prefHeight="31.0" prefWidth="40.0" style="-fx-background-color: lightgrey; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="10.0" layoutY="22.0" strokeType="OUTSIDE" strokeWidth="0.0" text="LO5">
+                     <font>
+                        <Font name="System Bold" size="12.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="472.0" layoutY="96.0" prefHeight="31.0" prefWidth="42.0" style="-fx-background-color: lightgrey; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="9.0" layoutY="21.0" strokeType="OUTSIDE" strokeWidth="0.0" text="LO6">
+                     <font>
+                        <Font name="System Bold" size="12.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <GridPane layoutX="191.0" layoutY="127.0" prefHeight="520.0" prefWidth="363.0">
+              <columnConstraints>
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints maxHeight="39.0" minHeight="10.0" prefHeight="39.0" vgrow="SOMETIMES" />
+                  <RowConstraints maxHeight="37.0" minHeight="10.0" prefHeight="35.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <TextField prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" />
+                  <TextField fx:id="weightParticipation" prefHeight="42.0" prefWidth="94.0" style="-fx-border-color: black;" GridPane.columnIndex="1" />
+                  <TextField fx:id="lo1Participation" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="2" />
+                  <TextField fx:id="lo2Participation" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="3" />
+                  <TextField fx:id="lo3Participation" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="4" />
+                  <TextField fx:id="lo4Participation" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="5" />
+                  <TextField fx:id="lo5Participation" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="6" />
+                  <TextField fx:id="lo6Participation" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="7" />
+                  <TextField fx:id="lo7Participation" prefHeight="35.0" prefWidth="50.0" style="-fx-border-color: black;" GridPane.columnIndex="8" />
+                  <TextField fx:id="numLab" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.rowIndex="1" />
+                  <TextField fx:id="weightLab" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                  <TextField fx:id="lo1Lab" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+                  <TextField fx:id="lo2Lab" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+                  <TextField fx:id="lo3Lab" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="4" GridPane.rowIndex="1" />
+                  <TextField fx:id="lo4Lab" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="5" GridPane.rowIndex="1" />
+                  <TextField fx:id="lo5Lab" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="6" GridPane.rowIndex="1" />
+                  <TextField fx:id="lo6Lab" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="7" GridPane.rowIndex="1" />
+                  <TextField fx:id="lo7Lab" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="8" GridPane.rowIndex="1" />
+                  <TextField fx:id="numFieldWork" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.rowIndex="2" />
+                  <TextField fx:id="weightFieldWork" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                  <TextField fx:id="lo1FieldWork" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+                  <TextField fx:id="lo2FieldWork" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+                  <TextField fx:id="lo3FieldWork" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="4" GridPane.rowIndex="2" />
+                  <TextField fx:id="lo4FieldWork" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="5" GridPane.rowIndex="2" />
+                  <TextField fx:id="lo5FieldWork" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="6" GridPane.rowIndex="2" />
+                  <TextField fx:id="lo6FieldWork" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="7" GridPane.rowIndex="2" />
+                  <TextField fx:id="lo7FieldWork" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="8" GridPane.rowIndex="2" />
+                  <TextField fx:id="numQuiz" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.rowIndex="3" />
+                  <TextField fx:id="weightQuiz" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                  <TextField fx:id="lo1Quiz" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+                  <TextField fx:id="lo2Quiz" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+                  <TextField fx:id="lo3Quiz" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="4" GridPane.rowIndex="3" />
+                  <TextField fx:id="lo4Quiz" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="5" GridPane.rowIndex="3" />
+                  <TextField fx:id="lo5Quiz" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="6" GridPane.rowIndex="3" />
+                  <TextField fx:id="lo6Quiz" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="7" GridPane.rowIndex="3" />
+                  <TextField fx:id="lo7Quiz" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="8" GridPane.rowIndex="3" />
+                  <TextField fx:id="numHomework" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.rowIndex="4" />
+                  <TextField fx:id="weightHomework" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                  <TextField fx:id="lo1Homework" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="2" GridPane.rowIndex="4" />
+                  <TextField fx:id="lo2Homework" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="3" GridPane.rowIndex="4" />
+                  <TextField fx:id="lo3Homework" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="4" GridPane.rowIndex="4" />
+                  <TextField fx:id="lo4Homework" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="5" GridPane.rowIndex="4" />
+                  <TextField fx:id="lo5Homework" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="6" GridPane.rowIndex="4" />
+                  <TextField fx:id="lo6Homework" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="7" GridPane.rowIndex="4" />
+                  <TextField fx:id="lo7Homework" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="8" GridPane.rowIndex="4" />
+                  <TextField fx:id="numPresentation" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.rowIndex="5" />
+                  <TextField fx:id="weightPresentation" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+                  <TextField fx:id="lo1Presentation" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="2" GridPane.rowIndex="5" />
+                  <TextField fx:id="lo2Presentation" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="3" GridPane.rowIndex="5" />
+                  <TextField fx:id="lo3Presentation" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="4" GridPane.rowIndex="5" />
+                  <TextField fx:id="lo4Presentation" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="5" GridPane.rowIndex="5" />
+                  <TextField fx:id="lo5Presentation" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="6" GridPane.rowIndex="5" />
+                  <TextField fx:id="lo6Presentation" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="7" GridPane.rowIndex="5" />
+                  <TextField fx:id="lo7Presentation" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="8" GridPane.rowIndex="5" />
+                  <TextField fx:id="numProject" prefHeight="41.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.rowIndex="6" />
+                  <TextField fx:id="weightProject" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+                  <TextField fx:id="lo1Project" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="2" GridPane.rowIndex="6" />
+                  <TextField fx:id="lo2Project" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="3" GridPane.rowIndex="6" />
+                  <TextField fx:id="lo3Project" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="4" GridPane.rowIndex="6" />
+                  <TextField fx:id="lo4Project" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="5" GridPane.rowIndex="6" />
+                  <TextField fx:id="lo5Project" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="6" GridPane.rowIndex="6" />
+                  <TextField fx:id="lo6Project" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="7" GridPane.rowIndex="6" />
+                  <TextField fx:id="lo7Project" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="8" GridPane.rowIndex="6" />
+                  <TextField fx:id="numSeminar" prefHeight="41.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.rowIndex="7" />
+                  <TextField fx:id="weightSeminar" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="1" GridPane.rowIndex="7" />
+                  <TextField fx:id="lo1Seminar" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="2" GridPane.rowIndex="7" />
+                  <TextField fx:id="lo2Seminar" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="3" GridPane.rowIndex="7" />
+                  <TextField fx:id="lo3Seminar" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="4" GridPane.rowIndex="7" />
+                  <TextField fx:id="lo4Seminar" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="5" GridPane.rowIndex="7" />
+                  <TextField fx:id="lo5Seminar" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="6" GridPane.rowIndex="7" />
+                  <TextField fx:id="lo6Seminar" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="7" GridPane.rowIndex="7" />
+                  <TextField fx:id="lo7" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="8" GridPane.rowIndex="7" />
+                  <TextField fx:id="numOral" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.rowIndex="8" />
+                  <TextField fx:id="weightOral" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="1" GridPane.rowIndex="8" />
+                  <TextField fx:id="lo1Oral" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="2" GridPane.rowIndex="8" />
+                  <TextField fx:id="lo2Oral" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="3" GridPane.rowIndex="8" />
+                  <TextField fx:id="lo3Oral" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="4" GridPane.rowIndex="8" />
+                  <TextField fx:id="lo4Oral" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="5" GridPane.rowIndex="8" />
+                  <TextField fx:id="lo5Oral" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="6" GridPane.rowIndex="8" />
+                  <TextField fx:id="lo6Oral" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="7" GridPane.rowIndex="8" />
+                  <TextField fx:id="lo7Oral" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="8" GridPane.rowIndex="8" />
+                  <TextField fx:id="numMidterm" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.rowIndex="9" />
+                  <TextField fx:id="weightMidterm" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="1" GridPane.rowIndex="9" />
+                  <TextField fx:id="lo1Midterm" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="2" GridPane.rowIndex="9" />
+                  <TextField fx:id="lo2Midterm" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="3" GridPane.rowIndex="9" />
+                  <TextField fx:id="lo3Midterm" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="4" GridPane.rowIndex="9" />
+                  <TextField fx:id="lo4Midterm" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="5" GridPane.rowIndex="9" />
+                  <TextField fx:id="lo5Midterm" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="6" GridPane.rowIndex="9" />
+                  <TextField fx:id="lo6Midterm" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="7" GridPane.rowIndex="9" />
+                  <TextField fx:id="lo7Midterm" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="8" GridPane.rowIndex="9" />
+                  <TextField fx:id="numFinal" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.rowIndex="10" />
+                  <TextField fx:id="weightFinal" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="1" GridPane.rowIndex="10" />
+                  <TextField fx:id="lo1Final" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="2" GridPane.rowIndex="10" />
+                  <TextField fx:id="lo2Final" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="3" GridPane.rowIndex="10" />
+                  <TextField fx:id="lo3Final" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="4" GridPane.rowIndex="10" />
+                  <TextField fx:id="lo4Final" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="5" GridPane.rowIndex="10" />
+                  <TextField fx:id="lo5Final" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="6" GridPane.rowIndex="10" />
+                  <TextField fx:id="lo6Final" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="7" GridPane.rowIndex="10" />
+                  <TextField fx:id="lo7Final" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="8" GridPane.rowIndex="10" />
+                  <TextField fx:id="numWeighting" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.rowIndex="11" />
+                  <TextField fx:id="weightWeighting" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="1" GridPane.rowIndex="11" />
+                  <TextField fx:id="lo1Weighting" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="2" GridPane.rowIndex="11" />
+                  <TextField fx:id="lo2Weighting" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="3" GridPane.rowIndex="11" />
+                  <TextField fx:id="lo3Weighting" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="4" GridPane.rowIndex="11" />
+                  <TextField fx:id="lo4Weighting" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="5" GridPane.rowIndex="11" />
+                  <TextField fx:id="lo5Weighting" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="6" GridPane.rowIndex="11" />
+                  <TextField fx:id="lo6Weighting" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="7" GridPane.rowIndex="11" />
+                  <TextField fx:id="lo7Weighting" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="8" GridPane.rowIndex="11" />
+                  <TextField fx:id="numWeightingEnd" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.rowIndex="12" />
+                  <TextField fx:id="numTotal" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black; -fx-background-color: HONEYDEW;" GridPane.rowIndex="13" />
+                  <TextField fx:id="weightWeightingEnd" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="1" GridPane.rowIndex="12" />
+                  <TextField fx:id="weightTotal" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black; -fx-background-color: HONEYDEW;" GridPane.columnIndex="1" GridPane.rowIndex="13" />
+                  <TextField fx:id="l01WeightingEnd" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="2" GridPane.rowIndex="12" />
+                  <TextField fx:id="lo1Total" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black; -fx-background-color: HONEYDEW;" GridPane.columnIndex="2" GridPane.rowIndex="13" />
+                  <TextField fx:id="lo2WeightingEnd" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="3" GridPane.rowIndex="12" />
+                  <TextField fx:id="lo2Total" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black; -fx-background-color: HONEYDEW;" GridPane.columnIndex="3" GridPane.rowIndex="13" />
+                  <TextField fx:id="lo3WeightingEnd" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="4" GridPane.rowIndex="12" />
+                  <TextField fx:id="lo3Total" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black; -fx-background-color: HONEYDEW;" GridPane.columnIndex="4" GridPane.rowIndex="13" />
+                  <TextField fx:id="lo4WeightingEnd" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="5" GridPane.rowIndex="12" />
+                  <TextField fx:id="numParticipation" prefHeight="35.0" prefWidth="68.0" style="-fx-border-color: black;" />
+                  <TextField fx:id="lo4Total" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black; -fx-background-color: HONEYDEW;" GridPane.columnIndex="5" GridPane.rowIndex="13" />
+                  <TextField fx:id="lo5WeightingEnd" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="6" GridPane.rowIndex="12" />
+                  <TextField fx:id="lo5Total" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black; -fx-background-color: HONEYDEW;" GridPane.columnIndex="6" GridPane.rowIndex="13" />
+                  <TextField fx:id="lo6WeightingEnd" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="7" GridPane.rowIndex="12" />
+                  <TextField fx:id="lo6Total" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black; -fx-background-color: HONEYDEW;" GridPane.columnIndex="7" GridPane.rowIndex="13" />
+                  <TextField fx:id="lo7WeightingEnd" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black;" GridPane.columnIndex="8" GridPane.rowIndex="12" />
+                  <TextField fx:id="lo7Total" prefHeight="42.0" prefWidth="40.0" style="-fx-border-color: black; -fx-background-color: HONEYDEW;" GridPane.columnIndex="8" GridPane.rowIndex="13" />
+               </children>
+            </GridPane>
+            <Pane layoutX="514.0" layoutY="96.0" prefHeight="31.0" prefWidth="40.0" style="-fx-background-color: lightgrey; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="11.0" layoutY="21.0" strokeType="OUTSIDE" strokeWidth="0.0" text="LO7">
+                     <font>
+                        <Font name="System Bold" size="12.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="30.0" layoutY="127.0" prefHeight="35.0" prefWidth="162.0" style="-fx-background-color: white; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="88.0" layoutY="22.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Participation" wrappingWidth="73.39208984375">
+                     <font>
+                        <Font name="System Bold" size="11.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="30.0" layoutY="162.0" prefHeight="35.0" prefWidth="162.0" style="-fx-background-color: white; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="39.0" layoutY="18.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Laboratory/Application" wrappingWidth="122.39208984375">
+                     <font>
+                        <Font name="System Bold" size="11.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="30.0" layoutY="197.0" prefHeight="35.0" prefWidth="162.0" style="-fx-background-color: white; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="93.0" layoutY="22.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Field Work" wrappingWidth="60.39208984375">
+                     <font>
+                        <Font name="System Bold" size="11.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="30.0" layoutY="230.0" prefHeight="35.0" prefWidth="162.0" style="-fx-background-color: white; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="50.0" layoutY="22.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Quiz/Studio Critique" wrappingWidth="111.39208984375">
+                     <font>
+                        <Font name="System Bold" size="11.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="30.0" layoutY="265.0" prefHeight="35.0" prefWidth="162.0" style="-fx-background-color: white; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="32.0" layoutY="22.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Homework/Assignment" wrappingWidth="129.39208984375">
+                     <font>
+                        <Font name="System Bold" size="11.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="30.0" layoutY="300.0" prefHeight="37.0" prefWidth="162.0" style="-fx-background-color: white; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="57.0" layoutY="23.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Presentation/Jury" wrappingWidth="98.333984375">
+                     <font>
+                        <Font name="System Bold" size="11.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="30.0" layoutY="332.0" prefHeight="35.0" prefWidth="162.0" style="-fx-background-color: white; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="113.0" layoutY="25.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Project" wrappingWidth="42.0">
+                     <font>
+                        <Font name="System Bold" size="11.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="30.0" layoutY="367.0" prefHeight="39.0" prefWidth="162.0" style="-fx-background-color: white; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="57.0" layoutY="24.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Seminar/Workshop" wrappingWidth="104.39208984375">
+                     <font>
+                        <Font name="System Bold" size="11.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="30.0" layoutY="406.0" prefHeight="37.0" prefWidth="162.0" style="-fx-background-color: white; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="101.0" layoutY="23.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Oral Exam" wrappingWidth="60.39208984375">
+                     <font>
+                        <Font name="System Bold" size="11.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="30.0" layoutY="443.0" prefHeight="34.0" prefWidth="162.0" style="-fx-background-color: white; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="102.0" layoutY="21.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Midterm" wrappingWidth="53.39208984375">
+                     <font>
+                        <Font name="System Bold" size="11.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="30.0" layoutY="477.0" prefHeight="34.0" prefWidth="162.0" style="-fx-background-color: white; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="101.0" layoutY="21.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Final Exam" wrappingWidth="60.39208984375">
+                     <font>
+                        <Font name="System Bold" size="11.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="30.0" layoutY="511.0" prefHeight="34.0" prefWidth="162.0" style="-fx-background-color: white; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="6.0" layoutY="13.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Weighting of Semester Activities on the Final Grade" wrappingWidth="149.39208984375">
+                     <font>
+                        <Font name="System Bold" size="11.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="30.0" layoutY="545.0" prefHeight="34.0" prefWidth="162.0" style="-fx-background-color: white; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="2.0" layoutY="14.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Weighting of End-of-Semester Activities on the Final Grade" wrappingWidth="173.39208984375">
+                     <font>
+                        <Font name="System Bold" size="11.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Pane layoutX="30.0" layoutY="579.0" prefHeight="34.0" prefWidth="162.0" style="-fx-background-color: white; -fx-border-color: black;">
+               <children>
+                  <Text layoutX="120.0" layoutY="18.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Total" wrappingWidth="42.0">
+                     <font>
+                        <Font name="System Bold" size="11.0" />
+                     </font>
+                  </Text>
+               </children>
+            </Pane>
+            <Button fx:id="page3to4" layoutX="450.0" layoutY="665.0" mnemonicParsing="false" onAction="#pageThreetoFour" prefHeight="67.0" prefWidth="128.0" style="-fx-background-radius: 100; -fx-background-color: orange;" text="NEXT PAGE">
+               <font>
+                  <Font name="System Bold" size="16.0" />
+               </font>
+            </Button>
+            <Button fx:id="page3to2" layoutY="665.0" mnemonicParsing="false" onAction="#pageThreetoTwo" prefHeight="67.0" prefWidth="128.0" style="-fx-background-color: orange; -fx-background-radius: 100;" text="BACK">
+               <font>
+                  <Font name="System Bold" size="16.0" />
+               </font>
+            </Button>
+            <Label alignment="CENTER" layoutX="273.0" layoutY="724.0" prefHeight="49.0" prefWidth="79.0" style="-fx-background-color: ORANGE; -fx-background-radius: 100;" text="3/5">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>
