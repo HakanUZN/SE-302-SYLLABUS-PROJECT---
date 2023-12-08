@@ -14,8 +14,10 @@ public class Application extends javafx.application.Application {
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(Application.class.getResource("Main.fxml"));
         Scene scene = new Scene((Parent)fxmlLoader.load(), 1050.0, 820.0);
-        stage.setTitle("Syllabus Application");
         stage.setScene(scene);
+        stage.setResizable(false);
+        stage.centerOnScreen();
+        stage.setTitle("Syllabus Application");
         stage.show();
     }
 
