@@ -1,0 +1,5942 @@
+[
+  {
+    "courseCode": "CBM 101",
+    "courseName": "Clinical Basis of Medicine I"
+  },
+  {
+    "courseCode": "CBM 201",
+    "courseName": "Clinical Basis of Medicine III"
+  },
+  {
+    "courseCode": "CBM 301",
+    "courseName": "Clinical Basis of Medicine V"
+  },
+  {
+    "courseCode": "HSP 101",
+    "courseName": "Human, Society & Planet I"
+  },
+  {
+    "courseCode": "HSP 201",
+    "courseName": "Human, Society & Planet III"
+  },
+  {
+    "courseCode": "HSP 301",
+    "courseName": "Human, Society & Planet V"
+  },
+  {
+    "courseCode": "SBM 101",
+    "courseName": "Scientific Basis of Medicine I"
+  },
+  {
+    "courseCode": "SBM 201",
+    "courseName": "Scientific Basis of Medicine III"
+  },
+  {
+    "courseCode": "SBM 301",
+    "courseName": "Scientific Basis of Medicine V"
+  },
+  {
+    "courseCode": "FENG 101",
+    "courseName": "Fundamentals of Engineering Culture"
+  },
+  {
+    "courseCode": "MATH 153",
+    "courseName": "Calculus I"
+  },
+  {
+    "courseCode": "MATH 240",
+    "courseName": "Probability for Engineers"
+  },
+  {
+    "courseCode": "MATH 250",
+    "courseName": "Linear Algebra for Engineers"
+  },
+  {
+    "courseCode": "HUK 103",
+    "courseName": "Introduction to Civil Law and Law of Persons"
+  },
+  {
+    "courseCode": "HUK 201",
+    "courseName": "Law of Obligations"
+  },
+  {
+    "courseCode": "HUK 215",
+    "courseName": "Law of Obligations-General Provisions I"
+  },
+  {
+    "courseCode": "HUK 204",
+    "courseName": "Administrative Judicial Procedure Law"
+  },
+  {
+    "courseCode": "HUK 205",
+    "courseName": "Administrative Law I"
+  },
+  {
+    "courseCode": "HUK 213",
+    "courseName": "Administrative Law I"
+  },
+  {
+    "courseCode": "HUK 301",
+    "courseName": "Law of Obligations"
+  },
+  {
+    "courseCode": "HUK 305",
+    "courseName": "Law of Business Organizations"
+  },
+  {
+    "courseCode": "HUK 405",
+    "courseName": "Maritime Law"
+  },
+  {
+    "courseCode": "HUK 411",
+    "courseName": "Enforcement and Bankruptcy Law I "
+  },
+  {
+    "courseCode": "LAW 202",
+    "courseName": "Anglo-Saxon Legal System"
+  },
+  {
+    "courseCode": "LAW 203",
+    "courseName": "Anglo-Saxon Legal System"
+  },
+  {
+    "courseCode": "FFD 451",
+    "courseName": "Applied Workshop"
+  },
+  {
+    "courseCode": "PSIR 230",
+    "courseName": "History of Philosophical Thought"
+  },
+  {
+    "courseCode": "PSY 101",
+    "courseName": "Introduction to Psychology I"
+  },
+  {
+    "courseCode": "HUK 203",
+    "courseName": "Criminal Law"
+  },
+  {
+    "courseCode": "HUK 211",
+    "courseName": "Criminal Law"
+  },
+  {
+    "courseCode": "HUK 207",
+    "courseName": "International Public Law "
+  },
+  {
+    "courseCode": "TS 205",
+    "courseName": "Professional Ethics"
+  },
+  {
+    "courseCode": "TS 103",
+    "courseName": "Physiology"
+  },
+  {
+    "courseCode": "HUK 111",
+    "courseName": "Introduction to Law"
+  },
+  {
+    "courseCode": "HUK 113",
+    "courseName": "Constitutional Law I"
+  },
+  {
+    "courseCode": "HUK 115",
+    "courseName": "Roman Law"
+  },
+  {
+    "courseCode": "LAW 111",
+    "courseName": "Basic Legal Terms and Principles"
+  },
+  {
+    "courseCode": "PSY 303",
+    "courseName": "Psychology of Perception"
+  },
+  {
+    "courseCode": "TS 101",
+    "courseName": "Anatomy"
+  },
+  {
+    "courseCode": "BA 251",
+    "courseName": "Financial Accounting I"
+  },
+  {
+    "courseCode": "FFD 111",
+    "courseName": "Drawing and Representation"
+  },
+  {
+    "courseCode": "CE 215",
+    "courseName": "Discrete Mathematics for Computer Science"
+  },
+  {
+    "courseCode": "TRK 100",
+    "courseName": "Turkish"
+  },
+  {
+    "courseCode": "TRK 101",
+    "courseName": "Turkish I"
+  },
+  {
+    "courseCode": "TURK 100",
+    "courseName": "Turkish "
+  },
+  {
+    "courseCode": "HIST 100",
+    "courseName": "Princ. of Atatürk and Hist. of Revol. "
+  },
+  {
+    "courseCode": "TRH 101",
+    "courseName": "Principles of Atatürk and History of Revolution I"
+  },
+  {
+    "courseCode": "TRH 100",
+    "courseName": "Princ. of Atatürk and Hist. of Revol. "
+  },
+  {
+    "courseCode": "IAED 101",
+    "courseName": "Sensing Interiors"
+  },
+  {
+    "courseCode": "HUK 303",
+    "courseName": "Civil Procedure Law I"
+  },
+  {
+    "courseCode": "HUK 307",
+    "courseName": "Property Law I"
+  },
+  {
+    "courseCode": "HUK 401",
+    "courseName": "Labour Law I"
+  },
+  {
+    "courseCode": "HUK 403",
+    "courseName": "Criminal Procedure Law I"
+  },
+  {
+    "courseCode": "LAW 470",
+    "courseName": "European Union Law "
+  },
+  {
+    "courseCode": "PSY 201",
+    "courseName": "Introduction to Developmental Psychology I"
+  },
+  {
+    "courseCode": "PSIR 101",
+    "courseName": "Introduction to Political Science"
+  },
+  {
+    "courseCode": "FFD 101",
+    "courseName": "Art and Design Studio I"
+  },
+  {
+    "courseCode": "PSY 203",
+    "courseName": "Social Psychology I"
+  },
+  {
+    "courseCode": "LAW 300",
+    "courseName": "Business Law"
+  },
+  {
+    "courseCode": "CLM 105",
+    "courseName": "Introduction to Gastronomy"
+  },
+  {
+    "courseCode": "CLM 219",
+    "courseName": "Materials Science and Purchasing in Food Production"
+  },
+  {
+    "courseCode": "MATH 111",
+    "courseName": "Basic Mathematics"
+  },
+  {
+    "courseCode": "MATH 207",
+    "courseName": "Intro. to Differential Equations I"
+  },
+  {
+    "courseCode": "MATH 236",
+    "courseName": "Engineering Statistics I"
+  },
+  {
+    "courseCode": "MATH 280",
+    "courseName": "Intro. to Probability and Statistics"
+  },
+  {
+    "courseCode": "MATH 336",
+    "courseName": "Engineering Statistics II"
+  },
+  {
+    "courseCode": "TS 217",
+    "courseName": "Infectious Diseases and Prevention"
+  },
+  {
+    "courseCode": "IA 494",
+    "courseName": "Graduation Thesis"
+  },
+  {
+    "courseCode": "ARCH 101",
+    "courseName": "Introduction to Architecture I "
+  },
+  {
+    "courseCode": "ETI 213",
+    "courseName": "Fundamental Concepts of Literature"
+  },
+  {
+    "courseCode": "ARCH 205",
+    "courseName": "Statics and Strength of Materials"
+  },
+  {
+    "courseCode": "BA 255",
+    "courseName": "Management Sciences"
+  },
+  {
+    "courseCode": "IAED 203",
+    "courseName": "Construction and Materials I"
+  },
+  {
+    "courseCode": "FTR 107",
+    "courseName": "Physics for Physiotherapy"
+  },
+  {
+    "courseCode": "TS 202",
+    "courseName": "Crisis Management and Anger Control"
+  },
+  {
+    "courseCode": "PSY 103",
+    "courseName": "Quantitative Methods in Pyschology I "
+  },
+  {
+    "courseCode": "PSY 205",
+    "courseName": "Research Methods in Psychology I"
+  },
+  {
+    "courseCode": "ARCH 203",
+    "courseName": "Histories and Theories of Architecture I"
+  },
+  {
+    "courseCode": "ARCH 451",
+    "courseName": "Applied Workshop in ARCH "
+  },
+  {
+    "courseCode": "ETI 313",
+    "courseName": "Translation of Legal Texts"
+  },
+  {
+    "courseCode": "ARCH 305",
+    "courseName": "Architectural Environmental Control Systems"
+  },
+  {
+    "courseCode": "GEHU 218",
+    "courseName": "Principles of Social Sciences II"
+  },
+  {
+    "courseCode": "GEHU 209",
+    "courseName": "History of Civilization I"
+  },
+  {
+    "courseCode": "GEHU 202",
+    "courseName": "Current Issues in World Politics"
+  },
+  {
+    "courseCode": "GEEC 204",
+    "courseName": "Modern World Economy"
+  },
+  {
+    "courseCode": "GEEC 203",
+    "courseName": "Principles of Economics"
+  },
+  {
+    "courseCode": "GEEC 201",
+    "courseName": "Introduction to Business"
+  },
+  {
+    "courseCode": "GEAR 206",
+    "courseName": "Eras and Composers in Music"
+  },
+  {
+    "courseCode": "PSIR 205",
+    "courseName": "History of Political Thought"
+  },
+  {
+    "courseCode": "PSIR 215",
+    "courseName": "History of Political Thought"
+  },
+  {
+    "courseCode": "PSIR 201",
+    "courseName": "History and Institutions of European Union"
+  },
+  {
+    "courseCode": "PSIR 203",
+    "courseName": "Diplomatic History I"
+  },
+  {
+    "courseCode": "CHEM 100",
+    "courseName": "General Chemistry"
+  },
+  {
+    "courseCode": "MICM 107",
+    "courseName": "Material Cognisance "
+  },
+  {
+    "courseCode": "IAED 209",
+    "courseName": "History and Theory of Interior Design"
+  },
+  {
+    "courseCode": "ME 201",
+    "courseName": "Engineering Thermodynamics "
+  },
+  {
+    "courseCode": "ME 202",
+    "courseName": "Material Science"
+  },
+  {
+    "courseCode": "ME 211",
+    "courseName": "Statics for Engineers"
+  },
+  {
+    "courseCode": "PSY 307",
+    "courseName": "Theories of Personality"
+  },
+  {
+    "courseCode": "PSY 304",
+    "courseName": "Psychopathology"
+  },
+  {
+    "courseCode": "PSY 421",
+    "courseName": "Psychopathology"
+  },
+  {
+    "courseCode": "ITF 321",
+    "courseName": "International Finance"
+  },
+  {
+    "courseCode": "TS 109",
+    "courseName": "Basic Physics"
+  },
+  {
+    "courseCode": "TS 115",
+    "courseName": "Medical and Radiological Terminology"
+  },
+  {
+    "courseCode": "TLT 101",
+    "courseName": "Medical Microbiology I"
+  },
+  {
+    "courseCode": "TLT 105",
+    "courseName": "Laboratory Chemistry"
+  },
+  {
+    "courseCode": "TLT 107",
+    "courseName": "Laboratory Equipment"
+  },
+  {
+    "courseCode": "CLM 211",
+    "courseName": "Turkısh Cuısıne Culture"
+  },
+  {
+    "courseCode": "CLM 217",
+    "courseName": "Ethics In Gastronomy"
+  },
+  {
+    "courseCode": "CLM 317",
+    "courseName": "Cost analysıs and control"
+  },
+  {
+    "courseCode": "ITF 404",
+    "courseName": "Invest. Analysis and Portfolio Manag."
+  },
+  {
+    "courseCode": "ETI 125",
+    "courseName": "Language And Society"
+  },
+  {
+    "courseCode": "BA 221",
+    "courseName": "Financial Accounting"
+  },
+  {
+    "courseCode": "BA 201",
+    "courseName": "Principles of Marketing"
+  },
+  {
+    "courseCode": "BA 350",
+    "courseName": "Managerial and Cost Accounting"
+  },
+  {
+    "courseCode": "ID 115",
+    "courseName": "Human Factors"
+  },
+  {
+    "courseCode": "ID 201",
+    "courseName": "Product Design Studio I"
+  },
+  {
+    "courseCode": "ID 207",
+    "courseName": "Materials for Industrial Design"
+  },
+  {
+    "courseCode": "ID 301",
+    "courseName": "History and Theory of Industrial Design"
+  },
+  {
+    "courseCode": "ID 303",
+    "courseName": "Product Design Studio III"
+  },
+  {
+    "courseCode": "FTR 105",
+    "courseName": "Functional Organization of the Human Body I"
+  },
+  {
+    "courseCode": "OPT 101",
+    "courseName": "Physics and Geometric Optics I"
+  },
+  {
+    "courseCode": "TS 120",
+    "courseName": "First Aid"
+  },
+  {
+    "courseCode": "TLT 103",
+    "courseName": "Biochemistry"
+  },
+  {
+    "courseCode": "ARCH 201",
+    "courseName": "Architectural Design"
+  },
+  {
+    "courseCode": "SE 321",
+    "courseName": "Software Specification and Design"
+  },
+  {
+    "courseCode": "SE 305",
+    "courseName": "Software Specification and Design"
+  },
+  {
+    "courseCode": "SE 323",
+    "courseName": "Concepts of Programming Languages"
+  },
+  {
+    "courseCode": "SE 309",
+    "courseName": "Concepts of Programming Languages"
+  },
+  {
+    "courseCode": "PSY 305",
+    "courseName": "Industrial Psychology"
+  },
+  {
+    "courseCode": "PSY 100",
+    "courseName": "Reading and Writing in Psychology"
+  },
+  {
+    "courseCode": "PSY 300",
+    "courseName": "Reading and Writing in Psychology"
+  },
+  {
+    "courseCode": "PSY 408",
+    "courseName": "Health Psychology"
+  },
+  {
+    "courseCode": "PSY 480",
+    "courseName": "Health Psychology"
+  },
+  {
+    "courseCode": "LAW 100",
+    "courseName": "Fundamentals of Law"
+  },
+  {
+    "courseCode": "ARCH 207",
+    "courseName": "Architectural Construction and Materials I"
+  },
+  {
+    "courseCode": "FTR 103",
+    "courseName": "Anatomy I"
+  },
+  {
+    "courseCode": "FTR 209",
+    "courseName": "Exercise Physiology"
+  },
+  {
+    "courseCode": "ITF 421",
+    "courseName": "Regulatory Aspects of International Trade"
+  },
+  {
+    "courseCode": "MATH 109",
+    "courseName": "Calculus I"
+  },
+  {
+    "courseCode": "GEET 312",
+    "courseName": "History of the Women's Rights Movement"
+  },
+  {
+    "courseCode": "GEET 310",
+    "courseName": "Gender and Media"
+  },
+  {
+    "courseCode": "GEET 304",
+    "courseName": "Ethical Decision Making"
+  },
+  {
+    "courseCode": "BA 260",
+    "courseName": "Management and Organization"
+  },
+  {
+    "courseCode": "BA 320",
+    "courseName": "Consumer Behavior"
+  },
+  {
+    "courseCode": "PSIR 301",
+    "courseName": "Contemporary Issues in Turkish Politics"
+  },
+  {
+    "courseCode": "PSIR 303",
+    "courseName": "Research Methods"
+  },
+  {
+    "courseCode": "PSIR 305",
+    "courseName": "Foreign Policy Analysis"
+  },
+  {
+    "courseCode": "PSIR 307",
+    "courseName": "International Political Economy"
+  },
+  {
+    "courseCode": "FFD 121",
+    "courseName": "History of Art and Design I"
+  },
+  {
+    "courseCode": "IE 313",
+    "courseName": "Human Factors Engineering"
+  },
+  {
+    "courseCode": "COMM 102",
+    "courseName": "Theories of Communication"
+  },
+  {
+    "courseCode": "EEE 281",
+    "courseName": "Engineering Mathematics I"
+  },
+  {
+    "courseCode": "HEM 103",
+    "courseName": "Fundamentals of Health I"
+  },
+  {
+    "courseCode": "HEM 105",
+    "courseName": "Professional Principles I"
+  },
+  {
+    "courseCode": "HEM 319",
+    "courseName": "First and Emergency Aid "
+  },
+  {
+    "courseCode": "HEM 327",
+    "courseName": "Research Methods in Health Sciences"
+  },
+  {
+    "courseCode": "HEM 331",
+    "courseName": "Management in Nursing"
+  },
+  {
+    "courseCode": "HEM 333",
+    "courseName": "Nursing Practice"
+  },
+  {
+    "courseCode": "NMC 103",
+    "courseName": "Critical Thinking"
+  },
+  {
+    "courseCode": "GBE 251",
+    "courseName": "Introduction to Biology for Non-majors"
+  },
+  {
+    "courseCode": "FTR 203",
+    "courseName": "Kinesiology I"
+  },
+  {
+    "courseCode": "ME 305",
+    "courseName": "Fluid Mechanics"
+  },
+  {
+    "courseCode": "FENG 346",
+    "courseName": "Numerical Methods for Engineers II"
+  },
+  {
+    "courseCode": "ME 206",
+    "courseName": "Dynamics"
+  },
+  {
+    "courseCode": "ME 208",
+    "courseName": "Mechanics of Materials"
+  },
+  {
+    "courseCode": "FTR 211",
+    "courseName": "Physiophatology"
+  },
+  {
+    "courseCode": "IAY 101",
+    "courseName": "Emergency Patient Care I"
+  },
+  {
+    "courseCode": "IAY 103",
+    "courseName": "Emergency Medical Services"
+  },
+  {
+    "courseCode": "IAY 105",
+    "courseName": "Resuscitation"
+  },
+  {
+    "courseCode": "IAY 117",
+    "courseName": "Physical Training And Body Building I"
+  },
+  {
+    "courseCode": "IAY 201",
+    "courseName": "Emergency Patient Care III"
+  },
+  {
+    "courseCode": "IAY 203",
+    "courseName": "Clinical Practice I"
+  },
+  {
+    "courseCode": "IAY 205",
+    "courseName": "Physical Training And Body Building III"
+  },
+  {
+    "courseCode": "IAY 210",
+    "courseName": "Emergency Medicine Applications"
+  },
+  {
+    "courseCode": "GBE 315",
+    "courseName": "Microbial Genetics and Biotechnology"
+  },
+  {
+    "courseCode": "GBE 201",
+    "courseName": "Microbial Biotechnology"
+  },
+  {
+    "courseCode": "FTR 213",
+    "courseName": "Clinical Sciences and Pharmacology for Physiotherapists"
+  },
+  {
+    "courseCode": "PRA 315",
+    "courseName": "Corporate Communication"
+  },
+  {
+    "courseCode": "MMIR 105",
+    "courseName": "Traditional Building Types and Elements I"
+  },
+  {
+    "courseCode": "HEM 207",
+    "courseName": "Fundamentals of Health III"
+  },
+  {
+    "courseCode": "HEM 209",
+    "courseName": "Evaluation of Health"
+  },
+  {
+    "courseCode": "HEM 211",
+    "courseName": "Internal Medicine Nursing"
+  },
+  {
+    "courseCode": "HEM 213",
+    "courseName": "Surgical Nursing"
+  },
+  {
+    "courseCode": "HEM 215",
+    "courseName": "Internal Medicine and Surgical Nursing-Clinics"
+  },
+  {
+    "courseCode": "GBE 303",
+    "courseName": "Biotransport Phenomena"
+  },
+  {
+    "courseCode": "PSIR 207",
+    "courseName": "Introduction to Political Science"
+  },
+  {
+    "courseCode": "PSIR 240",
+    "courseName": "History Of Contemporary International Relations"
+  },
+  {
+    "courseCode": "RTV 105",
+    "courseName": "Introduction to Photography "
+  },
+  {
+    "courseCode": "EEE 205",
+    "courseName": "Fundamentals of Electric Circuit"
+  },
+  {
+    "courseCode": "MUH 100",
+    "courseName": "Principles of Accounting I"
+  },
+  {
+    "courseCode": "MTOI 103",
+    "courseName": "Hotel Management"
+  },
+  {
+    "courseCode": "MTOI 207",
+    "courseName": "Total Quality Management"
+  },
+  {
+    "courseCode": "MTOI 260",
+    "courseName": "Alternative Tourism"
+  },
+  {
+    "courseCode": "MTOI 230",
+    "courseName": "Consumer Behavior "
+  },
+  {
+    "courseCode": "MTOI 225",
+    "courseName": "Entrepreneurship"
+  },
+  {
+    "courseCode": "MMAT 113",
+    "courseName": "Mathematics I"
+  },
+  {
+    "courseCode": "MISL 101",
+    "courseName": "Business Administration I"
+  },
+  {
+    "courseCode": "MEKO 101",
+    "courseName": "Micro Economics"
+  },
+  {
+    "courseCode": "SHKH 212",
+    "courseName": "Airline Management"
+  },
+  {
+    "courseCode": "SHKH 213",
+    "courseName": "Interview Techniques in Aviation"
+  },
+  {
+    "courseCode": "IE 251",
+    "courseName": "Optimization I"
+  },
+  {
+    "courseCode": "IE 261",
+    "courseName": "Industrial Information Systems"
+  },
+  {
+    "courseCode": "IE 215",
+    "courseName": "Engineering Economics"
+  },
+  {
+    "courseCode": "IE 321",
+    "courseName": "Dynamic and Nonlinear Programming"
+  },
+  {
+    "courseCode": "IE 322",
+    "courseName": "Work Systems Analysis and Design"
+  },
+  {
+    "courseCode": "IE 323",
+    "courseName": "Production Planning,Design and Control"
+  },
+  {
+    "courseCode": "DT 100",
+    "courseName": "Basic Concepts of Foreign Trade"
+  },
+  {
+    "courseCode": "AET 103",
+    "courseName": "Comparative Grammar I"
+  },
+  {
+    "courseCode": "MINT 103",
+    "courseName": "Building Materials"
+  },
+  {
+    "courseCode": "AET 107",
+    "courseName": "Listening and Speaking Skills"
+  },
+  {
+    "courseCode": "FFD 301",
+    "courseName": "Furniture Design"
+  },
+  {
+    "courseCode": "EEE 335",
+    "courseName": "Application Development for Internet of Things Systems"
+  },
+  {
+    "courseCode": "CE 221",
+    "courseName": "Data Structures and Algorithms I"
+  },
+  {
+    "courseCode": "CE 302",
+    "courseName": "Microprocessors"
+  },
+  {
+    "courseCode": "CE 303",
+    "courseName": "Operating Systems"
+  },
+  {
+    "courseCode": "CE 308",
+    "courseName": "Computing Theory"
+  },
+  {
+    "courseCode": "CE 315",
+    "courseName": "Automata Theory and Formal Languages"
+  },
+  {
+    "courseCode": "CE 323",
+    "courseName": "Operating System Concepts"
+  },
+  {
+    "courseCode": "CE 342",
+    "courseName": "Fundamentals of Microprocessors"
+  },
+  {
+    "courseCode": "SE 302",
+    "courseName": "Principles of Software Engineering"
+  },
+  {
+    "courseCode": "GBE 100",
+    "courseName": "General and Molecular Biology I"
+  },
+  {
+    "courseCode": "HUK 217",
+    "courseName": "The Art of Oratory and the Language of Defense"
+  },
+  {
+    "courseCode": "HUK 219",
+    "courseName": "Communication Techniques in Dialogue and Negotiation Management"
+  },
+  {
+    "courseCode": "HUK 295",
+    "courseName": "Criminology"
+  },
+  {
+    "courseCode": "HUK 296",
+    "courseName": "Concepts of Law Interpreted in Cinema and Literature"
+  },
+  {
+    "courseCode": "HUK 350",
+    "courseName": "International Criminal Law"
+  },
+  {
+    "courseCode": "HUK 400",
+    "courseName": "Law of Advocacy"
+  },
+  {
+    "courseCode": "GBE 220",
+    "courseName": "Biochemistry"
+  },
+  {
+    "courseCode": "HUK 420",
+    "courseName": "Law of Criminal Execution "
+  },
+  {
+    "courseCode": "HUK 467",
+    "courseName": "Health Care Law"
+  },
+  {
+    "courseCode": "HUK 475",
+    "courseName": "Intellectual Property Law "
+  },
+  {
+    "courseCode": "HUK 479",
+    "courseName": "Banking Law"
+  },
+  {
+    "courseCode": "HUK 490",
+    "courseName": "Turkish Constitutional History"
+  },
+  {
+    "courseCode": "GBE 309",
+    "courseName": "Genetic Engineering Techniques"
+  },
+  {
+    "courseCode": "LAW 293",
+    "courseName": "Intellectual Property Law"
+  },
+  {
+    "courseCode": "LAW 464",
+    "courseName": "International Monetary and Financial Law"
+  },
+  {
+    "courseCode": "LAW 294",
+    "courseName": "Economic Analysis of Law"
+  },
+  {
+    "courseCode": "LAW 325",
+    "courseName": "Health Law"
+  },
+  {
+    "courseCode": "SE 113",
+    "courseName": "Introduction to Programming"
+  },
+  {
+    "courseCode": "SE 115",
+    "courseName": "Introduction to Programming I"
+  },
+  {
+    "courseCode": "SE 209",
+    "courseName": "Concepts of Software Engineering"
+  },
+  {
+    "courseCode": "GBE 206",
+    "courseName": "Genetics"
+  },
+  {
+    "courseCode": "SE 320",
+    "courseName": "Introduction to Computer Games"
+  },
+  {
+    "courseCode": "SE 431",
+    "courseName": "3D Modeling in Computer Games"
+  },
+  {
+    "courseCode": "SE 360",
+    "courseName": "Advances in Software Development"
+  },
+  {
+    "courseCode": "SE 380",
+    "courseName": "Mobile Application Development"
+  },
+  {
+    "courseCode": "SE 420",
+    "courseName": "Artificial Intelligence and Expert Sys."
+  },
+  {
+    "courseCode": "SE 480",
+    "courseName": "Client Side Scripting Languages"
+  },
+  {
+    "courseCode": "SE 105",
+    "courseName": "Introduction to Software Engineering"
+  },
+  {
+    "courseCode": "GBE 307",
+    "courseName": "Biotechnology"
+  },
+  {
+    "courseCode": "GBE 355",
+    "courseName": "Microbial Biofilms"
+  },
+  {
+    "courseCode": "ITF 210",
+    "courseName": "Financial Institutions and Markets"
+  },
+  {
+    "courseCode": "ITF 311",
+    "courseName": "Business Finance "
+  },
+  {
+    "courseCode": "FTR 205",
+    "courseName": "Electrophysical Agents I"
+  },
+  {
+    "courseCode": "BME 410",
+    "courseName": "Biomedical System Design"
+  },
+  {
+    "courseCode": "BME 414",
+    "courseName": "Characterization Methods in Nanotechnology"
+  },
+  {
+    "courseCode": "ADL 101",
+    "courseName": "Constitutional Law "
+  },
+  {
+    "courseCode": "ADL 103",
+    "courseName": "Intruduction to Law"
+  },
+  {
+    "courseCode": "ADL 105",
+    "courseName": "Keyboard Usage I"
+  },
+  {
+    "courseCode": "ADL 201",
+    "courseName": "Criminal Law "
+  },
+  {
+    "courseCode": "ADL 203",
+    "courseName": "Law of Obligations"
+  },
+  {
+    "courseCode": "ADL 205",
+    "courseName": "Legis.and Trans. of the Ed. Office of Courts"
+  },
+  {
+    "courseCode": "ADL 207",
+    "courseName": "Execution and Bankruptcy law "
+  },
+  {
+    "courseCode": "ADL 209",
+    "courseName": "Commercial Law "
+  },
+  {
+    "courseCode": "ADL 211",
+    "courseName": "Keyboard Usage III "
+  },
+  {
+    "courseCode": "ADL 230",
+    "courseName": "Criminology"
+  },
+  {
+    "courseCode": "ADL 290",
+    "courseName": "Insurance Law"
+  },
+  {
+    "courseCode": "ECON 101",
+    "courseName": "Principles of Microeconomics"
+  },
+  {
+    "courseCode": "PSY 317",
+    "courseName": "Psychological Measurement"
+  },
+  {
+    "courseCode": "PSY 302",
+    "courseName": "Psychological Measurement"
+  },
+  {
+    "courseCode": "CIVE 309",
+    "courseName": "Structural Analysis"
+  },
+  {
+    "courseCode": "OPT 103",
+    "courseName": "Introduction to Opticianry"
+  },
+  {
+    "courseCode": "TS 215",
+    "courseName": "Business Management I"
+  },
+  {
+    "courseCode": "FYT 101",
+    "courseName": "Principles and Methods of Physical Therapy I"
+  },
+  {
+    "courseCode": "FYT 103",
+    "courseName": "Hydrotherapy ve Balneotherapy"
+  },
+  {
+    "courseCode": "YB 230",
+    "courseName": "Occupational Therapy"
+  },
+  {
+    "courseCode": "TS 104",
+    "courseName": "Communication in Health Services"
+  },
+  {
+    "courseCode": "TDS 270",
+    "courseName": "Legislation for Health Professionals"
+  },
+  {
+    "courseCode": "HUK 415",
+    "courseName": "Trade Register Office Practices"
+  },
+  {
+    "courseCode": "AET 235",
+    "courseName": "Technology and Translation"
+  },
+  {
+    "courseCode": "ADL 241",
+    "courseName": "Tourism Law"
+  },
+  {
+    "courseCode": "HUK 317",
+    "courseName": "Oratory, Art of Persuasion and Defense"
+  },
+  {
+    "courseCode": "HUK 319",
+    "courseName": "Communication Techniques in Negotiation"
+  },
+  {
+    "courseCode": "PRA 230",
+    "courseName": "Marketing Communication"
+  },
+  {
+    "courseCode": "PRA 301",
+    "courseName": "Media Planning and Buying"
+  },
+  {
+    "courseCode": "PRA 307",
+    "courseName": "Creativity in Communication"
+  },
+  {
+    "courseCode": "PRA 319",
+    "courseName": "Brand Communication"
+  },
+  {
+    "courseCode": "CLM 327",
+    "courseName": "Banquet Organization and Management"
+  },
+  {
+    "courseCode": "CLM 333",
+    "courseName": "Special Issues in Nutrition and Menu Planning"
+  },
+  {
+    "courseCode": "CLM 491",
+    "courseName": "Quick Service Restaurant Management"
+  },
+  {
+    "courseCode": "CLM 355",
+    "courseName": "Marketing Food and Beverages"
+  },
+  {
+    "courseCode": "FTR 101",
+    "courseName": "Basics of Physiotherapy I"
+  },
+  {
+    "courseCode": "FTR 201",
+    "courseName": "Measurement and Evaluation in Physiotherapy"
+  },
+  {
+    "courseCode": "FTR 207",
+    "courseName": "Manual Therapy I"
+  },
+  {
+    "courseCode": "EEE 309",
+    "courseName": "Signals and Systems"
+  },
+  {
+    "courseCode": "OPT 105",
+    "courseName": "Ocular Anatomy and Physiology"
+  },
+  {
+    "courseCode": "OPT 107",
+    "courseName": "Chemistry for Opticianry"
+  },
+  {
+    "courseCode": "MMIR 103",
+    "courseName": "Art History"
+  },
+  {
+    "courseCode": "MBP 105",
+    "courseName": "Essentials of Programming "
+  },
+  {
+    "courseCode": "MBP 201",
+    "courseName": "Internet Programming II "
+  },
+  {
+    "courseCode": "MATH 101",
+    "courseName": "Calculus I"
+  },
+  {
+    "courseCode": "MATH 103",
+    "courseName": "Fundamentals of Mathematics"
+  },
+  {
+    "courseCode": "MATH 121",
+    "courseName": "Mathematical Thought "
+  },
+  {
+    "courseCode": "MATH 201",
+    "courseName": "Advanced Calculus I"
+  },
+  {
+    "courseCode": "MATH 203",
+    "courseName": "Introduction to Probability Theory I"
+  },
+  {
+    "courseCode": "MATH 225",
+    "courseName": "Linear Algebra I"
+  },
+  {
+    "courseCode": "MATH 303",
+    "courseName": "Complex Analysis"
+  },
+  {
+    "courseCode": "MATH 305",
+    "courseName": "Optimization I"
+  },
+  {
+    "courseCode": "MATH 307",
+    "courseName": "Introduction to Stochastic Processes I"
+  },
+  {
+    "courseCode": "MATH 313",
+    "courseName": "Programming Techniques in Applied Mathematics"
+  },
+  {
+    "courseCode": "MATH 401",
+    "courseName": "Topology I"
+  },
+  {
+    "courseCode": "MATH 470",
+    "courseName": "Introduction to Cryptography"
+  },
+  {
+    "courseCode": "GENS 212",
+    "courseName": "History and Philosophy of Astronomy"
+  },
+  {
+    "courseCode": "GEIN 304",
+    "courseName": "Applied Entrepreneurship and Inovation Management "
+  },
+  {
+    "courseCode": "GEAR 302",
+    "courseName": "World Museums"
+  },
+  {
+    "courseCode": "GEAR 220",
+    "courseName": "Fine and App. Arts from Ottoman Era to Cont. Turk."
+  },
+  {
+    "courseCode": "GEAR 301",
+    "courseName": "Introduction to Arts and Drawing"
+  },
+  {
+    "courseCode": "EEE 215",
+    "courseName": "Introduction to Electrical Circuits and Electronics for Computer Engineers"
+  },
+  {
+    "courseCode": "MCE 202",
+    "courseName": "Microcontrollers"
+  },
+  {
+    "courseCode": "MCE 402",
+    "courseName": "Mechatronic System Design"
+  },
+  {
+    "courseCode": "ARCH 495",
+    "courseName": "Ethics and Social Responsibility in Architecture"
+  },
+  {
+    "courseCode": "MTOI 101",
+    "courseName": "Introduction to Tourism"
+  },
+  {
+    "courseCode": "HYHY 101",
+    "courseName": "Introduction to Civil Aviation"
+  },
+  {
+    "courseCode": "HYHY 209",
+    "courseName": "Customer Relations Management "
+  },
+  {
+    "courseCode": "HYHY 203",
+    "courseName": "Airline Cargo and Logistics Management"
+  },
+  {
+    "courseCode": "HYHY 205",
+    "courseName": "Navigation and Air Traffic Rules"
+  },
+  {
+    "courseCode": "HYHY 201",
+    "courseName": "Reservation and Ticket Sales in Aviation"
+  },
+  {
+    "courseCode": "SHKH 203",
+    "courseName": "Dangerous Goods Training"
+  },
+  {
+    "courseCode": "HYHY 207",
+    "courseName": "Strategic Management in Aviation"
+  },
+  {
+    "courseCode": "MBP 103",
+    "courseName": "Fundamentals of Web Design "
+  },
+  {
+    "courseCode": "MBP 211",
+    "courseName": "Basics of Networking"
+  },
+  {
+    "courseCode": "AET 101",
+    "courseName": "Vocabulary and Composition I"
+  },
+  {
+    "courseCode": "IE 372",
+    "courseName": "Project Management"
+  },
+  {
+    "courseCode": "DT 120",
+    "courseName": "Marketing Techniques of Foreign Trade"
+  },
+  {
+    "courseCode": "BNK 101",
+    "courseName": "Introduction to Insurance"
+  },
+  {
+    "courseCode": "BNK 201",
+    "courseName": "Basic Credit Transactions"
+  },
+  {
+    "courseCode": "BNK 203",
+    "courseName": "Insurance Transactions I "
+  },
+  {
+    "courseCode": "EEE 461",
+    "courseName": "Embedded System Design"
+  },
+  {
+    "courseCode": "EEE 472",
+    "courseName": "Electrical Energy Transmission and Distribution"
+  },
+  {
+    "courseCode": "BNK 213",
+    "courseName": "Business Finance "
+  },
+  {
+    "courseCode": "LAW 103",
+    "courseName": "Introduction to Constitutional Law "
+  },
+  {
+    "courseCode": "COMM 101",
+    "courseName": "Introduction to Communication"
+  },
+  {
+    "courseCode": "SE 307",
+    "courseName": "Concepts of Object-Oriented Programming"
+  },
+  {
+    "courseCode": "SE 350",
+    "courseName": "Game Design"
+  },
+  {
+    "courseCode": "FENG 345",
+    "courseName": "Numerical Methods for Engineers I"
+  },
+  {
+    "courseCode": "ME 307",
+    "courseName": "Machine Elements I"
+  },
+  {
+    "courseCode": "ME 309",
+    "courseName": "Control Systems Theory"
+  },
+  {
+    "courseCode": "ME 403",
+    "courseName": "Mechanical Engineering Design"
+  },
+  {
+    "courseCode": "FYT 203",
+    "courseName": "Movement System Diseases"
+  },
+  {
+    "courseCode": "FYT 210",
+    "courseName": "Surface Anatomy and Palpation"
+  },
+  {
+    "courseCode": "ITF 223",
+    "courseName": "International Business Transactions"
+  },
+  {
+    "courseCode": "MBP 251",
+    "courseName": "Artificial Intelligence and Blockchain"
+  },
+  {
+    "courseCode": "PRA 205",
+    "courseName": "Principles of Public Relations"
+  },
+  {
+    "courseCode": "PRA 417",
+    "courseName": "Event Management"
+  },
+  {
+    "courseCode": "PRA 317",
+    "courseName": "Public Relations Writing"
+  },
+  {
+    "courseCode": "PRA 495",
+    "courseName": "Public Relations Project Analysis"
+  },
+  {
+    "courseCode": "CLM 101",
+    "courseName": "Hygiene and Sanitation"
+  },
+  {
+    "courseCode": "IAED 201",
+    "courseName": "Design Studio I"
+  },
+  {
+    "courseCode": "ETI 201",
+    "courseName": "Lexicology"
+  },
+  {
+    "courseCode": "MBP 101",
+    "courseName": "Database Systems I "
+  },
+  {
+    "courseCode": "MTOI 105",
+    "courseName": "Travel Agents And Tour Operating"
+  },
+  {
+    "courseCode": "ETI 219",
+    "courseName": "Reading and Writing Scientific Texts"
+  },
+  {
+    "courseCode": "ARCH 301",
+    "courseName": "Architectural Design III"
+  },
+  {
+    "courseCode": "IA 401",
+    "courseName": "Visionary and Future Interior Arch. Studies"
+  },
+  {
+    "courseCode": "PHYS 100",
+    "courseName": "General Physics I"
+  },
+  {
+    "courseCode": "BUS 210",
+    "courseName": "Data Literacy for Business and Social Sciences"
+  },
+  {
+    "courseCode": "EEE 213",
+    "courseName": "Computational Methods for Engineers"
+  },
+  {
+    "courseCode": "MCE 306",
+    "courseName": "Fundamentals of Machine Design"
+  },
+  {
+    "courseCode": "MCE 310",
+    "courseName": "System Dynamics and Control"
+  },
+  {
+    "courseCode": "MBP 221",
+    "courseName": "Mobile Applications and Techologies"
+  },
+  {
+    "courseCode": "SHKH 115",
+    "courseName": "Aviation and Flight Basics"
+  },
+  {
+    "courseCode": "SHKH 111",
+    "courseName": "Aviation Principles and Terminology"
+  },
+  {
+    "courseCode": "SHKH 117",
+    "courseName": "World Culture and Destinations"
+  },
+  {
+    "courseCode": "SHKH 205",
+    "courseName": "Emergency Safety Rules I"
+  },
+  {
+    "courseCode": "RTV 140",
+    "courseName": "Basic Knowledge of Communication"
+  },
+  {
+    "courseCode": "DT 201",
+    "courseName": "Customs Procedures"
+  },
+  {
+    "courseCode": "DT 203",
+    "courseName": "Exports of Agricultural Products "
+  },
+  {
+    "courseCode": "DT 207",
+    "courseName": "E-Ticaret Uygulamaları "
+  },
+  {
+    "courseCode": "DT 209",
+    "courseName": "Professional Development Activities I "
+  },
+  {
+    "courseCode": "DT 214",
+    "courseName": "International Business Environments "
+  },
+  {
+    "courseCode": "BNK 205",
+    "courseName": "Capital Markets"
+  },
+  {
+    "courseCode": "BNK 206",
+    "courseName": "Individual Pension System and Life Insurances"
+  },
+  {
+    "courseCode": "BNK 207",
+    "courseName": "Banking Transactions I "
+  },
+  {
+    "courseCode": "EEE 207",
+    "courseName": "Electric Circuit Analysis I"
+  },
+  {
+    "courseCode": "ITF 304",
+    "courseName": "Quantitative Methods in Finance"
+  },
+  {
+    "courseCode": "ITF 401",
+    "courseName": "Applied Market Analysis"
+  },
+  {
+    "courseCode": "ITF 403",
+    "courseName": "Financial Risk Management"
+  },
+  {
+    "courseCode": "ITF 437",
+    "courseName": "Technological Advances in International Trade and Finance"
+  },
+  {
+    "courseCode": "ITF 460",
+    "courseName": "New Financial Ecosystem and FinTech"
+  },
+  {
+    "courseCode": "PSY 420",
+    "courseName": "Neuropsychological Assessment"
+  },
+  {
+    "courseCode": "LOG 312",
+    "courseName": "Simulation in Logistics"
+  },
+  {
+    "courseCode": "LOG 311",
+    "courseName": "Simulation in Logistics"
+  },
+  {
+    "courseCode": "CIVE 219",
+    "courseName": "Engineering Mechanics I: Statics"
+  },
+  {
+    "courseCode": "CIVE 209",
+    "courseName": "Technical Drawing"
+  },
+  {
+    "courseCode": "LOG 321",
+    "courseName": "Logistics Planning and Modelling I"
+  },
+  {
+    "courseCode": "LOG 351",
+    "courseName": "Applied Workshop in Logistics I"
+  },
+  {
+    "courseCode": "LOG 301",
+    "courseName": "Logistics Planning and Modelling I"
+  },
+  {
+    "courseCode": "ITF 419",
+    "courseName": "The International Business and Trade Culture"
+  },
+  {
+    "courseCode": "ITF 417",
+    "courseName": "Export Marketing and the Firm's Decision Process"
+  },
+  {
+    "courseCode": "SOC 101",
+    "courseName": "Introduction to Sociology I"
+  },
+  {
+    "courseCode": "SOC 303",
+    "courseName": "Social Change"
+  },
+  {
+    "courseCode": "SHKH 131",
+    "courseName": "Introduction to Civil Aviation"
+  },
+  {
+    "courseCode": "MISG 105",
+    "courseName": "Machinery and Equipment "
+  },
+  {
+    "courseCode": "ETI 319",
+    "courseName": "Translation Theory"
+  },
+  {
+    "courseCode": "ETI 123",
+    "courseName": "Introduction to Translation I"
+  },
+  {
+    "courseCode": "HINT 411",
+    "courseName": "Surgical Wards Nursing I"
+  },
+  {
+    "courseCode": "HINT 413",
+    "courseName": "Medical Wards Nursing I"
+  },
+  {
+    "courseCode": "ETI 215",
+    "courseName": "Contrastive Analysis of English&Turkish"
+  },
+  {
+    "courseCode": "ETI 311",
+    "courseName": "Translation of Texts on Economics"
+  },
+  {
+    "courseCode": "MATH 150",
+    "courseName": "Research Methods and Biostatistics"
+  },
+  {
+    "courseCode": "MATH 403",
+    "courseName": "Numerical Analysis I"
+  },
+  {
+    "courseCode": "MATH 441",
+    "courseName": "Functional Analysis I"
+  },
+  {
+    "courseCode": "ING 305",
+    "courseName": "Clinical English III"
+  },
+  {
+    "courseCode": "BA 315",
+    "courseName": "Creativity and Innovation"
+  },
+  {
+    "courseCode": "BA 324",
+    "courseName": "Brand Management"
+  },
+  {
+    "courseCode": "BA 330",
+    "courseName": "Organizational Behavior"
+  },
+  {
+    "courseCode": "BA 400",
+    "courseName": "Project Management"
+  },
+  {
+    "courseCode": "BA 409",
+    "courseName": "Managerial and Organizational Develop."
+  },
+  {
+    "courseCode": "BA 419",
+    "courseName": "Human Resources Management"
+  },
+  {
+    "courseCode": "BA 443",
+    "courseName": "Essentials of Internal Controls and Internal Audit"
+  },
+  {
+    "courseCode": "BA 445",
+    "courseName": "Business Context in Turkey"
+  },
+  {
+    "courseCode": "BILT 100",
+    "courseName": "Introduction to Computer and Information Tech. "
+  },
+  {
+    "courseCode": "RTV 104",
+    "courseName": "Applied Image Technics "
+  },
+  {
+    "courseCode": "RTV 101",
+    "courseName": "Introduction to Communication "
+  },
+  {
+    "courseCode": "RTV 103",
+    "courseName": "Video and Sound Techniques"
+  },
+  {
+    "courseCode": "RTV 107",
+    "courseName": "Script Writing "
+  },
+  {
+    "courseCode": "RTV 201",
+    "courseName": "News Collecting and Writing "
+  },
+  {
+    "courseCode": "RTV 203",
+    "courseName": "Radio and Podcast Program Production"
+  },
+  {
+    "courseCode": "RTV 209",
+    "courseName": "Sociology of Communication "
+  },
+  {
+    "courseCode": "RTV 211",
+    "courseName": "Video Applications"
+  },
+  {
+    "courseCode": "RTV 215",
+    "courseName": "The Art of Public Speaking"
+  },
+  {
+    "courseCode": "RTV 223",
+    "courseName": "Film Critisism"
+  },
+  {
+    "courseCode": "MTOI 203",
+    "courseName": "Tourism Marketing"
+  },
+  {
+    "courseCode": "MTOI 209",
+    "courseName": "Food and Beverage Management"
+  },
+  {
+    "courseCode": "HYHY 105",
+    "courseName": "Introduction to Ground Services"
+  },
+  {
+    "courseCode": "MMVD 105",
+    "courseName": "Basic Processes in Furniture Production"
+  },
+  {
+    "courseCode": "MMVD 201",
+    "courseName": "Place Equipment II"
+  },
+  {
+    "courseCode": "MMVD 212",
+    "courseName": "Quality and Assurance Standards"
+  },
+  {
+    "courseCode": "MMVD 250",
+    "courseName": "Current Approaches in Furniture Design"
+  },
+  {
+    "courseCode": "SHKH 209",
+    "courseName": "Crew Resource Management"
+  },
+  {
+    "courseCode": "DT 205",
+    "courseName": "Promotion of Foreign Trade "
+  },
+  {
+    "courseCode": "CDM 111",
+    "courseName": "History of Moving Images"
+  },
+  {
+    "courseCode": "CDM 431",
+    "courseName": "Moving Images in a Digital Age"
+  },
+  {
+    "courseCode": "CDM 203",
+    "courseName": "Creative Writing"
+  },
+  {
+    "courseCode": "CDM 217",
+    "courseName": "Women’s Cinema"
+  },
+  {
+    "courseCode": "NMC 105",
+    "courseName": "Visual Culture"
+  },
+  {
+    "courseCode": "AET 105",
+    "courseName": "Translation and Language"
+  },
+  {
+    "courseCode": "NMC 203",
+    "courseName": "Sociology of Communication"
+  },
+  {
+    "courseCode": "NMC 201",
+    "courseName": "Media and Politics"
+  },
+  {
+    "courseCode": "NMC 207",
+    "courseName": "Reporting"
+  },
+  {
+    "courseCode": "NMC 209",
+    "courseName": "New Media Practice I"
+  },
+  {
+    "courseCode": "NMC 302",
+    "courseName": "Ethics"
+  },
+  {
+    "courseCode": "NMC 301",
+    "courseName": "Digital Production Studio I"
+  },
+  {
+    "courseCode": "NMC 303",
+    "courseName": "Media Industries"
+  },
+  {
+    "courseCode": "NMC 401",
+    "courseName": "New Media Portfolio I"
+  },
+  {
+    "courseCode": "CDM 311",
+    "courseName": "Film Seminar III: Experimental Cinema and Video Art"
+  },
+  {
+    "courseCode": "CDM 216",
+    "courseName": "History and Theory of Documentary Film"
+  },
+  {
+    "courseCode": "BNK 117",
+    "courseName": "Claims Management"
+  },
+  {
+    "courseCode": "EEE 242",
+    "courseName": "Digital Design"
+  },
+  {
+    "courseCode": "EEE 411",
+    "courseName": "Control Systems"
+  },
+  {
+    "courseCode": "EEE 427",
+    "courseName": "Introduction to Power Electronics"
+  },
+  {
+    "courseCode": "EEE 442",
+    "courseName": "Digital Communications"
+  },
+  {
+    "courseCode": "HEM 410",
+    "courseName": "Intercultural Nursing"
+  },
+  {
+    "courseCode": "SB 220",
+    "courseName": "Health Promotion"
+  },
+  {
+    "courseCode": "IAED 345",
+    "courseName": "Earthquake Resistant Interiors"
+  },
+  {
+    "courseCode": "IAED 347",
+    "courseName": "Field Studies in Interior Architecture"
+  },
+  {
+    "courseCode": "IAED 352",
+    "courseName": "Introduction to Housing Studies"
+  },
+  {
+    "courseCode": "FTR 301",
+    "courseName": "Neurological Rehabilitation"
+  },
+  {
+    "courseCode": "ME 203",
+    "courseName": "Engineering Drawing"
+  },
+  {
+    "courseCode": "ME 320",
+    "courseName": "Manufacturing Automation"
+  },
+  {
+    "courseCode": "FTR 303",
+    "courseName": "Cardiopulmonary Rehabilitation"
+  },
+  {
+    "courseCode": "FTR 305",
+    "courseName": "Neurophysiological Approaches I"
+  },
+  {
+    "courseCode": "FTR 326",
+    "courseName": "Physiotherapy and Rehabilitation in Sports"
+  },
+  {
+    "courseCode": "FTR 307",
+    "courseName": "Research Design and Biostatistics"
+  },
+  {
+    "courseCode": "FTR 310",
+    "courseName": "Aquatherapy"
+  },
+  {
+    "courseCode": "BME 317",
+    "courseName": "Biomedical Mass Transport and Chemical Reactions"
+  },
+  {
+    "courseCode": "BME 323",
+    "courseName": "Medical Imaging"
+  },
+  {
+    "courseCode": "BME 310",
+    "courseName": "Introduction to Bioinformatics"
+  },
+  {
+    "courseCode": "ECON 211",
+    "courseName": "Theory of Microeconomics I"
+  },
+  {
+    "courseCode": "ECON 215",
+    "courseName": "Mathematical Economics I"
+  },
+  {
+    "courseCode": "ECON 303",
+    "courseName": "Money and Banking"
+  },
+  {
+    "courseCode": "ECON 305",
+    "courseName": "International Economics I"
+  },
+  {
+    "courseCode": "ECON 401",
+    "courseName": "Structure of Turkish Economy"
+  },
+  {
+    "courseCode": "ECON 426",
+    "courseName": "Development Economics"
+  },
+  {
+    "courseCode": "ECON 450",
+    "courseName": "Cultural Economics"
+  },
+  {
+    "courseCode": "PSY 311",
+    "courseName": "Clinical Observation and Interview"
+  },
+  {
+    "courseCode": "PSY 430",
+    "courseName": "Clinical Observation and Interview"
+  },
+  {
+    "courseCode": "CIVE 207",
+    "courseName": "Material Science"
+  },
+  {
+    "courseCode": "CIVE 311",
+    "courseName": "Reinforced Concrete"
+  },
+  {
+    "courseCode": "CIVE 480",
+    "courseName": "Construction Management"
+  },
+  {
+    "courseCode": "CG 101",
+    "courseName": "Child Development I"
+  },
+  {
+    "courseCode": "CG 103",
+    "courseName": "Special Education I "
+  },
+  {
+    "courseCode": "CG 105",
+    "courseName": "Instructional Technologies And Material Design"
+  },
+  {
+    "courseCode": "CG 107",
+    "courseName": "Learning and Teaching Techniques"
+  },
+  {
+    "courseCode": "CG 201",
+    "courseName": "Vocational Education and Practice II"
+  },
+  {
+    "courseCode": "CG 203",
+    "courseName": "Maternal"
+  },
+  {
+    "courseCode": "CG 205",
+    "courseName": "Child and Drama "
+  },
+  {
+    "courseCode": "CG 207",
+    "courseName": "Teaching Mathematics at Preschool Period"
+  },
+  {
+    "courseCode": "CG 211",
+    "courseName": "Program Development in Preschool Education"
+  },
+  {
+    "courseCode": "CG 217",
+    "courseName": "Child Literature and Media"
+  },
+  {
+    "courseCode": "YB 101",
+    "courseName": "Elderly Care Principles and Practices I"
+  },
+  {
+    "courseCode": "YB 109",
+    "courseName": "Basic Gerontology"
+  },
+  {
+    "courseCode": "TGT 203",
+    "courseName": "Nuclear Medicine"
+  },
+  {
+    "courseCode": "TGT 209",
+    "courseName": "Advanced CT and MRI Techniques"
+  },
+  {
+    "courseCode": "TDS 101",
+    "courseName": "Medical Documentation I "
+  },
+  {
+    "courseCode": "TLT 203",
+    "courseName": "Medical Biology and Genetics"
+  },
+  {
+    "courseCode": "TLT 205",
+    "courseName": "Organization in a Medical Laboratory"
+  },
+  {
+    "courseCode": "TLT 207",
+    "courseName": "Immunological Methods"
+  },
+  {
+    "courseCode": "TLT 212",
+    "courseName": "Histological Techniques"
+  },
+  {
+    "courseCode": "BA 377",
+    "courseName": "Marketing Research"
+  },
+  {
+    "courseCode": "CG 212",
+    "courseName": "Child Rights and Protection"
+  },
+  {
+    "courseCode": "BA 356",
+    "courseName": "Leadership and Governance"
+  },
+  {
+    "courseCode": "IAED 401",
+    "courseName": "Introduction to Restoration and Preservation"
+  },
+  {
+    "courseCode": "IAED 404",
+    "courseName": "Portfolio Design"
+  },
+  {
+    "courseCode": "IAED 470",
+    "courseName": "Interior Detailing"
+  },
+  {
+    "courseCode": "IAED 410",
+    "courseName": "Environment Behavior Studies "
+  },
+  {
+    "courseCode": "HUM 103",
+    "courseName": "Principles of Social Sciences I"
+  },
+  {
+    "courseCode": "SOC 221",
+    "courseName": "Classical Theories of Sociology "
+  },
+  {
+    "courseCode": "SOC 410",
+    "courseName": "Myths, Beliefs and Thoughts in History "
+  },
+  {
+    "courseCode": "SOC 445",
+    "courseName": "Culture and Society"
+  },
+  {
+    "courseCode": "IUE 310",
+    "courseName": "Volunteer Works"
+  },
+  {
+    "courseCode": "MBP 203",
+    "courseName": "Database and Management "
+  },
+  {
+    "courseCode": "MBP 207",
+    "courseName": "Visual Programming II"
+  },
+  {
+    "courseCode": "AET 207",
+    "courseName": "Translation II"
+  },
+  {
+    "courseCode": "AET 209",
+    "courseName": "Professional Ethics"
+  },
+  {
+    "courseCode": "SOC 211",
+    "courseName": "Quantitative Methods for Social Sciences"
+  },
+  {
+    "courseCode": "MBP 205",
+    "courseName": "Object Oriented Programming II "
+  },
+  {
+    "courseCode": "ARCH 303",
+    "courseName": "Building Construction Project I"
+  },
+  {
+    "courseCode": "AET 203",
+    "courseName": "Technic Translation"
+  },
+  {
+    "courseCode": "AET 205",
+    "courseName": "Literature and Translation"
+  },
+  {
+    "courseCode": "OPT 201",
+    "courseName": "Visual Optics II"
+  },
+  {
+    "courseCode": "OPT 205",
+    "courseName": "Principles of Marketing and Sale"
+  },
+  {
+    "courseCode": "OPT 208",
+    "courseName": "Applications of Software Package Program for Opticianry"
+  },
+  {
+    "courseCode": "ETI 117",
+    "courseName": "Oral Communication Skills"
+  },
+  {
+    "courseCode": "ETI 121",
+    "courseName": "English Composition/Writing Skill"
+  },
+  {
+    "courseCode": "GEAR 212",
+    "courseName": "Basic Photography"
+  },
+  {
+    "courseCode": "PSIR 309",
+    "courseName": "International Organizations"
+  },
+  {
+    "courseCode": "PSIR 340",
+    "courseName": "Globalization and the World System"
+  },
+  {
+    "courseCode": "PSIR 390",
+    "courseName": "American Foreign Policy"
+  },
+  {
+    "courseCode": "PSIR 442",
+    "courseName": "Citizenship, Multiculturalism and Democracy"
+  },
+  {
+    "courseCode": "PSIR 444",
+    "courseName": "International Relations Through Motion Pictures"
+  },
+  {
+    "courseCode": "PSIR 450",
+    "courseName": "International Security"
+  },
+  {
+    "courseCode": "MMIR 101",
+    "courseName": "Technical Drawing"
+  },
+  {
+    "courseCode": "MMIR 201",
+    "courseName": "The Ancient Monuments Preservation and Restoration Policy"
+  },
+  {
+    "courseCode": "MMIR 203",
+    "courseName": "Traditional Building Materials"
+  },
+  {
+    "courseCode": "MMIR 205",
+    "courseName": "Material Deteriorations and Repairment"
+  },
+  {
+    "courseCode": "MMIR 207",
+    "courseName": "Decoration of Traditional Buildings"
+  },
+  {
+    "courseCode": "MMIR 211",
+    "courseName": "Restoration Chemistry"
+  },
+  {
+    "courseCode": "MMIR 231",
+    "courseName": "Architectural Movements"
+  },
+  {
+    "courseCode": "MCE 350",
+    "courseName": "Industrial Embedded Systems"
+  },
+  {
+    "courseCode": "MCE 412",
+    "courseName": "Autonomous Robotics"
+  },
+  {
+    "courseCode": "SHKH 201",
+    "courseName": "Medical Issues and First Aid Training "
+  },
+  {
+    "courseCode": "IE 325",
+    "courseName": "Modeling and Analysis of Supply Chains"
+  },
+  {
+    "courseCode": "IE 329",
+    "courseName": "Lean Production"
+  },
+  {
+    "courseCode": "IE 337",
+    "courseName": "Industrial Applications of Simulations"
+  },
+  {
+    "courseCode": "IE 343",
+    "courseName": "Data Mining"
+  },
+  {
+    "courseCode": "IE 359",
+    "courseName": "Network Optimization"
+  },
+  {
+    "courseCode": "IE 376",
+    "courseName": "Enterprise Resource Planning with SAP"
+  },
+  {
+    "courseCode": "CDM 231",
+    "courseName": "Digital Film Studio I"
+  },
+  {
+    "courseCode": "CDM 211",
+    "courseName": "Film Seminar I:Narrative Forms and Styles"
+  },
+  {
+    "courseCode": "MINT 201",
+    "courseName": "Insulation Technology "
+  },
+  {
+    "courseCode": "AET 201",
+    "courseName": "Interpreting I"
+  },
+  {
+    "courseCode": "MINT 203",
+    "courseName": "Prefabricated Structures"
+  },
+  {
+    "courseCode": "MINT 205",
+    "courseName": "Construction Machines"
+  },
+  {
+    "courseCode": "MINT 207",
+    "courseName": "Project Etude and Application"
+  },
+  {
+    "courseCode": "MINT 209",
+    "courseName": "Water Supply and Transmission"
+  },
+  {
+    "courseCode": "MINT 250",
+    "courseName": "Reinforced Concrete"
+  },
+  {
+    "courseCode": "CDM 331",
+    "courseName": "Digital Film Studio III"
+  },
+  {
+    "courseCode": "EEE 333",
+    "courseName": "Analog Electronic Circuits"
+  },
+  {
+    "courseCode": "CDM 201",
+    "courseName": "Theory and Practice of the Moving Image I"
+  },
+  {
+    "courseCode": "PSIR 400",
+    "courseName": "Conflict Resolution"
+  },
+  {
+    "courseCode": "ME 311",
+    "courseName": "Cost Analysis and Engineering Management"
+  },
+  {
+    "courseCode": "ME 410",
+    "courseName": "Computer Aided Design and Manufacturing"
+  },
+  {
+    "courseCode": "ME 423",
+    "courseName": "Finite Element Method"
+  },
+  {
+    "courseCode": "ME 426",
+    "courseName": "Vehicle Aerodynamics"
+  },
+  {
+    "courseCode": "AE 301",
+    "courseName": "Aerodynamics"
+  },
+  {
+    "courseCode": "AE 302",
+    "courseName": "Space Environment"
+  },
+  {
+    "courseCode": "AE 305",
+    "courseName": "Automatic Control"
+  },
+  {
+    "courseCode": "AE 311",
+    "courseName": "Orbital Mechanics"
+  },
+  {
+    "courseCode": "AE 401",
+    "courseName": "Rocket Propulsion"
+  },
+  {
+    "courseCode": "AE 404",
+    "courseName": "Spacecraft Communications"
+  },
+  {
+    "courseCode": "AE 409",
+    "courseName": "Propulsion Systems"
+  },
+  {
+    "courseCode": "AE 416",
+    "courseName": "Unmanned Aerial Vehicle"
+  },
+  {
+    "courseCode": "AE 419",
+    "courseName": "Introduction to CFD"
+  },
+  {
+    "courseCode": "AE 428",
+    "courseName": "Hypersonic Systems"
+  },
+  {
+    "courseCode": "BME 319",
+    "courseName": "Biomedical Electronic Circuits"
+  },
+  {
+    "courseCode": "LOG 405",
+    "courseName": "Procurement Management"
+  },
+  {
+    "courseCode": "LOG 315",
+    "courseName": "Supply Chain Strategies and Sustainability"
+  },
+  {
+    "courseCode": "CIVE 324",
+    "courseName": "Structural Steel Design"
+  },
+  {
+    "courseCode": "CIVE 414",
+    "courseName": "Foundation Engineering"
+  },
+  {
+    "courseCode": "CIVE 418",
+    "courseName": "Structural Health Monitoring"
+  },
+  {
+    "courseCode": "CIVE 424",
+    "courseName": "Hydrology and Water Resources"
+  },
+  {
+    "courseCode": "CIVE 428",
+    "courseName": "Earthquake Engineering"
+  },
+  {
+    "courseCode": "CIVE 441",
+    "courseName": "Prefabricated Structures"
+  },
+  {
+    "courseCode": "LOG 472",
+    "courseName": "Humanitarian Logistics and Supply Chain Management"
+  },
+  {
+    "courseCode": "LOG 455",
+    "courseName": "Case Studies and Applications in Logistics"
+  },
+  {
+    "courseCode": "LOG 450",
+    "courseName": "Terminal Operations And Management"
+  },
+  {
+    "courseCode": "FA 390",
+    "courseName": "Fashion Brand Communication"
+  },
+  {
+    "courseCode": "TLT 201",
+    "courseName": "Basic Laboratory Practice I"
+  },
+  {
+    "courseCode": "BLG 153",
+    "courseName": "Computer Aided Office Programs I"
+  },
+  {
+    "courseCode": "MBP 252",
+    "courseName": "Application Development on Low Code Platform"
+  },
+  {
+    "courseCode": "SOC 205",
+    "courseName": "Cultural Anthropology"
+  },
+  {
+    "courseCode": "SOC 313",
+    "courseName": "Political Sociology"
+  },
+  {
+    "courseCode": "SOC 321",
+    "courseName": "Social Structure of Turkey"
+  },
+  {
+    "courseCode": "LOG 401",
+    "courseName": "Procurement and Inventory Management"
+  },
+  {
+    "courseCode": "PRA 313",
+    "courseName": "Marketing Communication Research"
+  },
+  {
+    "courseCode": "CLM 301",
+    "courseName": "Professional Skills Laboratory I"
+  },
+  {
+    "courseCode": "GER 101",
+    "courseName": "German Language I"
+  },
+  {
+    "courseCode": "GER 201",
+    "courseName": "German Language III"
+  },
+  {
+    "courseCode": "FR 121",
+    "courseName": "French Language for English Translation and Interpreting I"
+  },
+  {
+    "courseCode": "FR 104",
+    "courseName": "French Language II"
+  },
+  {
+    "courseCode": "FR 103",
+    "courseName": "French Language I"
+  },
+  {
+    "courseCode": "SPN 310",
+    "courseName": "Speaking Skills in Spanish"
+  },
+  {
+    "courseCode": "SPN 201",
+    "courseName": "Spanish Language III"
+  },
+  {
+    "courseCode": "SPN 102",
+    "courseName": "Spanish Language II"
+  },
+  {
+    "courseCode": "SPN 101",
+    "courseName": "Spanish Language I"
+  },
+  {
+    "courseCode": "SPN 330",
+    "courseName": "Spanish and Latin America Culture"
+  },
+  {
+    "courseCode": "SPN 202",
+    "courseName": "Spanish Language IV"
+  },
+  {
+    "courseCode": "SPN 340",
+    "courseName": "Basic Business Spanish"
+  },
+  {
+    "courseCode": "SPN 350",
+    "courseName": "Exam Preparation In Spanish A2 Level"
+  },
+  {
+    "courseCode": "RUS 101",
+    "courseName": "Russian Language I"
+  },
+  {
+    "courseCode": "RUS 201",
+    "courseName": "Russian Language III"
+  },
+  {
+    "courseCode": "RUS 102",
+    "courseName": "Russian Language II"
+  },
+  {
+    "courseCode": "RUS 202",
+    "courseName": "Russian Language IV"
+  },
+  {
+    "courseCode": "RUS 301",
+    "courseName": "Russian Language V"
+  },
+  {
+    "courseCode": "SPN 320",
+    "courseName": "Spanish and Latin Music, Dance and Carnival Culture"
+  },
+  {
+    "courseCode": "GER 102",
+    "courseName": "German Language II"
+  },
+  {
+    "courseCode": "GER 301",
+    "courseName": "German Language V"
+  },
+  {
+    "courseCode": "SPN 301",
+    "courseName": "Spanish Language V"
+  },
+  {
+    "courseCode": "GER 121",
+    "courseName": "German I"
+  },
+  {
+    "courseCode": "GER 202",
+    "courseName": "German Language IV"
+  },
+  {
+    "courseCode": "ARCH 401",
+    "courseName": "Architectural Design V"
+  },
+  {
+    "courseCode": "MISG 106",
+    "courseName": "Introduction to Business Law"
+  },
+  {
+    "courseCode": "IA 301",
+    "courseName": "Interior Architecture Studio I"
+  },
+  {
+    "courseCode": "MMIR 107",
+    "courseName": "Computer Aided Technical Drawing"
+  },
+  {
+    "courseCode": "MINT 101",
+    "courseName": "Statics"
+  },
+  {
+    "courseCode": "ENG 101",
+    "courseName": "Academic Skills in English I"
+  },
+  {
+    "courseCode": "FR 201",
+    "courseName": "French Language III"
+  },
+  {
+    "courseCode": "FR 202",
+    "courseName": "French Language IV"
+  },
+  {
+    "courseCode": "ENG 410",
+    "courseName": "English for Career Development"
+  },
+  {
+    "courseCode": "ING 101",
+    "courseName": "English I"
+  },
+  {
+    "courseCode": "FR 221",
+    "courseName": "French Language for English Translation and Interpreting III"
+  },
+  {
+    "courseCode": "ING 205",
+    "courseName": "Clinical English I"
+  },
+  {
+    "courseCode": "ITL 104",
+    "courseName": "Italian Language II"
+  },
+  {
+    "courseCode": "IAED 207",
+    "courseName": "Environmental Control Systems for IAED"
+  },
+  {
+    "courseCode": "MINT 105",
+    "courseName": "Technical Drawing"
+  },
+  {
+    "courseCode": "CDM 450",
+    "courseName": "Digital Image Composing Techniques and Special Effects"
+  },
+  {
+    "courseCode": "HFS 100",
+    "courseName": "Princ. of Atatürk and Hist. of Revol. "
+  },
+  {
+    "courseCode": "TR 101",
+    "courseName": "Turkish I"
+  },
+  {
+    "courseCode": "FR 421",
+    "courseName": "French Language for English Translation and Interpreting VII"
+  },
+  {
+    "courseCode": "ITL 320",
+    "courseName": "Basic Level Exam Preparation in Italian"
+  },
+  {
+    "courseCode": "ITL 421",
+    "courseName": "Italian Language for English Translation and Interpreting VII"
+  },
+  {
+    "courseCode": "ITL 103",
+    "courseName": "Italian Language I"
+  },
+  {
+    "courseCode": "ITL 121",
+    "courseName": "Italian Language for English Translation and Interpreting I"
+  },
+  {
+    "courseCode": "ITL 310",
+    "courseName": "Italian Art and Culture"
+  },
+  {
+    "courseCode": "ITL 321",
+    "courseName": "Italian Language for English Translation and Interpreting V"
+  },
+  {
+    "courseCode": "FR 413",
+    "courseName": "La Communication en Français par le Cinéma"
+  },
+  {
+    "courseCode": "JPN 101",
+    "courseName": "Japanese Language I"
+  },
+  {
+    "courseCode": "JPN 201",
+    "courseName": "Japanese Language III"
+  },
+  {
+    "courseCode": "JPN 301",
+    "courseName": "Japanese Language V"
+  },
+  {
+    "courseCode": "JPN 401",
+    "courseName": "Japanese Language VII"
+  },
+  {
+    "courseCode": "ITL 201",
+    "courseName": "Italian Language III"
+  },
+  {
+    "courseCode": "ITL 202",
+    "courseName": "Italian Language IV"
+  },
+  {
+    "courseCode": "ITL 221",
+    "courseName": "Italian Language for English Translation and Interpreting III"
+  },
+  {
+    "courseCode": "ING 210",
+    "courseName": "Aviation English for Cabin Crew I"
+  },
+  {
+    "courseCode": "ING 230",
+    "courseName": "Aviation English for Ground Services I"
+  },
+  {
+    "courseCode": "ITL 330",
+    "courseName": "Speaking Skills in Italian"
+  },
+  {
+    "courseCode": "GER 310",
+    "courseName": "Business in German"
+  },
+  {
+    "courseCode": "GER 320",
+    "courseName": "German Culture and Art"
+  },
+  {
+    "courseCode": "ING 105",
+    "courseName": "Academic Skills in English I"
+  },
+  {
+    "courseCode": "CHN 101",
+    "courseName": "Chinese Language I"
+  },
+  {
+    "courseCode": "ING 251",
+    "courseName": "English for Tourism I"
+  },
+  {
+    "courseCode": "CHN 201",
+    "courseName": "Chinese Language III"
+  },
+  {
+    "courseCode": "GEMC 201",
+    "courseName": "Mathematical Thought "
+  },
+  {
+    "courseCode": "GER 401",
+    "courseName": "German Language VII"
+  },
+  {
+    "courseCode": "BA 347",
+    "courseName": "Intermediate Accounting I"
+  },
+  {
+    "courseCode": "MMIR 209",
+    "courseName": "Conservation Project "
+  },
+  {
+    "courseCode": "MGT 131",
+    "courseName": "Typography I"
+  },
+  {
+    "courseCode": "MGT 151",
+    "courseName": "Basic Graphic Design"
+  },
+  {
+    "courseCode": "MGT 201",
+    "courseName": "Graphic Design Project I"
+  },
+  {
+    "courseCode": "MGT 203",
+    "courseName": "Studio Photography"
+  },
+  {
+    "courseCode": "MGT 205",
+    "courseName": "Multimedia I"
+  },
+  {
+    "courseCode": "MGT 207",
+    "courseName": "Sprite Graphics Design"
+  },
+  {
+    "courseCode": "MGT 209",
+    "courseName": "Animation Techniques"
+  },
+  {
+    "courseCode": "MGT 225",
+    "courseName": "Graphic Applications on Social Media"
+  },
+  {
+    "courseCode": "MGT 226",
+    "courseName": "Introduction to Computer Aided Graphic Design"
+  },
+  {
+    "courseCode": "MGT 227",
+    "courseName": "Recent Approaches in Graphics"
+  },
+  {
+    "courseCode": "MCE 460",
+    "courseName": "Intelligent Systems"
+  },
+  {
+    "courseCode": "RTV 106",
+    "courseName": "Editing Theory and Techniques"
+  },
+  {
+    "courseCode": "RTV 217",
+    "courseName": "Sound Design"
+  },
+  {
+    "courseCode": "MICM 109",
+    "courseName": "Principles of Basic Design"
+  },
+  {
+    "courseCode": "ACC 301",
+    "courseName": "Fundamentals of Accounting Information Systems"
+  },
+  {
+    "courseCode": "DM 401",
+    "courseName": "Design Project Management II"
+  },
+  {
+    "courseCode": "ID 300",
+    "courseName": "Innovative Design Strategies"
+  },
+  {
+    "courseCode": "PD 409",
+    "courseName": "Industrial Design Studio II"
+  },
+  {
+    "courseCode": "FFD 300",
+    "courseName": "Design Competition Project"
+  },
+  {
+    "courseCode": "NMC 205",
+    "courseName": "Visual Design"
+  },
+  {
+    "courseCode": "NMC 313",
+    "courseName": "Lighting Design in Digital Media"
+  },
+  {
+    "courseCode": "NMC 466",
+    "courseName": "Digital Photography"
+  },
+  {
+    "courseCode": "NMC 320",
+    "courseName": "Technology Literacy and Information Ethics"
+  },
+  {
+    "courseCode": "CDM 497",
+    "courseName": "Senior Project I"
+  },
+  {
+    "courseCode": "ETI 440",
+    "courseName": "Audio-Visual Translation"
+  },
+  {
+    "courseCode": "ETI 337",
+    "courseName": "Consecutive Interpreting I"
+  },
+  {
+    "courseCode": "IAED 342",
+    "courseName": "Digital Photography"
+  },
+  {
+    "courseCode": "VCD 101",
+    "courseName": "Introduction to Design and Digital Media"
+  },
+  {
+    "courseCode": "VCD 111",
+    "courseName": "Drawing Studio I"
+  },
+  {
+    "courseCode": "VCD 207",
+    "courseName": "Basic Photography"
+  },
+  {
+    "courseCode": "MMD 494",
+    "courseName": "Graduation Thesis"
+  },
+  {
+    "courseCode": "VCD 211",
+    "courseName": "Drawing Studio II"
+  },
+  {
+    "courseCode": "AE 304",
+    "courseName": "Flight Mechanics"
+  },
+  {
+    "courseCode": "ECON 301",
+    "courseName": "Econometrics"
+  },
+  {
+    "courseCode": "ECON 440",
+    "courseName": "Health Economics"
+  },
+  {
+    "courseCode": "LOG 203",
+    "courseName": "Logistics Operations Management"
+  },
+  {
+    "courseCode": "LOG 446",
+    "courseName": "Lean Supply Chain Management"
+  },
+  {
+    "courseCode": "CIVE 214",
+    "courseName": "Engineering Geology"
+  },
+  {
+    "courseCode": "CIVE 305",
+    "courseName": "Hydromechanics"
+  },
+  {
+    "courseCode": "CIVE 307",
+    "courseName": "Materials of Construction"
+  },
+  {
+    "courseCode": "CIVE 425",
+    "courseName": "Computer Applications in Structural Engineering"
+  },
+  {
+    "courseCode": "FA 411",
+    "courseName": "Fashion Photography and Styling "
+  },
+  {
+    "courseCode": "ITF 301",
+    "courseName": "International Finance"
+  },
+  {
+    "courseCode": "YB 201",
+    "courseName": "Aged Care Principles And Practices III"
+  },
+  {
+    "courseCode": "YB 203",
+    "courseName": "Chronic Diseases in the Elderly"
+  },
+  {
+    "courseCode": "YB 207",
+    "courseName": "Clinical Practice I"
+  },
+  {
+    "courseCode": "TDS 205",
+    "courseName": "Professional Writing Skills I"
+  },
+  {
+    "courseCode": "TDS 207",
+    "courseName": "Medical Documentation III"
+  },
+  {
+    "courseCode": "TDS 215",
+    "courseName": "Vocational Practice"
+  },
+  {
+    "courseCode": "GD 304",
+    "courseName": "Packaging Design"
+  },
+  {
+    "courseCode": "SOC 499",
+    "courseName": "Sociology Project I"
+  },
+  {
+    "courseCode": "LOG 101",
+    "courseName": "Principles of Logistics I"
+  },
+  {
+    "courseCode": "CLM 401",
+    "courseName": "Professional Skills Laboratory III"
+  },
+  {
+    "courseCode": "MISG 201",
+    "courseName": "Risk Analysis Methods in Workshops"
+  },
+  {
+    "courseCode": "ETI 307",
+    "courseName": "Consecutive Interpreting I"
+  },
+  {
+    "courseCode": "FA 301",
+    "courseName": "Fashion Theory"
+  },
+  {
+    "courseCode": "FD 401",
+    "courseName": "Fashion Design Studio: Collection IV"
+  },
+  {
+    "courseCode": "FR 321",
+    "courseName": "French Language for English Translation and Interpreting V"
+  },
+  {
+    "courseCode": "MICM 205",
+    "courseName": "Computer Aided Drawing II"
+  },
+  {
+    "courseCode": "VCD 300",
+    "courseName": "Game Design"
+  },
+  {
+    "courseCode": "MMD 306",
+    "courseName": "Multimedia Design and Animation"
+  },
+  {
+    "courseCode": "MMD 401",
+    "courseName": "Design Studio V"
+  },
+  {
+    "courseCode": "FA 302",
+    "courseName": "Fashion Editorial and Writing"
+  },
+  {
+    "courseCode": "CLM 103",
+    "courseName": "Concepts and Skills for Culinary Arts I"
+  },
+  {
+    "courseCode": "CLM 213",
+    "courseName": "Cookıng and Bakıng Technıques"
+  },
+  {
+    "courseCode": "CLM 215",
+    "courseName": "Fundamentals of Pastry and Baking I"
+  },
+  {
+    "courseCode": "CLM 305",
+    "courseName": "Turkish Cuisine"
+  },
+  {
+    "courseCode": "CLM 325",
+    "courseName": "European Cuisine"
+  },
+  {
+    "courseCode": "CLM 424",
+    "courseName": "Regional Italian Cusine"
+  },
+  {
+    "courseCode": "CLM 341",
+    "courseName": "Cooking Chemistry: Applied Culinary Reactions"
+  },
+  {
+    "courseCode": "MICM 207",
+    "courseName": "Interior Applications Studio II"
+  },
+  {
+    "courseCode": "SOC 415",
+    "courseName": "Sociology of Family"
+  },
+  {
+    "courseCode": "ARCH 306",
+    "courseName": "Construction Management"
+  },
+  {
+    "courseCode": "ARCH 328",
+    "courseName": "Designing with Nature:Biomimicry in Arch. Des."
+  },
+  {
+    "courseCode": "ARCH 332",
+    "courseName": "Architecture and The Utopian Imagination"
+  },
+  {
+    "courseCode": "ARCH 350",
+    "courseName": "Visuality and Architecture"
+  },
+  {
+    "courseCode": "ARCH 390",
+    "courseName": "Performance Spaces"
+  },
+  {
+    "courseCode": "ARCH 404",
+    "courseName": "Portfolio Design"
+  },
+  {
+    "courseCode": "ARCH 410",
+    "courseName": "Art, Design and Urban Space"
+  },
+  {
+    "courseCode": "ARCH 470",
+    "courseName": "Theories of Architectural Restoration and Conservation"
+  },
+  {
+    "courseCode": "ARCH 480",
+    "courseName": "Urban Design Principles"
+  },
+  {
+    "courseCode": "MICM 231",
+    "courseName": "Model Making for Interior Spaces"
+  },
+  {
+    "courseCode": "MISG 213",
+    "courseName": "Occopational Health and Safety in Construction Work"
+  },
+  {
+    "courseCode": "ARCH 330",
+    "courseName": "Case Studies in Building Structures"
+  },
+  {
+    "courseCode": "ETI 217",
+    "courseName": "Computer Assisted Translation Studies"
+  },
+  {
+    "courseCode": "FA 201",
+    "courseName": "Fashion Design Studio: Introduction"
+  },
+  {
+    "courseCode": "FA 203",
+    "courseName": "Fashion Graphics"
+  },
+  {
+    "courseCode": "FA 205",
+    "courseName": "History of Dress"
+  },
+  {
+    "courseCode": "FA 213",
+    "courseName": "Textile Materials for Fashion Designers I "
+  },
+  {
+    "courseCode": "IAED 450",
+    "courseName": "Textiles for Interiors"
+  },
+  {
+    "courseCode": "VCD 201",
+    "courseName": "Design Studio I"
+  },
+  {
+    "courseCode": "VCD 331",
+    "courseName": "Interaction Design Fundamentals"
+  },
+  {
+    "courseCode": "VCD 203",
+    "courseName": "Typographic Design I"
+  },
+  {
+    "courseCode": "MMD 301",
+    "courseName": "Design Studio III"
+  },
+  {
+    "courseCode": "VCD 400",
+    "courseName": "Interface Design"
+  },
+  {
+    "courseCode": "PHYS 403",
+    "courseName": "Nuclear Physics I"
+  },
+  {
+    "courseCode": "MISG 203",
+    "courseName": "First Aid"
+  },
+  {
+    "courseCode": "MISG 215",
+    "courseName": "Work Hygiene"
+  },
+  {
+    "courseCode": "MISG 217",
+    "courseName": "Fire"
+  },
+  {
+    "courseCode": "MISG 221",
+    "courseName": "Renewable Energy and Composite Materials"
+  },
+  {
+    "courseCode": "ID 203",
+    "courseName": "Computer Aided Industrial Design"
+  },
+  {
+    "courseCode": "PD 316",
+    "courseName": "Design for Sustainability"
+  },
+  {
+    "courseCode": "ID 320",
+    "courseName": "3 Dimensional Mechanical Design"
+  },
+  {
+    "courseCode": "ID 330",
+    "courseName": "Designing in Clay and Plaster"
+  },
+  {
+    "courseCode": "ID 331",
+    "courseName": "Advanced Designing in Clay and Plaster"
+  },
+  {
+    "courseCode": "AET 231",
+    "courseName": "Media Translation"
+  },
+  {
+    "courseCode": "NMC 471",
+    "courseName": "Post-production"
+  },
+  {
+    "courseCode": "EEE 307",
+    "courseName": "Electrical Energy Conversion"
+  },
+  {
+    "courseCode": "ETI 338",
+    "courseName": "Consecutive Interpreting II"
+  },
+  {
+    "courseCode": "ETI 391",
+    "courseName": "Computer Assisted Translation and Localization"
+  },
+  {
+    "courseCode": "PHYS 497",
+    "courseName": "Physics Project: Development"
+  },
+  {
+    "courseCode": "PHYS 105",
+    "courseName": "Physics I"
+  },
+  {
+    "courseCode": "PHYS 301",
+    "courseName": "Numerical Methods for Physics"
+  },
+  {
+    "courseCode": "PHYS 307",
+    "courseName": "Quantum Mechanics I"
+  },
+  {
+    "courseCode": "PHYS 201",
+    "courseName": "Waves, Fluids and Thermodynamics"
+  },
+  {
+    "courseCode": "PHYS 401",
+    "courseName": "Introduction to Particle Physics I"
+  },
+  {
+    "courseCode": "PHYS 305",
+    "courseName": "Statistical Physics"
+  },
+  {
+    "courseCode": "PHYS 309",
+    "courseName": "Analytical Mechanics"
+  },
+  {
+    "courseCode": "PHYS 424",
+    "courseName": "Theory of General Relativity"
+  },
+  {
+    "courseCode": "MMD 304",
+    "courseName": "Video Techniques and Production"
+  },
+  {
+    "courseCode": "ME 205",
+    "courseName": "Statics"
+  },
+  {
+    "courseCode": "CIVE 303",
+    "courseName": "Soil Mechanics I"
+  },
+  {
+    "courseCode": "SOC 480",
+    "courseName": "Modernity, Space and Culture"
+  },
+  {
+    "courseCode": "GD 403",
+    "courseName": "Advertising Design and Art Direction"
+  },
+  {
+    "courseCode": "CLM 220",
+    "courseName": "Food Styling and Photography"
+  },
+  {
+    "courseCode": "CLM 321",
+    "courseName": "Pastry I"
+  },
+  {
+    "courseCode": "PRA 427",
+    "courseName": "Communication Campaign Design"
+  },
+  {
+    "courseCode": "PRA 485",
+    "courseName": "Communication Agency I"
+  },
+  {
+    "courseCode": "VCD 310",
+    "courseName": "Sound Design"
+  },
+  {
+    "courseCode": "FFD 201",
+    "courseName": "Computer Aided Architectural Graphics"
+  },
+  {
+    "courseCode": "FA 111",
+    "courseName": "Drawing and Representation for Fashion Design I"
+  },
+  {
+    "courseCode": "OPT 203",
+    "courseName": "Opticianry II"
+  },
+  {
+    "courseCode": "TGT 101",
+    "courseName": "Medical Imaging I"
+  },
+  {
+    "courseCode": "ID 494",
+    "courseName": "Graduation Thesis"
+  },
+  {
+    "courseCode": "FA 316",
+    "courseName": "Natural Dye and Ecological Printing Techniques in Textiles"
+  },
+  {
+    "courseCode": "FA 320",
+    "courseName": "Advanced Technical Illustration Techniques"
+  },
+  {
+    "courseCode": "FD 301",
+    "courseName": "Fashion Design Studio: Collection II"
+  },
+  {
+    "courseCode": "FD 303",
+    "courseName": "Textile Studio"
+  },
+  {
+    "courseCode": "FD 313",
+    "courseName": "Computer Aided Pattern Making"
+  },
+  {
+    "courseCode": "MISG 101",
+    "courseName": "Occupational Health And Safety "
+  },
+  {
+    "courseCode": "MATH 497",
+    "courseName": "Senior Project I"
+  },
+  {
+    "courseCode": "ING 215",
+    "courseName": "English For International Trade"
+  },
+  {
+    "courseCode": "MATH 301",
+    "courseName": "Functional Analysis I"
+  },
+  {
+    "courseCode": "BA 250",
+    "courseName": "Management Sciences"
+  },
+  {
+    "courseCode": "MICM 203",
+    "courseName": "Ergonomics"
+  },
+  {
+    "courseCode": "ACC 405",
+    "courseName": "Advanced Accounting"
+  },
+  {
+    "courseCode": "IE 213",
+    "courseName": "Computational Thinking for Operations Research"
+  },
+  {
+    "courseCode": "IE 334",
+    "courseName": "Quality Assurance and Reliability"
+  },
+  {
+    "courseCode": "IE 346",
+    "courseName": "Engineering Economics"
+  },
+  {
+    "courseCode": "IE 353",
+    "courseName": "Optimization III"
+  },
+  {
+    "courseCode": "CDM 101",
+    "courseName": "Images, Sounds, Cultures I"
+  },
+  {
+    "courseCode": "MCSB 301",
+    "courseName": "Broadcasting Studio I"
+  },
+  {
+    "courseCode": "MCSB 497",
+    "courseName": "Senior Project I- Broadcasting "
+  },
+  {
+    "courseCode": "MCS 270",
+    "courseName": "Media and Politics I"
+  },
+  {
+    "courseCode": "CDM 307",
+    "courseName": "Stop Motion Animation"
+  },
+  {
+    "courseCode": "CDM 498",
+    "courseName": "Senior Project II"
+  },
+  {
+    "courseCode": "MCS 260",
+    "courseName": "Producing for Media I"
+  },
+  {
+    "courseCode": "MMC 220",
+    "courseName": "Theories of Communication"
+  },
+  {
+    "courseCode": "GBE 305",
+    "courseName": " Protein Chemistry"
+  },
+  {
+    "courseCode": "GBE 401",
+    "courseName": "Cell and Tissue Engineering"
+  },
+  {
+    "courseCode": "VCD 205",
+    "courseName": "Computer Graphics in Commun. Design"
+  },
+  {
+    "courseCode": "GBE 306",
+    "courseName": "Genetic Engineering Techniques"
+  },
+  {
+    "courseCode": "ME 401",
+    "courseName": "Control Theory"
+  },
+  {
+    "courseCode": "ECON 407",
+    "courseName": "Applied Economic Topics"
+  },
+  {
+    "courseCode": "ECON 430",
+    "courseName": "Social and Economic Networks"
+  },
+  {
+    "courseCode": "ECON 465",
+    "courseName": "Data Science with Applications in Economics"
+  },
+  {
+    "courseCode": "LOG 497",
+    "courseName": "Senior Project I"
+  },
+  {
+    "courseCode": "TGT 201",
+    "courseName": "Medical Imaging III"
+  },
+  {
+    "courseCode": "BA 125",
+    "courseName": "Dynamics of Business"
+  },
+  {
+    "courseCode": "IA 498",
+    "courseName": "Graduation Project"
+  },
+  {
+    "courseCode": "FE 201",
+    "courseName": "General Microbiology"
+  },
+  {
+    "courseCode": "FE 211",
+    "courseName": "Material and Energy Balances"
+  },
+  {
+    "courseCode": "FE 251",
+    "courseName": "Thermodynamics"
+  },
+  {
+    "courseCode": "FE 250",
+    "courseName": "Analytical Chemistry"
+  },
+  {
+    "courseCode": "FE 301",
+    "courseName": "Heat Transfer"
+  },
+  {
+    "courseCode": "FE 312",
+    "courseName": "Food Technology II"
+  },
+  {
+    "courseCode": "FE 430",
+    "courseName": "Shelf-life of Food Products"
+  },
+  {
+    "courseCode": "CLM 497",
+    "courseName": "Research and Development Project"
+  },
+  {
+    "courseCode": "PRA 221",
+    "courseName": "Marketing Communication Research"
+  },
+  {
+    "courseCode": "PRA 435",
+    "courseName": "Communication Campaign Design"
+  },
+  {
+    "courseCode": "FE 311",
+    "courseName": "Food Technology I"
+  },
+  {
+    "courseCode": "PRA 347",
+    "courseName": "Communication Agency for Designers I"
+  },
+  {
+    "courseCode": "FYT 201",
+    "courseName": "Principles and Methods of Physical Therapy III "
+  },
+  {
+    "courseCode": "BME 301",
+    "courseName": "Biomaterials"
+  },
+  {
+    "courseCode": "BME 401",
+    "courseName": "Medical Imaging"
+  },
+  {
+    "courseCode": "BME 305",
+    "courseName": "Biomedical Electronics"
+  },
+  {
+    "courseCode": "FA 207",
+    "courseName": "Pattern Making and Sewing Skills I"
+  },
+  {
+    "courseCode": "FA 403",
+    "courseName": "Visual Merchandising"
+  },
+  {
+    "courseCode": "ETI 100",
+    "courseName": "Fundamental Concepts of Literature"
+  },
+  {
+    "courseCode": "EEE 301",
+    "courseName": "Signal Processing and Linear Systems"
+  },
+  {
+    "courseCode": "EEE 201",
+    "courseName": "Electric Circuits I"
+  },
+  {
+    "courseCode": "EEE 211",
+    "courseName": "Computational Programming for Engineers"
+  },
+  {
+    "courseCode": "ARCH 498",
+    "courseName": "Graduation Project "
+  },
+  {
+    "courseCode": "EEE 331",
+    "courseName": "Analog Electronics "
+  },
+  {
+    "courseCode": "CDM 301",
+    "courseName": "Film Production I"
+  },
+  {
+    "courseCode": "ETI 390",
+    "courseName": "Computer Assisted Translation and Localization"
+  },
+  {
+    "courseCode": "ETI 308",
+    "courseName": "Consecutive Interpreting II"
+  },
+  {
+    "courseCode": "MMD 498",
+    "courseName": "Graduation Project"
+  },
+  {
+    "courseCode": "CIVE 201",
+    "courseName": "Engineering Mechanics I: Statics"
+  },
+  {
+    "courseCode": "CIVE 205",
+    "courseName": "Introduction to Materials Science"
+  },
+  {
+    "courseCode": "CIVE 301",
+    "courseName": "Structural Analysis I"
+  },
+  {
+    "courseCode": "CIVE 302",
+    "courseName": "Reinforced Concrete I"
+  },
+  {
+    "courseCode": "ETI 120",
+    "courseName": "Language And Society"
+  },
+  {
+    "courseCode": "ETI 203",
+    "courseName": "Translation of Texts on Economics"
+  },
+  {
+    "courseCode": "SOC 104",
+    "courseName": "Cultural Anthropology"
+  },
+  {
+    "courseCode": "SOC 201",
+    "courseName": "Classical Theories of Sociology "
+  },
+  {
+    "courseCode": "SOC 311",
+    "courseName": "Social Structure of Turkey"
+  },
+  {
+    "courseCode": "ETI 430",
+    "courseName": "Computer Assisted Translation Studies"
+  },
+  {
+    "courseCode": "ETI 304",
+    "courseName": "Translation of Legal Texts"
+  },
+  {
+    "courseCode": "ETI 301",
+    "courseName": "Translation Theory"
+  },
+  {
+    "courseCode": "PRA 416",
+    "courseName": "Corporate Communication"
+  },
+  {
+    "courseCode": "MCS 104",
+    "courseName": "Communication, Literature and Philosophy"
+  },
+  {
+    "courseCode": "MCS 111",
+    "courseName": "Communication Culture and Society I"
+  },
+  {
+    "courseCode": "ETI 250",
+    "courseName": "Contrastive Analysis of English and Turkish"
+  },
+  {
+    "courseCode": "PRA 206",
+    "courseName": "Principles of Public Relations"
+  },
+  {
+    "courseCode": "HEM 311",
+    "courseName": "Management in Nursing "
+  },
+  {
+    "courseCode": "HEM 315",
+    "courseName": "Management in Nursing Practice"
+  },
+  {
+    "courseCode": "ETI 102",
+    "courseName": "Introduction to Translation I"
+  },
+  {
+    "courseCode": "BA 319",
+    "courseName": "Negotitation and Decision Making Process"
+  },
+  {
+    "courseCode": "MUH 103",
+    "courseName": "Accounting "
+  },
+  {
+    "courseCode": "MYO 201",
+    "courseName": "Office Management I"
+  },
+  {
+    "courseCode": "TGT 103",
+    "courseName": "Medical Physics"
+  },
+  {
+    "courseCode": "TGT 105",
+    "courseName": "Medical and Radiological Terminology"
+  },
+  {
+    "courseCode": "YB 119",
+    "courseName": "Basic Gerontology"
+  },
+  {
+    "courseCode": "TS 105",
+    "courseName": "Medical Terminology"
+  },
+  {
+    "courseCode": "LAW 101",
+    "courseName": "Introduction to Law"
+  },
+  {
+    "courseCode": "MED 260",
+    "courseName": "Introduction to Immunology"
+  },
+  {
+    "courseCode": "MED 270",
+    "courseName": "Project Writing in Medical Sciences"
+  },
+  {
+    "courseCode": "MED 310",
+    "courseName": "Current Topics in Immunology and Cancer"
+  },
+  {
+    "courseCode": "MED 330",
+    "courseName": "Principles of Scientific Writing and Presentation"
+  },
+  {
+    "courseCode": "MED 215",
+    "courseName": "Basic Concepts and Tools in Scientific Research"
+  },
+  {
+    "courseCode": "FENG 495",
+    "courseName": "Snr. Proj. I Double Major Stud. (Eng. Fac.)"
+  },
+  {
+    "courseCode": "FENG 497",
+    "courseName": "Multidisciplinary Engineering Project"
+  },
+  {
+    "courseCode": "SE 491",
+    "courseName": "Senior Project in Software Enginering (Double Major/Minor Program)"
+  },
+  {
+    "courseCode": "HIM 305",
+    "courseName": "Public Relations in Healthcare Instituitons"
+  },
+  {
+    "courseCode": "MINT 230",
+    "courseName": "Professional Ethics"
+  },
+  {
+    "courseCode": "GER 111",
+    "courseName": "Tourism and Hotel Management in German I"
+  },
+  {
+    "courseCode": "CE 475",
+    "courseName": "Fundamentals and Applications of Machine Learning"
+  },
+  {
+    "courseCode": "CE 320",
+    "courseName": "Application Development with MATLAB"
+  },
+  {
+    "courseCode": "IUE 100",
+    "courseName": "Orientation and Career Planning"
+  },
+  {
+    "courseCode": "IEU 100",
+    "courseName": "Orientation and Career Planning"
+  },
+  {
+    "courseCode": "IEU 110",
+    "courseName": "Academic and Social Orientation"
+  },
+  {
+    "courseCode": "IUE 110",
+    "courseName": "Academic and Social Orientation"
+  },
+  {
+    "courseCode": "CE 390",
+    "courseName": "Analysis of Algorithms"
+  },
+  {
+    "courseCode": "GENS 207",
+    "courseName": "Scientific Thinking and Society"
+  },
+  {
+    "courseCode": "ETI 370",
+    "courseName": "Teaching English as a Foreign Language"
+  },
+  {
+    "courseCode": "ECON 496",
+    "courseName": "Seminar in Economics"
+  },
+  {
+    "courseCode": "IEU 200",
+    "courseName": "Volunteer Works"
+  },
+  {
+    "courseCode": "MPAZ 110",
+    "courseName": "Presentation Techniques"
+  },
+  {
+    "courseCode": "PD 498",
+    "courseName": "Graduation Project"
+  },
+  {
+    "courseCode": "CLM 209",
+    "courseName": "Materials Science and Purchasing in Food"
+  },
+  {
+    "courseCode": "BA 360",
+    "courseName": "Human Resources Management"
+  },
+  {
+    "courseCode": "ACC 305",
+    "courseName": "Advanced Accounting"
+  },
+  {
+    "courseCode": "MATH 208",
+    "courseName": "Intro. to Differential Equations II"
+  },
+  {
+    "courseCode": "ID 101",
+    "courseName": "Sketching and Rendering Techn. in Industrial Design"
+  },
+  {
+    "courseCode": "ID 205",
+    "courseName": "Human Factors"
+  },
+  {
+    "courseCode": "HUK 297",
+    "courseName": "Banking Law"
+  },
+  {
+    "courseCode": "HUK 463",
+    "courseName": "Law of Advocacy"
+  },
+  {
+    "courseCode": "HUK 293",
+    "courseName": "Turkish Constitutional History"
+  },
+  {
+    "courseCode": "HUK 459",
+    "courseName": "International Criminal Law"
+  },
+  {
+    "courseCode": "LAW 394",
+    "courseName": "International Monetary and Financial Law"
+  },
+  {
+    "courseCode": "CIVE 451",
+    "courseName": "Numerical Methods for Civil Engineers"
+  },
+  {
+    "courseCode": "PHYS 312",
+    "courseName": "Experimental Methods in Physics"
+  },
+  {
+    "courseCode": "CIVE 304",
+    "courseName": "Structural Steel Design"
+  },
+  {
+    "courseCode": "FE 402",
+    "courseName": "Food Process Design"
+  },
+  {
+    "courseCode": "ENG 307",
+    "courseName": "English in Nursing I"
+  },
+  {
+    "courseCode": "PRA 320",
+    "courseName": "Brand Communication"
+  },
+  {
+    "courseCode": "CLM 490",
+    "courseName": "Quick Service Restaurant Management"
+  },
+  {
+    "courseCode": "TDS 105",
+    "courseName": "Legislation for Health Professionals"
+  },
+  {
+    "courseCode": "ENG 310",
+    "courseName": "Essential Speaking Skills in English"
+  },
+  {
+    "courseCode": "ENG 210",
+    "courseName": "Technical English for Engineers"
+  },
+  {
+    "courseCode": "ENG 102",
+    "courseName": "Academic Skills in English II"
+  },
+  {
+    "courseCode": "RUS 310",
+    "courseName": "Russian for Tourism Industry"
+  },
+  {
+    "courseCode": "SPN 302",
+    "courseName": "Spanish Language VI"
+  },
+  {
+    "courseCode": "FR 302",
+    "courseName": "French Language VI"
+  },
+  {
+    "courseCode": "FR 122",
+    "courseName": "French Language for English Translation and Interpreting II"
+  },
+  {
+    "courseCode": "FR 222",
+    "courseName": "French Language for English Translation and Interpreting IV"
+  },
+  {
+    "courseCode": "FR 322",
+    "courseName": "French Language for English Translation and Interpreting VI"
+  },
+  {
+    "courseCode": "FR 320",
+    "courseName": "French B1 Intermediate Level Certification Exam Preparation"
+  },
+  {
+    "courseCode": "FR 415",
+    "courseName": "Using French Language in Cuisine II"
+  },
+  {
+    "courseCode": "CHN 102",
+    "courseName": "Chinese Language II"
+  },
+  {
+    "courseCode": "CHN 202",
+    "courseName": "Chinese Language IV"
+  },
+  {
+    "courseCode": "CHN 302",
+    "courseName": "Chinese Language VI"
+  },
+  {
+    "courseCode": "CHN 402",
+    "courseName": "Chinese Language VIII"
+  },
+  {
+    "courseCode": "JPN 102",
+    "courseName": "Japanese Language II"
+  },
+  {
+    "courseCode": "JPN 202",
+    "courseName": "Japanese Language IV"
+  },
+  {
+    "courseCode": "JPN 302",
+    "courseName": "Japanese Language VI"
+  },
+  {
+    "courseCode": "JPN 402",
+    "courseName": "Japanese Language VIII"
+  },
+  {
+    "courseCode": "ITL 122",
+    "courseName": "Italian Language for English Translation and Interpreting II"
+  },
+  {
+    "courseCode": "ITL 222",
+    "courseName": "Italian Language for English Translation and Interpreting IV"
+  },
+  {
+    "courseCode": "ITL 322",
+    "courseName": "Italian Language for English Translation and Interpreting VI"
+  },
+  {
+    "courseCode": "ITL 350",
+    "courseName": "Italian Gastronomy Terminology"
+  },
+  {
+    "courseCode": "TR 102",
+    "courseName": "Turkish II"
+  },
+  {
+    "courseCode": "ENG 308",
+    "courseName": "English in Nursing II"
+  },
+  {
+    "courseCode": "GEHU 206",
+    "courseName": "Italian Culture"
+  },
+  {
+    "courseCode": "GER 112",
+    "courseName": "Tourism and Hotel Management in German II"
+  },
+  {
+    "courseCode": "GER 302",
+    "courseName": "German Language VI"
+  },
+  {
+    "courseCode": "GER 402",
+    "courseName": "German Language VIII"
+  },
+  {
+    "courseCode": "ETI 421",
+    "courseName": "Community Interpreting"
+  },
+  {
+    "courseCode": "ETI 108",
+    "courseName": "Critical Reading"
+  },
+  {
+    "courseCode": "ETI 101",
+    "courseName": "Comparative Lang. and Culture Stud."
+  },
+  {
+    "courseCode": "ETI 114",
+    "courseName": "Comparative Lang. and Culture Stud."
+  },
+  {
+    "courseCode": "MATH 102",
+    "courseName": "Calculus II"
+  },
+  {
+    "courseCode": "MATH 106",
+    "courseName": "Linear Algebra II"
+  },
+  {
+    "courseCode": "MATH 108",
+    "courseName": "Mathematics for Architecture"
+  },
+  {
+    "courseCode": "MATH 110",
+    "courseName": "Calculus II"
+  },
+  {
+    "courseCode": "MATH 116",
+    "courseName": "Analytic Geometry"
+  },
+  {
+    "courseCode": "MATH 154",
+    "courseName": "Calculus II"
+  },
+  {
+    "courseCode": "MATH 202",
+    "courseName": "Advanced Calculus II"
+  },
+  {
+    "courseCode": "MATH 204",
+    "courseName": "Introduction to Probability Theory II"
+  },
+  {
+    "courseCode": "MATH 205",
+    "courseName": "Analytic Geometry"
+  },
+  {
+    "courseCode": "IA 302",
+    "courseName": "Interior Architecture Studio II"
+  },
+  {
+    "courseCode": "MATH 226",
+    "courseName": "Linear Algebra II"
+  },
+  {
+    "courseCode": "IAED 202",
+    "courseName": "Design Studio II"
+  },
+  {
+    "courseCode": "MATH 302",
+    "courseName": "Functional Analysis II"
+  },
+  {
+    "courseCode": "MATH 304",
+    "courseName": "Theory of Statistics"
+  },
+  {
+    "courseCode": "MATH 306",
+    "courseName": "Abstract Algebra"
+  },
+  {
+    "courseCode": "MATH 311",
+    "courseName": "Discreet Mathematics"
+  },
+  {
+    "courseCode": "MATH 316",
+    "courseName": "Optimization II"
+  },
+  {
+    "courseCode": "MATH 400",
+    "courseName": "Biomathematics"
+  },
+  {
+    "courseCode": "IAED 306",
+    "courseName": "Construction Management"
+  },
+  {
+    "courseCode": "IAED 205",
+    "courseName": "Design Semiotics for IAED"
+  },
+  {
+    "courseCode": "IAED 204",
+    "courseName": "Construction and Materials II"
+  },
+  {
+    "courseCode": "IAED 304",
+    "courseName": "Complex Interior Systems"
+  },
+  {
+    "courseCode": "IAED 310",
+    "courseName": "Advanced 3-D Model. and Rend. in CAD"
+  },
+  {
+    "courseCode": "IAED 320",
+    "courseName": "Colors and Textures in Interiors"
+  },
+  {
+    "courseCode": "IAED 340",
+    "courseName": "Universal Design"
+  },
+  {
+    "courseCode": "IAED 206",
+    "courseName": "Contemporary Design Discourse"
+  },
+  {
+    "courseCode": "IAED 366",
+    "courseName": "Collective Act"
+  },
+  {
+    "courseCode": "IAED 420",
+    "courseName": "Fine and App. Arts from Ottoman Era to Cont. Turk."
+  },
+  {
+    "courseCode": "FFD 202",
+    "courseName": "Advanced Design Presentation"
+  },
+  {
+    "courseCode": "FFD 122",
+    "courseName": "History of Art and Design II"
+  },
+  {
+    "courseCode": "PSY 102",
+    "courseName": "Introduction to Psychology II"
+  },
+  {
+    "courseCode": "PSY 104",
+    "courseName": "Quantitative Methods in Pyschology II"
+  },
+  {
+    "courseCode": "PSY 106",
+    "courseName": "Biophysiological Basis of Human Behavior"
+  },
+  {
+    "courseCode": "PSY 336",
+    "courseName": "Cognitive Psychology"
+  },
+  {
+    "courseCode": "PSY 332",
+    "courseName": "Clinical Psychology"
+  },
+  {
+    "courseCode": "PSY 334",
+    "courseName": "Psychology of Learning"
+  },
+  {
+    "courseCode": "PSY 216",
+    "courseName": "Research Methods in Psychology II"
+  },
+  {
+    "courseCode": "BA 202",
+    "courseName": "Operations Management"
+  },
+  {
+    "courseCode": "BA 238",
+    "courseName": "Taxation and Accounting Practices"
+  },
+  {
+    "courseCode": "BA 252",
+    "courseName": "Financial Accounting II"
+  },
+  {
+    "courseCode": "BA 302",
+    "courseName": "Operations Management"
+  },
+  {
+    "courseCode": "BA 311",
+    "courseName": "Management Information Systems"
+  },
+  {
+    "courseCode": "BA 318",
+    "courseName": "Business Ethics"
+  },
+  {
+    "courseCode": "BA 325",
+    "courseName": "Advanced Decision Making Techniques"
+  },
+  {
+    "courseCode": "BA 348",
+    "courseName": "Intermediate Accounting II"
+  },
+  {
+    "courseCode": "BA 327",
+    "courseName": "Taxation and Accounting Practices"
+  },
+  {
+    "courseCode": "BA 355",
+    "courseName": "Marketing for Sustainable Businesses"
+  },
+  {
+    "courseCode": "BA 402",
+    "courseName": "Business Policy"
+  },
+  {
+    "courseCode": "BA 406",
+    "courseName": "International Marketing"
+  },
+  {
+    "courseCode": "BA 435",
+    "courseName": "Organization Theories"
+  },
+  {
+    "courseCode": "ACC 302",
+    "courseName": "Strategic Management Accounting and Control"
+  },
+  {
+    "courseCode": "ACC 306",
+    "courseName": "Audit and Assurance"
+  },
+  {
+    "courseCode": "ACC 341",
+    "courseName": "Intermediate Accounting II"
+  },
+  {
+    "courseCode": "ACC 322",
+    "courseName": "Corporate Law for Accountants"
+  },
+  {
+    "courseCode": "ACC 402",
+    "courseName": "Essentials of Financial Statement Analysis"
+  },
+  {
+    "courseCode": "ACC 430",
+    "courseName": "Corporate Governance Seminar"
+  },
+  {
+    "courseCode": "PSY 202",
+    "courseName": "Introduction to Developmental Psychology II"
+  },
+  {
+    "courseCode": "PSY 212",
+    "courseName": "Social Pyschology II"
+  },
+  {
+    "courseCode": "PSIR 102",
+    "courseName": "Introduction to International Relations"
+  },
+  {
+    "courseCode": "PSIR 202",
+    "courseName": "Turkish Politics "
+  },
+  {
+    "courseCode": "PSIR 204",
+    "courseName": "Diplomatic History II"
+  },
+  {
+    "courseCode": "PSIR 206",
+    "courseName": "Ethics and Politics: Modern Political Thought"
+  },
+  {
+    "courseCode": "PSIR 216",
+    "courseName": "Modern Political Thought"
+  },
+  {
+    "courseCode": "PSIR 208",
+    "courseName": "Introduction to International Relations"
+  },
+  {
+    "courseCode": "PSIR 212",
+    "courseName": "Constitutional Politics"
+  },
+  {
+    "courseCode": "LOG 112",
+    "courseName": "Introduction to Logistics"
+  },
+  {
+    "courseCode": "PSIR 302",
+    "courseName": "Comparative Politics "
+  },
+  {
+    "courseCode": "LOG 208",
+    "courseName": "Documentation in Logistics"
+  },
+  {
+    "courseCode": "PSIR 304",
+    "courseName": "Theories of International Relations"
+  },
+  {
+    "courseCode": "LOG 308",
+    "courseName": "Transportation Management and Legal Framework"
+  },
+  {
+    "courseCode": "PSIR 306",
+    "courseName": "Turkish Foreign Policy"
+  },
+  {
+    "courseCode": "PSIR 325",
+    "courseName": "Constitutionalism and Democracy"
+  },
+  {
+    "courseCode": "LOG 214",
+    "courseName": "Marketing Channels and Supply Chain Management"
+  },
+  {
+    "courseCode": "LOG 314",
+    "courseName": "Marketing Channels and Supply Chain Management"
+  },
+  {
+    "courseCode": "PSIR 330",
+    "courseName": "Ottoman Diplomatic History"
+  },
+  {
+    "courseCode": "LOG 212",
+    "courseName": "Intermodal Transportation Management"
+  },
+  {
+    "courseCode": "LOG 322",
+    "courseName": "Logistics Planning and Modelling II"
+  },
+  {
+    "courseCode": "LOG 302",
+    "courseName": "Logistics Planning and Modelling II"
+  },
+  {
+    "courseCode": "LOG 342",
+    "courseName": "Service Supply Chain"
+  },
+  {
+    "courseCode": "PSIR 370",
+    "courseName": "Diplomatic Correspondence"
+  },
+  {
+    "courseCode": "LOG 364",
+    "courseName": "Supply Chain and Logistics Information Systems"
+  },
+  {
+    "courseCode": "LOG 464",
+    "courseName": "Supply Chain and Logistics Information Systems"
+  },
+  {
+    "courseCode": "LOG 410",
+    "courseName": "Network Optimization"
+  },
+  {
+    "courseCode": "LOG 498",
+    "courseName": "Senior Project II"
+  },
+  {
+    "courseCode": "LOG 440",
+    "courseName": "Retailing Management"
+  },
+  {
+    "courseCode": "LOG 448",
+    "courseName": "Risk Management in Supply Chain"
+  },
+  {
+    "courseCode": "PSIR 448",
+    "courseName": "Transitional Justice: National, Regional, and Global Perspectives"
+  },
+  {
+    "courseCode": "PSIR 480",
+    "courseName": "Gender Politics"
+  },
+  {
+    "courseCode": "BUS 220",
+    "courseName": "Data Analytics for Business and Economics"
+  },
+  {
+    "courseCode": "LAW 308",
+    "courseName": "International Law"
+  },
+  {
+    "courseCode": "LAW 330",
+    "courseName": "International Law of the Sea"
+  },
+  {
+    "courseCode": "PSY 414",
+    "courseName": "Psychological Testing in Practice"
+  },
+  {
+    "courseCode": "PSY 206",
+    "courseName": "Psychology of Learning"
+  },
+  {
+    "courseCode": "PSY 204",
+    "courseName": "Clinical Psychology"
+  },
+  {
+    "courseCode": "PSY 405",
+    "courseName": "Cognitive Psychology"
+  },
+  {
+    "courseCode": "HUK 214",
+    "courseName": "Criminal Law"
+  },
+  {
+    "courseCode": "HUK 414",
+    "courseName": "Criminal Procedure Law II"
+  },
+  {
+    "courseCode": "PSY 432",
+    "courseName": "Independent Study"
+  },
+  {
+    "courseCode": "PSY 412",
+    "courseName": "Introduction to Psychotherapy"
+  },
+  {
+    "courseCode": "PSY 413",
+    "courseName": "Introduction to Psychotherapy"
+  },
+  {
+    "courseCode": "PSY 340",
+    "courseName": "Marriage and Family"
+  },
+  {
+    "courseCode": "PSY 423",
+    "courseName": "Work Motivation"
+  },
+  {
+    "courseCode": "PSY 426",
+    "courseName": "Work Motivation"
+  },
+  {
+    "courseCode": "FA 112",
+    "courseName": "Drawing and Representation for Fashion Design II"
+  },
+  {
+    "courseCode": "FA 152",
+    "courseName": "Introduction to Fashion Design"
+  },
+  {
+    "courseCode": "FA 202",
+    "courseName": "Fashion Design Studio: Collection I"
+  },
+  {
+    "courseCode": "FA 204",
+    "courseName": "Fashion Graphics and Representation"
+  },
+  {
+    "courseCode": "FA 206",
+    "courseName": "History and Culture of Fashion"
+  },
+  {
+    "courseCode": "FA 208",
+    "courseName": "Pattern Making and Sewing Skills II"
+  },
+  {
+    "courseCode": "FA 214",
+    "courseName": "Textile Materials for Fashion Designers II "
+  },
+  {
+    "courseCode": "FA 315",
+    "courseName": "Advanced Fashion Illustration "
+  },
+  {
+    "courseCode": "FA 401",
+    "courseName": "Fashion Trends and Predictions"
+  },
+  {
+    "courseCode": "FD 302",
+    "courseName": "Fashion Design Studio: Collection III"
+  },
+  {
+    "courseCode": "FD 304",
+    "courseName": "Advanced Textile Studio"
+  },
+  {
+    "courseCode": "FD 404",
+    "courseName": "Portfolio Design for Fashion Design"
+  },
+  {
+    "courseCode": "FD 411",
+    "courseName": "Advanced Freehand Drawing "
+  },
+  {
+    "courseCode": "FD 498",
+    "courseName": "Graduation Project"
+  },
+  {
+    "courseCode": "ID 404",
+    "courseName": "Portfolio Design"
+  },
+  {
+    "courseCode": "ID 202",
+    "courseName": "Product Design Studio II"
+  },
+  {
+    "courseCode": "DM 302",
+    "courseName": "Design Project Management I"
+  },
+  {
+    "courseCode": "DM 498",
+    "courseName": "Graduation Project"
+  },
+  {
+    "courseCode": "ID 204",
+    "courseName": "Design Semiotics for Industrial Design"
+  },
+  {
+    "courseCode": "FFD 142",
+    "courseName": "Model Making"
+  },
+  {
+    "courseCode": "ID 425",
+    "courseName": "Service Design Project"
+  },
+  {
+    "courseCode": "ID 208",
+    "courseName": "Production Technologies"
+  },
+  {
+    "courseCode": "ID 302",
+    "courseName": "Contemporary Issues in Industrial Design"
+  },
+  {
+    "courseCode": "ID 304",
+    "courseName": "Design Research"
+  },
+  {
+    "courseCode": "ID 340",
+    "courseName": "Food Packaging Desing"
+  },
+  {
+    "courseCode": "ID 380",
+    "courseName": "Biomaterials: Designing with Living Systems"
+  },
+  {
+    "courseCode": "PD 314",
+    "courseName": "Industrial Design Studio I"
+  },
+  {
+    "courseCode": "HUK 314",
+    "courseName": "Philosophy and Sociology of Law"
+  },
+  {
+    "courseCode": "MATH 122",
+    "courseName": "Mathematical Thought II"
+  },
+  {
+    "courseCode": "ITF 112",
+    "courseName": "Introduction to International Trade and Finance"
+  },
+  {
+    "courseCode": "ITF 407",
+    "courseName": "Emerging Markets"
+  },
+  {
+    "courseCode": "ITF 430",
+    "courseName": "Financial Macroeconomics"
+  },
+  {
+    "courseCode": "ITF 409",
+    "courseName": "Multinational Corp. and Foreign Invest."
+  },
+  {
+    "courseCode": "ITF 422",
+    "courseName": "Introduction to E-Commerce"
+  },
+  {
+    "courseCode": "ITF 352",
+    "courseName": "Trade and Finance Workshop"
+  },
+  {
+    "courseCode": "ITF 312",
+    "courseName": "Financial Management"
+  },
+  {
+    "courseCode": "ITF 222",
+    "courseName": "International Trade and Investment"
+  },
+  {
+    "courseCode": "ITF 212",
+    "courseName": "International Trade and Investment"
+  },
+  {
+    "courseCode": "ITF 302",
+    "courseName": "International Financial Management"
+  },
+  {
+    "courseCode": "ITF 322",
+    "courseName": "International Financial Management"
+  },
+  {
+    "courseCode": "FA 494",
+    "courseName": "Graduation Thesis"
+  },
+  {
+    "courseCode": "SOC 102",
+    "courseName": "Introduction to Sociology II"
+  },
+  {
+    "courseCode": "SOC 402",
+    "courseName": "Selected Topics in Sociology"
+  },
+  {
+    "courseCode": "HUM 104",
+    "courseName": "Principles of Social Sciences II"
+  },
+  {
+    "courseCode": "SOC 202",
+    "courseName": "Contemporary Theories of Sociology"
+  },
+  {
+    "courseCode": "SOC 498",
+    "courseName": "Sociology Project II"
+  },
+  {
+    "courseCode": "SOC 430",
+    "courseName": "Gender and Social Change"
+  },
+  {
+    "courseCode": "SOC 360",
+    "courseName": "Sociology of Religion"
+  },
+  {
+    "courseCode": "SOC 345",
+    "courseName": "Sociology of Work"
+  },
+  {
+    "courseCode": "SOC 328",
+    "courseName": "Sociology of Religion"
+  },
+  {
+    "courseCode": "SOC 312",
+    "courseName": "Gender and Social Change"
+  },
+  {
+    "courseCode": "SOC 308",
+    "courseName": "Urban Sociology "
+  },
+  {
+    "courseCode": "SOC 260",
+    "courseName": "Sociology of International Migration"
+  },
+  {
+    "courseCode": "SOC 224",
+    "courseName": "Social Stratification "
+  },
+  {
+    "courseCode": "SOC 222",
+    "courseName": "Contemporary Theories of Sociology"
+  },
+  {
+    "courseCode": "SOC 212",
+    "courseName": "Qualitative Methods for Social Sciences"
+  },
+  {
+    "courseCode": "SOC 204",
+    "courseName": "Social Stratification "
+  },
+  {
+    "courseCode": "ECON 414",
+    "courseName": "Financial Economics"
+  },
+  {
+    "courseCode": "FFD 102",
+    "courseName": "Art and Design Studio II"
+  },
+  {
+    "courseCode": "VCD 102",
+    "courseName": "Introduction to Visual Communication"
+  },
+  {
+    "courseCode": "PHYS 102",
+    "courseName": "General Physics II"
+  },
+  {
+    "courseCode": "EEE 206",
+    "courseName": "Introduction to Electronics"
+  },
+  {
+    "courseCode": "EEE 282",
+    "courseName": "Engineering Mathematics II"
+  },
+  {
+    "courseCode": "EEE 302",
+    "courseName": "Principles of Communication"
+  },
+  {
+    "courseCode": "EEE 322",
+    "courseName": "Engineering Electromagnetics"
+  },
+  {
+    "courseCode": "EEE 332",
+    "courseName": "Digital Electronics"
+  },
+  {
+    "courseCode": "EEE 334",
+    "courseName": "Digital Electronic Circuits"
+  },
+  {
+    "courseCode": "EEE 346",
+    "courseName": "Fundamentals of Control Systems"
+  },
+  {
+    "courseCode": "EEE 413",
+    "courseName": "Digital Signal Processing"
+  },
+  {
+    "courseCode": "EEE 432",
+    "courseName": "Measurement and Instrumentation"
+  },
+  {
+    "courseCode": "EEE 471",
+    "courseName": "High Voltage Engineering"
+  },
+  {
+    "courseCode": "EEE 202",
+    "courseName": "Electric Circuits II"
+  },
+  {
+    "courseCode": "EEE 208",
+    "courseName": "Electric Circuit Analysis II"
+  },
+  {
+    "courseCode": "EEE 232",
+    "courseName": "Microelectronic Devices and Circuits"
+  },
+  {
+    "courseCode": "PHYS 106",
+    "courseName": "Physics II"
+  },
+  {
+    "courseCode": "PHYS 202",
+    "courseName": "Optics and Modern Physics"
+  },
+  {
+    "courseCode": "PHYS 302",
+    "courseName": "Electromagnetic Theory I"
+  },
+  {
+    "courseCode": "PHYS 306",
+    "courseName": "Mathematical Methods in Physics"
+  },
+  {
+    "courseCode": "PHYS 308",
+    "courseName": "Quantum Mechanics II"
+  },
+  {
+    "courseCode": "PHYS 314",
+    "courseName": "Theory of Special Relativity"
+  },
+  {
+    "courseCode": "PHYS 402",
+    "courseName": "Introduction to Particle Physics II"
+  },
+  {
+    "courseCode": "PHYS 404",
+    "courseName": "Nuclear Physics II"
+  },
+  {
+    "courseCode": "NMC 102",
+    "courseName": "Communication in History"
+  },
+  {
+    "courseCode": "PHYS 407",
+    "courseName": "Condensed Matter Physics I"
+  },
+  {
+    "courseCode": "PHYS 498",
+    "courseName": "Physics Project: Conducting and Reporting"
+  },
+  {
+    "courseCode": "NMC 106",
+    "courseName": "Storytelling"
+  },
+  {
+    "courseCode": "MCS 112",
+    "courseName": "Communication Culture and Society II"
+  },
+  {
+    "courseCode": "MCS 272",
+    "courseName": "Media and Politics II"
+  },
+  {
+    "courseCode": "MCS 160",
+    "courseName": "Seminars in Communication"
+  },
+  {
+    "courseCode": "NMC 206",
+    "courseName": "Image and Sound Production"
+  },
+  {
+    "courseCode": "MCS 262",
+    "courseName": "Producing for Media II"
+  },
+  {
+    "courseCode": "NMC 208",
+    "courseName": "Multimedia Content Production"
+  },
+  {
+    "courseCode": "NMC 204",
+    "courseName": "Digital Media Cultures"
+  },
+  {
+    "courseCode": "MCS 312",
+    "courseName": "Network Society"
+  },
+  {
+    "courseCode": "NMC 202",
+    "courseName": "Language, Meaning, Reality"
+  },
+  {
+    "courseCode": "NMC 210",
+    "courseName": "New Media Practice II"
+  },
+  {
+    "courseCode": "MCSB 302",
+    "courseName": "Broadcasting Studio II"
+  },
+  {
+    "courseCode": "NMC 455",
+    "courseName": "Documentary Production"
+  },
+  {
+    "courseCode": "NMC 304",
+    "courseName": "Digital Production Studio II"
+  },
+  {
+    "courseCode": "NMC 457",
+    "courseName": "Gender and Media"
+  },
+  {
+    "courseCode": "NMC 441",
+    "courseName": "Music in Media"
+  },
+  {
+    "courseCode": "NMC 310",
+    "courseName": "Digital Media Practices for Social Change"
+  },
+  {
+    "courseCode": "NMC 311",
+    "courseName": "Communication, Media and The City"
+  },
+  {
+    "courseCode": "MCSB 498",
+    "courseName": "Senior Project II- Broadcasting "
+  },
+  {
+    "courseCode": "HUK 202",
+    "courseName": "Law of Obligations"
+  },
+  {
+    "courseCode": "HUK 112",
+    "courseName": "Family Law"
+  },
+  {
+    "courseCode": "LAW 406",
+    "courseName": "Competition Law "
+  },
+  {
+    "courseCode": "LAW 444",
+    "courseName": "Intellectual Property Law"
+  },
+  {
+    "courseCode": "HUK 216",
+    "courseName": "Public Law"
+  },
+  {
+    "courseCode": "HUK 404",
+    "courseName": "Insurance Law "
+  },
+  {
+    "courseCode": "HUK 416",
+    "courseName": "Labour Law II"
+  },
+  {
+    "courseCode": "HUK 408",
+    "courseName": "Enforcement and Bankruptcy Law II "
+  },
+  {
+    "courseCode": "LAW 204",
+    "courseName": "Human Rights Law"
+  },
+  {
+    "courseCode": "HUK 308",
+    "courseName": "Law of Heritage"
+  },
+  {
+    "courseCode": "HUK 114",
+    "courseName": "Constitutional Law II"
+  },
+  {
+    "courseCode": "HUK 106",
+    "courseName": "Turkish Constitutional Law "
+  },
+  {
+    "courseCode": "HUK 206",
+    "courseName": "Commercial Enterprise Law"
+  },
+  {
+    "courseCode": "HUK 306",
+    "courseName": "Law of Negotiable Instruments"
+  },
+  {
+    "courseCode": "HUK 312",
+    "courseName": "Property Law II"
+  },
+  {
+    "courseCode": "HUK 208",
+    "courseName": "Private International Law"
+  },
+  {
+    "courseCode": "HUK 304",
+    "courseName": "Civil Procedure Law II"
+  },
+  {
+    "courseCode": "HUK 116",
+    "courseName": "History of Turkish Law"
+  },
+  {
+    "courseCode": "HUK 410",
+    "courseName": "Tax Law "
+  },
+  {
+    "courseCode": "HUK 324",
+    "courseName": "Tax Law "
+  },
+  {
+    "courseCode": "NMC 468",
+    "courseName": "Introduction to Philosophy "
+  },
+  {
+    "courseCode": "ETI 112",
+    "courseName": "Introduction to Translation II"
+  },
+  {
+    "courseCode": "NMC 447",
+    "courseName": "Audio Production"
+  },
+  {
+    "courseCode": "VCD 302",
+    "courseName": "Analysis of Visual Culture"
+  },
+  {
+    "courseCode": "FENG 102",
+    "courseName": "Introduction to Engineering"
+  },
+  {
+    "courseCode": "IAED 405",
+    "courseName": "History of Healthcare Architecture and Hygienic Built Environment"
+  },
+  {
+    "courseCode": "FENG 496",
+    "courseName": "Snr. Proj. II Double Major Stud. (Eng. Fac.)"
+  },
+  {
+    "courseCode": "FENG 498",
+    "courseName": "Engineering Capstone"
+  },
+  {
+    "courseCode": "CDM 104",
+    "courseName": "Introduction to Cultural Studies"
+  },
+  {
+    "courseCode": "CDM 132",
+    "courseName": "Visual Storytelling Studio"
+  },
+  {
+    "courseCode": "CDM 202",
+    "courseName": "Theory and Practice of the Moving Image II"
+  },
+  {
+    "courseCode": "CDM 212",
+    "courseName": "Film Seminar II:Modern Cinema"
+  },
+  {
+    "courseCode": "CDM 222",
+    "courseName": "Scriptwriting"
+  },
+  {
+    "courseCode": "CDM 224",
+    "courseName": "Political Economy of Media"
+  },
+  {
+    "courseCode": "CDM 232",
+    "courseName": "Digital Film Studio II"
+  },
+  {
+    "courseCode": "CDM 302",
+    "courseName": "Film Production II"
+  },
+  {
+    "courseCode": "CDM 303",
+    "courseName": "Script Writing"
+  },
+  {
+    "courseCode": "CDM 312",
+    "courseName": "Film Seminar IV: Contemporary Media Arts"
+  },
+  {
+    "courseCode": "CDM 339",
+    "courseName": "Producer's Craft"
+  },
+  {
+    "courseCode": "CDM 341",
+    "courseName": "Animals and Cinema"
+  },
+  {
+    "courseCode": "CDM 400",
+    "courseName": "Music and Sound Design in Cinema"
+  },
+  {
+    "courseCode": "CDM 490",
+    "courseName": "Digital Video Editing Theory and Practice"
+  },
+  {
+    "courseCode": "ETI 208",
+    "courseName": "Sight Interpreting"
+  },
+  {
+    "courseCode": "CDM 100",
+    "courseName": "CDM Departmental Orientation"
+  },
+  {
+    "courseCode": "CDM 102",
+    "courseName": "Images, Sounds, Cultures II"
+  },
+  {
+    "courseCode": "MCE 303",
+    "courseName": "Sensors and Actuators"
+  },
+  {
+    "courseCode": "MCE 304",
+    "courseName": "Measurements and Instrumentation"
+  },
+  {
+    "courseCode": "MCE 340",
+    "courseName": "Materials & Manufacturing Processes"
+  },
+  {
+    "courseCode": "MCE 411",
+    "courseName": "Introduction to Robotics"
+  },
+  {
+    "courseCode": "MCE 420",
+    "courseName": "Automation and Industry 4.0"
+  },
+  {
+    "courseCode": "MCE 450",
+    "courseName": "Control Systems Design"
+  },
+  {
+    "courseCode": "ETI 116",
+    "courseName": "Turkish for Translators"
+  },
+  {
+    "courseCode": "ETI 124",
+    "courseName": "Introduction to Translation II"
+  },
+  {
+    "courseCode": "ETI 204",
+    "courseName": "Translation of Texts on Media and Communication"
+  },
+  {
+    "courseCode": "ETI 212",
+    "courseName": "Introduction to Interpreting"
+  },
+  {
+    "courseCode": "ETI 104",
+    "courseName": "Translation of Text on Social Sciences"
+  },
+  {
+    "courseCode": "ETI 222",
+    "courseName": "Translation of Texts on Social Sciences"
+  },
+  {
+    "courseCode": "ETI 105",
+    "courseName": "Introduction to Linguistics"
+  },
+  {
+    "courseCode": "ETI 224",
+    "courseName": "Introduction to Linguistics"
+  },
+  {
+    "courseCode": "ETI 305",
+    "courseName": "Literary Translation"
+  },
+  {
+    "courseCode": "ETI 316",
+    "courseName": "Literary Translation I"
+  },
+  {
+    "courseCode": "ETI 470",
+    "courseName": "History of Translation"
+  },
+  {
+    "courseCode": "ETI 426",
+    "courseName": "Translation of Texts on Political Science"
+  },
+  {
+    "courseCode": "ETI 431",
+    "courseName": "Community Interpreting"
+  },
+  {
+    "courseCode": "ETI 302",
+    "courseName": "Simultaneous Interpreting"
+  },
+  {
+    "courseCode": "ETI 322",
+    "courseName": "Simultaneous Interpreting"
+  },
+  {
+    "courseCode": "ETI 436",
+    "courseName": "Copyediting and Proofreading"
+  },
+  {
+    "courseCode": "ETI 437",
+    "courseName": "Copyediting and Proofreading"
+  },
+  {
+    "courseCode": "ETI 498",
+    "courseName": "Translation Project"
+  },
+  {
+    "courseCode": "ETI 480",
+    "courseName": "Found in Translation"
+  },
+  {
+    "courseCode": "İMT 310",
+    "courseName": "Turkish Sign Language"
+  },
+  {
+    "courseCode": "LAW 410",
+    "courseName": "International Labour Law"
+  },
+  {
+    "courseCode": "LAW 404",
+    "courseName": "International Procedure Law and Arbitration"
+  },
+  {
+    "courseCode": "ARCH 415",
+    "courseName": "Execution Scenarios for Building Construction"
+  },
+  {
+    "courseCode": "ARCH 325",
+    "courseName": "Natural Stone in Architecture"
+  },
+  {
+    "courseCode": "ARCH 334",
+    "courseName": "Looking, Thinking, Sketching"
+  },
+  {
+    "courseCode": "ARCH 380",
+    "courseName": "Sustainability in Architecture"
+  },
+  {
+    "courseCode": "VCD 132",
+    "courseName": "Drawing Techniques for Print"
+  },
+  {
+    "courseCode": "VCD 204",
+    "courseName": "Typographic Design II"
+  },
+  {
+    "courseCode": "VCD 202",
+    "courseName": "Design Studio II"
+  },
+  {
+    "courseCode": "ACC 307",
+    "courseName": "Audit and Assurance"
+  },
+  {
+    "courseCode": "ACC 401",
+    "courseName": "Strategic Management Accounting and Control"
+  },
+  {
+    "courseCode": "CIVE 102",
+    "courseName": "Engineering Concepts and Solutions"
+  },
+  {
+    "courseCode": "VCD 301",
+    "courseName": "History of Graphic Design"
+  },
+  {
+    "courseCode": "VCD 340",
+    "courseName": "Design Semiotics"
+  },
+  {
+    "courseCode": "VCD 206",
+    "courseName": "Multimedia Applications in Design"
+  },
+  {
+    "courseCode": "MMD 302",
+    "courseName": "Design Studio IV"
+  },
+  {
+    "courseCode": "MMD 303",
+    "courseName": "Advanced Photography"
+  },
+  {
+    "courseCode": "VCD 428",
+    "courseName": "Digital Design in Motion"
+  },
+  {
+    "courseCode": "MMD 403",
+    "courseName": "Video Post Production"
+  },
+  {
+    "courseCode": "VCD 315",
+    "courseName": "Exhibition Design"
+  },
+  {
+    "courseCode": "ARCH 420",
+    "courseName": "Digital Based Design"
+  },
+  {
+    "courseCode": "GD 410",
+    "courseName": "Professional Practices at Communication Agency"
+  },
+  {
+    "courseCode": "VCD 450",
+    "courseName": "Information Design"
+  },
+  {
+    "courseCode": "AE 202",
+    "courseName": "Introduction to Remote Sensing"
+  },
+  {
+    "courseCode": "ARCH 102",
+    "courseName": "Introduction to Architecture II"
+  },
+  {
+    "courseCode": "ARCH 104",
+    "courseName": "Architectural Research and Communication"
+  },
+  {
+    "courseCode": "ARCH 202",
+    "courseName": "Architectural Design II"
+  },
+  {
+    "courseCode": "ARCH 204",
+    "courseName": "Histories And Theories of Architecture II"
+  },
+  {
+    "courseCode": "ARCH 206",
+    "courseName": "Dynamics and Structural Analyses"
+  },
+  {
+    "courseCode": "ARCH 208",
+    "courseName": "Architectural Construction and Materials II"
+  },
+  {
+    "courseCode": "ARCH 302",
+    "courseName": "Architectural Design IV"
+  },
+  {
+    "courseCode": "ARCH 308",
+    "courseName": "Architectural in the Urban Context"
+  },
+  {
+    "courseCode": "ARCH 342",
+    "courseName": "Building Construction Project II"
+  },
+  {
+    "courseCode": "AE 306",
+    "courseName": "High Speed Aerodynamics"
+  },
+  {
+    "courseCode": "AE 308",
+    "courseName": "Introduction to Wireless Communication"
+  },
+  {
+    "courseCode": "AE 310",
+    "courseName": "Fundamentals of Heat Transfer"
+  },
+  {
+    "courseCode": "AE 322",
+    "courseName": "Principles Of Electromagnetics"
+  },
+  {
+    "courseCode": "AE 405",
+    "courseName": "Aircraft Design"
+  },
+  {
+    "courseCode": "AE 412",
+    "courseName": "Flight Stability and Control"
+  },
+  {
+    "courseCode": "AE 414",
+    "courseName": "Spacecraft Design"
+  },
+  {
+    "courseCode": "AE 420",
+    "courseName": "Applications of Nanodevices in Space Engineering"
+  },
+  {
+    "courseCode": "AE 451",
+    "courseName": "Astrophysical Systems"
+  },
+  {
+    "courseCode": "GBE 208",
+    "courseName": "Generall and Molecular Biology II"
+  },
+  {
+    "courseCode": "GBE 204",
+    "courseName": "Human Anatomy and Physiology"
+  },
+  {
+    "courseCode": "GBE 210",
+    "courseName": "Bioengineering Thermodynamics and Kinetics"
+  },
+  {
+    "courseCode": "GBE 202",
+    "courseName": "Fundamentals of Bioengineering"
+  },
+  {
+    "courseCode": "GBE 308",
+    "courseName": "Cancer Biology and Genetics"
+  },
+  {
+    "courseCode": "HUK 483",
+    "courseName": "Recent Dev. in Foreigners’ and Turkish Citizenship Law"
+  },
+  {
+    "courseCode": "HUK 472",
+    "courseName": "International Humanitarian Law"
+  },
+  {
+    "courseCode": "HUK 212",
+    "courseName": "Administrative Law II"
+  },
+  {
+    "courseCode": "HUK 302",
+    "courseName": "Criminal Law"
+  },
+  {
+    "courseCode": "HUK 471",
+    "courseName": "Criminology"
+  },
+  {
+    "courseCode": "HUM 100",
+    "courseName": "Philosophy and Ethics"
+  },
+  {
+    "courseCode": "GBE 312",
+    "courseName": "Cell and Tissue Engineering"
+  },
+  {
+    "courseCode": "GBE 314",
+    "courseName": "Bioprocess Engineering"
+  },
+  {
+    "courseCode": "GBE 460",
+    "courseName": "Bioprocess Engineering"
+  },
+  {
+    "courseCode": "GBE 440",
+    "courseName": "Gene Theraphy"
+  },
+  {
+    "courseCode": "HUK 102",
+    "courseName": "Roman Law"
+  },
+  {
+    "courseCode": "HUK 104",
+    "courseName": "Family Law"
+  },
+  {
+    "courseCode": "GBE 304",
+    "courseName": "Current Topics in Genetic and Bioengineering"
+  },
+  {
+    "courseCode": "ME 204",
+    "courseName": "Manufacturing Technologies"
+  },
+  {
+    "courseCode": "ME 301",
+    "courseName": "Dynamics of Machinery"
+  },
+  {
+    "courseCode": "ME 304",
+    "courseName": "Heat Transfer"
+  },
+  {
+    "courseCode": "ME 308",
+    "courseName": "Machine Elements II"
+  },
+  {
+    "courseCode": "ME 314",
+    "courseName": "Dynamics of Machinery"
+  },
+  {
+    "courseCode": "ME 402",
+    "courseName": "Modelling, Analysis and Control of Dynamic Systems"
+  },
+  {
+    "courseCode": "ME 422",
+    "courseName": "Manufacturing Engineering"
+  },
+  {
+    "courseCode": "ME 425",
+    "courseName": "Mechanical Vibrations"
+  },
+  {
+    "courseCode": "ME 450",
+    "courseName": "Composite Materials"
+  },
+  {
+    "courseCode": "ME 463",
+    "courseName": "Computational Methods for Fluid Dynamics"
+  },
+  {
+    "courseCode": "FFD 104",
+    "courseName": "Computer Aided Technical Drawing"
+  },
+  {
+    "courseCode": "CLM 102",
+    "courseName": "Principles of Nutrition and Menu Planning"
+  },
+  {
+    "courseCode": "CLM 104",
+    "courseName": "Concepts and Skills for Culinary Arts II"
+  },
+  {
+    "courseCode": "CLM 108",
+    "courseName": "Calculations for Culinary Applications"
+  },
+  {
+    "courseCode": "CLM 202",
+    "courseName": "Food and Beverage Management"
+  },
+  {
+    "courseCode": "CLM 206",
+    "courseName": "Food Science"
+  },
+  {
+    "courseCode": "CLM 214",
+    "courseName": "Art, Design and Gastronomy"
+  },
+  {
+    "courseCode": "CLM 216",
+    "courseName": "Fundamentals of Pastry and Baking II"
+  },
+  {
+    "courseCode": "CLM 302",
+    "courseName": "Professional Skills Laboratory II"
+  },
+  {
+    "courseCode": "CLM 304",
+    "courseName": "Garde Manger "
+  },
+  {
+    "courseCode": "CLM 404",
+    "courseName": "Professional Skills Laboratory IV"
+  },
+  {
+    "courseCode": "CLM 200",
+    "courseName": "Turkish Culinary Culture"
+  },
+  {
+    "courseCode": "CLM 498",
+    "courseName": "Graduation Project"
+  },
+  {
+    "courseCode": "CIVE 202",
+    "courseName": "Technical Drawing"
+  },
+  {
+    "courseCode": "CIVE 204",
+    "courseName": "Engineering Mechanics II: Dynamics"
+  },
+  {
+    "courseCode": "CIVE 206",
+    "courseName": "Strength of Materials"
+  },
+  {
+    "courseCode": "CIVE 208",
+    "courseName": "Fluid Mechanics"
+  },
+  {
+    "courseCode": "CIVE 212",
+    "courseName": "Engineering Mechanics II: Dynamics"
+  },
+  {
+    "courseCode": "CIVE 312",
+    "courseName": "Design of Reinforced Concrete Structures"
+  },
+  {
+    "courseCode": "CIVE 314",
+    "courseName": "Soil Mechanics"
+  },
+  {
+    "courseCode": "CIVE 316",
+    "courseName": "Numerical Methods for Civil Engineers"
+  },
+  {
+    "courseCode": "CIVE 426",
+    "courseName": "Introduction to Structural Dynamics"
+  },
+  {
+    "courseCode": "CIVE 431",
+    "courseName": "Prestressed Concrete"
+  },
+  {
+    "courseCode": "CIVE 438",
+    "courseName": "Concrete Technology"
+  },
+  {
+    "courseCode": "PRA 110",
+    "courseName": "Persuasive Communication"
+  },
+  {
+    "courseCode": "PRA 204",
+    "courseName": "Principles of Advertising"
+  },
+  {
+    "courseCode": "PRA 210",
+    "courseName": "Consumer Insight"
+  },
+  {
+    "courseCode": "PRA 242",
+    "courseName": "Introduction to Digital Communication"
+  },
+  {
+    "courseCode": "PRA 304",
+    "courseName": "Copywriting "
+  },
+  {
+    "courseCode": "PRA 309",
+    "courseName": "Public Relations Campaign"
+  },
+  {
+    "courseCode": "PRA 316",
+    "courseName": "Public Relations Campaign"
+  },
+  {
+    "courseCode": "PRA 314",
+    "courseName": "Marketing Communication Metrics"
+  },
+  {
+    "courseCode": "PRA 436",
+    "courseName": "Communication Campaign Project"
+  },
+  {
+    "courseCode": "PRA 100",
+    "courseName": "Presentation Skills in Communication"
+  },
+  {
+    "courseCode": "PRA 410",
+    "courseName": "Knowledge Management in Advertising"
+  },
+  {
+    "courseCode": "PRA 202",
+    "courseName": "Interpersonal Communication"
+  },
+  {
+    "courseCode": "PRA 349",
+    "courseName": "Communication Agency for Designers II"
+  },
+  {
+    "courseCode": "PRA 486",
+    "courseName": "Communication Agency II"
+  },
+  {
+    "courseCode": "CLM 450",
+    "courseName": "American Cuisine"
+  },
+  {
+    "courseCode": "CLM 223",
+    "courseName": "Bread Making"
+  },
+  {
+    "courseCode": "CLM 426",
+    "courseName": "American Cuisine"
+  },
+  {
+    "courseCode": "CLM 326",
+    "courseName": "Vegeterian Cuisine"
+  },
+  {
+    "courseCode": "CLM 436",
+    "courseName": "Chocolate"
+  },
+  {
+    "courseCode": "CLM 329",
+    "courseName": "New Product Development in Food Sector"
+  },
+  {
+    "courseCode": "CLM 422",
+    "courseName": "New Product Development in Food Sector"
+  },
+  {
+    "courseCode": "CLM 226",
+    "courseName": "Food and Beverage Service"
+  },
+  {
+    "courseCode": "CLM 222",
+    "courseName": "Chocolate"
+  },
+  {
+    "courseCode": "CLM 204",
+    "courseName": "Beverage Culture"
+  },
+  {
+    "courseCode": "CLM 322",
+    "courseName": "Pastry II"
+  },
+  {
+    "courseCode": "BME 404",
+    "courseName": "Biomedical Image Processing "
+  },
+  {
+    "courseCode": "BME 312",
+    "courseName": "Biomaterials"
+  },
+  {
+    "courseCode": "BME 306",
+    "courseName": "Biomedical Instrumentation"
+  },
+  {
+    "courseCode": "BME 318",
+    "courseName": "Clinical Engineering"
+  },
+  {
+    "courseCode": "BME 420",
+    "courseName": "PCR-Based Molecular Diagnosis"
+  },
+  {
+    "courseCode": "BME 311",
+    "courseName": "Computational Bioinformatics"
+  },
+  {
+    "courseCode": "BME 402",
+    "courseName": "Clinical Engineering"
+  },
+  {
+    "courseCode": "BME 407",
+    "courseName": "Artificial Organs and Life Support Systems"
+  },
+  {
+    "courseCode": "BME 413",
+    "courseName": "Bionanotechnology"
+  },
+  {
+    "courseCode": "BME 304",
+    "courseName": "Biomechanics"
+  },
+  {
+    "courseCode": "CE 216",
+    "courseName": "Fundamental Topics in Programming"
+  },
+  {
+    "courseCode": "CE 223",
+    "courseName": "Database Systems"
+  },
+  {
+    "courseCode": "CE 306",
+    "courseName": "Computer Networks and Communications"
+  },
+  {
+    "courseCode": "CE 316",
+    "courseName": "Programming Paradigms"
+  },
+  {
+    "courseCode": "CE 326",
+    "courseName": "Computer Networks"
+  },
+  {
+    "courseCode": "CE 360",
+    "courseName": "Wireless Communications"
+  },
+  {
+    "courseCode": "CE 401",
+    "courseName": "Algorithms Design"
+  },
+  {
+    "courseCode": "CE 476",
+    "courseName": "Music and Computers"
+  },
+  {
+    "courseCode": "CE 490",
+    "courseName": "Introduction to Digital Image Processing"
+  },
+  {
+    "courseCode": "ECON 100",
+    "courseName": "Principles of Economics"
+  },
+  {
+    "courseCode": "ECON 102",
+    "courseName": "Principles of Macroeconomics"
+  },
+  {
+    "courseCode": "GENS 202",
+    "courseName": "Philosophy of Science"
+  },
+  {
+    "courseCode": "ECON 140",
+    "courseName": "Introduction to Health Economics "
+  },
+  {
+    "courseCode": "GEHU 203",
+    "courseName": "Modern World History"
+  },
+  {
+    "courseCode": "GEHU 216",
+    "courseName": "History of Civilization II"
+  },
+  {
+    "courseCode": "ECON 202",
+    "courseName": "Theory of Macroeconomics"
+  },
+  {
+    "courseCode": "ECON 208",
+    "courseName": "Public Finance"
+  },
+  {
+    "courseCode": "ECON 212",
+    "courseName": "Theory of Microeconomics II"
+  },
+  {
+    "courseCode": "ECON 216",
+    "courseName": "Mathematical Economics II"
+  },
+  {
+    "courseCode": "GEAR 213",
+    "courseName": "Art Movements and Artists of the 20th century"
+  },
+  {
+    "courseCode": "ECON 304",
+    "courseName": "Monetary Theory and Policy"
+  },
+  {
+    "courseCode": "ECON 306",
+    "courseName": "International Economics II"
+  },
+  {
+    "courseCode": "ECON 324",
+    "courseName": "Applied Econometrics"
+  },
+  {
+    "courseCode": "ECON 409",
+    "courseName": "Political Economics"
+  },
+  {
+    "courseCode": "ECON 412",
+    "courseName": "Industrial Organization"
+  },
+  {
+    "courseCode": "ECON 418",
+    "courseName": "Game Theory"
+  },
+  {
+    "courseCode": "SE 116",
+    "courseName": "Introduction to Programming II"
+  },
+  {
+    "courseCode": "SE 226",
+    "courseName": "Advanced Programming"
+  },
+  {
+    "courseCode": "SE 216",
+    "courseName": "Software Project Management"
+  },
+  {
+    "courseCode": "SE 311",
+    "courseName": "Software Architecture"
+  },
+  {
+    "courseCode": "SE 322",
+    "courseName": "Software Verification and Validation"
+  },
+  {
+    "courseCode": "SE 375",
+    "courseName": "Systems Programming"
+  },
+  {
+    "courseCode": "SE 470",
+    "courseName": "Software Maintenance"
+  },
+  {
+    "courseCode": "SE 366",
+    "courseName": "Numerical Analysis"
+  },
+  {
+    "courseCode": "SE 330",
+    "courseName": "Advanced Game Development"
+  },
+  {
+    "courseCode": "SE 432",
+    "courseName": "3D Animation in Computer Games"
+  },
+  {
+    "courseCode": "SE 355",
+    "courseName": "Mobile Game Development"
+  },
+  {
+    "courseCode": "SE 204",
+    "courseName": "Human Computer Interaction"
+  },
+  {
+    "courseCode": "SE 362",
+    "courseName": "Server-Side Scripting Languages "
+  },
+  {
+    "courseCode": "FE 202",
+    "courseName": "Food Microbiology"
+  },
+  {
+    "courseCode": "FE 212",
+    "courseName": "Introduction to Fluid Mechanics"
+  },
+  {
+    "courseCode": "FE 260",
+    "courseName": "Organic Chemistry"
+  },
+  {
+    "courseCode": "FE 270",
+    "courseName": "Food Chemistry"
+  },
+  {
+    "courseCode": "FE 302",
+    "courseName": "Unit Operations "
+  },
+  {
+    "courseCode": "FE 304",
+    "courseName": "Mass Transfer"
+  },
+  {
+    "courseCode": "FE 332",
+    "courseName": "Biochemistry"
+  },
+  {
+    "courseCode": "IE 222",
+    "courseName": "Production Systems Analysis"
+  },
+  {
+    "courseCode": "IE 252",
+    "courseName": "Optimization II"
+  },
+  {
+    "courseCode": "IE 315",
+    "courseName": "Sequencing and Scheduling"
+  },
+  {
+    "courseCode": "IE 316",
+    "courseName": "Manufacturing Systems"
+  },
+  {
+    "courseCode": "IE 324",
+    "courseName": "Fundamentals of Modern Manufacturing Systems"
+  },
+  {
+    "courseCode": "IE 326",
+    "courseName": "Inventory Planning"
+  },
+  {
+    "courseCode": "IE 328",
+    "courseName": "Production and Service Systems Management"
+  },
+  {
+    "courseCode": "IE 335",
+    "courseName": "Simulation"
+  },
+  {
+    "courseCode": "IE 373",
+    "courseName": "Software Applications in Industry"
+  },
+  {
+    "courseCode": "ISE 452",
+    "courseName": "Applied Workshop in Ind. Systems Engineering II"
+  },
+  {
+    "courseCode": "FTR 102",
+    "courseName": "Basics of Physiotherapy II"
+  },
+  {
+    "courseCode": "FTR 106",
+    "courseName": "Functional Organization of the Human Body II"
+  },
+  {
+    "courseCode": "FTR 104",
+    "courseName": "Anatomy II"
+  },
+  {
+    "courseCode": "FTR 108",
+    "courseName": "Nutrition for Physiotherapy"
+  },
+  {
+    "courseCode": "HEM 106",
+    "courseName": "Fundamentals of Nursing"
+  },
+  {
+    "courseCode": "HEM 108",
+    "courseName": "Fundamentals of Nursing-Clinics"
+  },
+  {
+    "courseCode": "HEM 110",
+    "courseName": "Professional Principles II"
+  },
+  {
+    "courseCode": "HEM 112",
+    "courseName": "Fundamentals of Health II"
+  },
+  {
+    "courseCode": "HEM 208",
+    "courseName": "Fundamentals of Health IV"
+  },
+  {
+    "courseCode": "FTR 110",
+    "courseName": "Functional Movement Development"
+  },
+  {
+    "courseCode": "HEM 212",
+    "courseName": "Women’s Health Nursing"
+  },
+  {
+    "courseCode": "FTR 202",
+    "courseName": "Exercise Principles in Physiotherapy"
+  },
+  {
+    "courseCode": "HEM 214",
+    "courseName": "Child’s Health Nursing"
+  },
+  {
+    "courseCode": "FTR 204",
+    "courseName": "Kinesiology II"
+  },
+  {
+    "courseCode": "FTR 206",
+    "courseName": "Electrophysical Agents II"
+  },
+  {
+    "courseCode": "HEM 216",
+    "courseName": "Women’s and Child’s Health Nursing"
+  },
+  {
+    "courseCode": "FTR 208",
+    "courseName": "Manual Therapy II"
+  },
+  {
+    "courseCode": "HEM 312",
+    "courseName": "Public Health Nursing"
+  },
+  {
+    "courseCode": "FTR 210",
+    "courseName": "Functional Neuroanatomy"
+  },
+  {
+    "courseCode": "HEM 314",
+    "courseName": "Mental Health and Diseases Nursing"
+  },
+  {
+    "courseCode": "HEM 316",
+    "courseName": "Public & Mental Health and Diseases Nursing Practices"
+  },
+  {
+    "courseCode": "HEM 318",
+    "courseName": "Research in Health Sciences II"
+  },
+  {
+    "courseCode": "HEM 341",
+    "courseName": "Stoma and Wound Care Nursing"
+  },
+  {
+    "courseCode": "HEM 345",
+    "courseName": "ECG"
+  },
+  {
+    "courseCode": "HINT 412",
+    "courseName": "Surgical Wards Nursing II"
+  },
+  {
+    "courseCode": "HINT 414",
+    "courseName": "Medical Wards Nursing II"
+  },
+  {
+    "courseCode": "SB 230",
+    "courseName": "Speaking and Presentation Skills"
+  },
+  {
+    "courseCode": "SB 360",
+    "courseName": "Disability and Society"
+  },
+  {
+    "courseCode": "HIM 402",
+    "courseName": "Healthcare Politics and Planning"
+  },
+  {
+    "courseCode": "HIM 404",
+    "courseName": "Healthcare Tourism"
+  },
+  {
+    "courseCode": "HIM 304",
+    "courseName": "Logistics and Supply Chain Man. in Healthcare Org."
+  },
+  {
+    "courseCode": "HIM 444",
+    "courseName": "Leadership In Healthcare Institutions"
+  },
+  {
+    "courseCode": "SE 318",
+    "courseName": "Software Verification and Validation"
+  },
+  {
+    "courseCode": "PRA 300",
+    "courseName": "Basic Graphic Apps. in Public Rel. and Advert. I"
+  },
+  {
+    "courseCode": "CDM 410",
+    "courseName": "Transmedia Storytelling"
+  },
+  {
+    "courseCode": "CIVE 436",
+    "courseName": "Hydraulic Physical Models"
+  },
+  {
+    "courseCode": "MCS 360",
+    "courseName": "Visual Theory"
+  },
+  {
+    "courseCode": "NMC 456",
+    "courseName": "Visual Theory"
+  },
+  {
+    "courseCode": "ENG 208",
+    "courseName": "Clinical English II"
+  },
+  {
+    "courseCode": "BUS 495",
+    "courseName": "Applied Administrative Sciences Skills Development"
+  },
+  {
+    "courseCode": "MATH 498",
+    "courseName": "Senior Project II"
+  },
+  {
+    "courseCode": "PRA 337",
+    "courseName": "Interpersonal Communication"
+  }
+]

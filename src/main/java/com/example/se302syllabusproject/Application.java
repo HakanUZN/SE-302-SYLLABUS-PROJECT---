@@ -2,6 +2,8 @@
 package com.example.se302syllabusproject;
 
 import java.io.IOException;
+
+import com.fasterxml.jackson.databind.JsonNode;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
@@ -9,7 +11,6 @@ import javafx.stage.Stage;
 
 public class Application extends javafx.application.Application {
     public Application() {
-        DatabaseHandler databaseHandler = new DatabaseHandler();
     }
 
     public void start(Stage stage) throws IOException {
@@ -23,6 +24,10 @@ public class Application extends javafx.application.Application {
     }
 
     public static void main(String[] args) {
+        DatabaseHandler databaseHandler = new DatabaseHandler();
+
+        databaseHandler.closeConnection();
+
         launch(new String[0]);
     }
 }

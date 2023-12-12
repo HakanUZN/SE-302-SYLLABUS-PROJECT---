@@ -25,5 +25,15 @@ public class DatabaseHandler {
         } catch (ClassNotFoundException | SQLException e) {
             throw new RuntimeException(e);
         }
+
+    }
+    public void closeConnection() {
+        try {
+            if (conn != null && !conn.isClosed()) {
+                conn.close();
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
     }
 }
