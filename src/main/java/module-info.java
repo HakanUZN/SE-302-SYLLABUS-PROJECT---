@@ -2,7 +2,7 @@ module com.example.se302syllabusproject {
     requires javafx.controls;
     requires javafx.fxml;
     requires java.sql;
-
+    requires sqlite.jdbc;
 
 
     opens com.example.se302syllabusproject to javafx.fxml;
