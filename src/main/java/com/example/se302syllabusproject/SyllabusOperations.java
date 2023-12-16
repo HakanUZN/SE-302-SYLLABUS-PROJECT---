@@ -8,5 +8,4 @@ public interface SyllabusOperations {
     public void editSyllabus(Syllabus syllabus);
     public void deleteSyllabus(Syllabus syllabus);
     public void searchSyllabus(String searchSyllabus);
-    public void showSyllabus(Syllabus syllabus);
 }

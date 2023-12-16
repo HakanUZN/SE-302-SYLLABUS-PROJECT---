@@ -33,7 +33,7 @@ public class GeneralInformation {
         this.localCredits = localCredits;
         this.ECTS = ECTS;
         this.prerequisities = prerequisities;
-        this.courseLanguage=courseLanguage;
+        this.setCourseLanguage(courseLanguage);
         this.courseType = courseType;
         this.courseLevel = courseLevel;
         this.teachingMethods = teachingMethods;
@@ -94,7 +94,6 @@ public class GeneralInformation {
     public boolean isFall() {
         return isFall;
     }
-
     public void setFall(boolean fall) {
         isFall = fall;
     }
