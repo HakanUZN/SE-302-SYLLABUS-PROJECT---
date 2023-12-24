@@ -60,7 +60,7 @@
                                         </Text>
                                     </children>
                                 </Pane>
-                                <TextField fx:id="CodeString" layoutY="88.0" prefHeight="32.0" prefWidth="104.0" style="-fx-border-color: black;" />
+                                <TextField fx:id="CodeString" editable="false" layoutY="88.0" prefHeight="32.0" prefWidth="104.0" style="-fx-border-color: black;" />
                                 <Pane layoutX="104.0" layoutY="44.0" prefHeight="44.0" prefWidth="76.0" style="-fx-background-color: lightgrey; -fx-border-color: black;">
                                     <children>
                                         <Text layoutX="28.0" layoutY="19.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Fall" textAlignment="CENTER">

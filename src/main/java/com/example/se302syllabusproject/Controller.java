@@ -1422,6 +1422,18 @@ public class Controller implements SyllabusOperations{
                             }
                         }
 
+                        FXMLLoader loader = new FXMLLoader(this.getClass().getResource("importSuccessful.fxml"));
+                        Parent root = (Parent)loader.load();
+                        Stage currentStage = (Stage)((Node)event.getSource()).getScene().getWindow();
+                        Scene scene = new Scene(root);
+                        Stage newStage = new Stage();
+                        newStage.setScene(scene);
+
+                        newStage.setResizable(false);
+                        newStage.centerOnScreen();
+                        newStage.setTitle("Imported!");
+                        newStage.show();
+
                     } catch (SQLException e) {
                         e.printStackTrace();
                     }
@@ -1492,7 +1504,8 @@ public class Controller implements SyllabusOperations{
 
 
         //Course category table
-        String courseCategory = "";
+        String courseCategory = "empty";
+
         if (getCoreCourse().isSelected()) {
             courseCategory = "Core Course";
         } else if (getMajorAreaCourse().isSelected()) {
@@ -3394,6 +3407,9 @@ public class Controller implements SyllabusOperations{
             controller.FallButton.setSelected(syllabus1.isFall());
 
             controller.SpringButton.setSelected(syllabus1.isSpring());
+
+
+
             controller.TheoryHour.setText(String.valueOf(syllabus1.getTheoryHours()));
             controller.ApplicationLabHour.setText(String.valueOf(syllabus1.getLabHours()));
             controller.LocalCredits.setText(String.valueOf(syllabus1.getLocalCredits()));
@@ -3512,7 +3528,56 @@ public class Controller implements SyllabusOperations{
 
             //WorkloadTable
             if (!syllabus1.semesterNumbers.isEmpty()) {
-                controller.SemesterNum1.setText(String.valueOf(syllabus1.semesterNumbers.get(0)));
+
+                for (int i = 0; i < syllabus1.semesterNumbers.size(); i++) {
+                    int semesterNumber = syllabus1.semesterNumbers.get(i);
+
+
+                    String text = (semesterNumber == 0) ? "" : String.valueOf(semesterNumber);
+
+
+                    switch (i) {
+                        case 0:
+                            controller.SemesterNum1.setText(text);
+                            break;
+                        case 1:
+                            controller.SemesterNum2.setText(text);
+                            break;
+                        case 2:
+                            controller.SemesterNum3.setText(text);
+                            break;
+                        case 3:
+                            controller.SemesterNum4.setText(text);
+                            break;
+                        case 4:
+                            controller.SemesterNum5.setText(text);
+                            break;
+                        case 5:
+                            controller.SemesterNum6.setText(text);
+                            break;
+                        case 6:
+                            controller.SemesterNum7.setText(text);
+                            break;
+                        case 7:
+                            controller.SemesterNum8.setText(text);
+                            break;
+                        case 8:
+                            controller.SemesterNum9.setText(text);
+                            break;
+                        case 9:
+                            controller.SemesterNum10.setText(text);
+                            break;
+                        case 10:
+                            controller.SemesterNum11.setText(text);
+                            break;
+                        case 11:
+                            controller.SemesterNum12.setText(text);
+                            break;
+
+                    }
+                }
+
+               /* controller.SemesterNum1.setText(String.valueOf(syllabus1.semesterNumbers.get(0)));
                 controller.SemesterNum2.setText(String.valueOf(syllabus1.semesterNumbers.get(1)));
                 controller.SemesterNum3.setText(String.valueOf(syllabus1.semesterNumbers.get(2)));
                 controller.SemesterNum4.setText(String.valueOf(syllabus1.semesterNumbers.get(3)));
@@ -3523,11 +3588,58 @@ public class Controller implements SyllabusOperations{
                 controller.SemesterNum9.setText(String.valueOf(syllabus1.semesterNumbers.get(8)));
                 controller.SemesterNum10.setText(String.valueOf(syllabus1.semesterNumbers.get(9)));
                 controller.SemesterNum11.setText(String.valueOf(syllabus1.semesterNumbers.get(10)));
-                controller.SemesterNum12.setText(String.valueOf(syllabus1.semesterNumbers.get(11)));
+                controller.SemesterNum12.setText(String.valueOf(syllabus1.semesterNumbers.get(11)));*/
             }
 
             if (!syllabus1.semesterDuration.isEmpty()) {
-                controller.SemesterDuration1.setText(String.valueOf(syllabus1.semesterDuration.get(0)));
+                for (int i = 0; i < syllabus1.semesterDuration.size(); i++) {
+                    int semesterDurationValue = syllabus1.semesterDuration.get(i);
+
+
+                    String text = (semesterDurationValue == 0) ? "" : String.valueOf(semesterDurationValue);
+
+
+                    switch (i) {
+                        case 0:
+                            controller.SemesterDuration1.setText(text);
+                            break;
+                        case 1:
+                            controller.SemesterDuration2.setText(text);
+                            break;
+                        case 2:
+                            controller.SemesterDuration3.setText(text);
+                            break;
+                        case 3:
+                            controller.SemesterDuration4.setText(text);
+                            break;
+                        case 4:
+                            controller.SemesterDuration5.setText(text);
+                            break;
+                        case 5:
+                            controller.SemesterDuration6.setText(text);
+                            break;
+                        case 6:
+                            controller.SemesterDuration7.setText(text);
+                            break;
+                        case 7:
+                            controller.SemesterDuration8.setText(text);
+                            break;
+                        case 8:
+                            controller.SemesterDuration9.setText(text);
+                            break;
+                        case 9:
+                            controller.SemesterDuration10.setText(text);
+                            break;
+                        case 10:
+                            controller.SemesterDuration11.setText(text);
+                            break;
+                        case 11:
+                            controller.SemesterDuration12.setText(text);
+                            break;
+
+                    }
+                }
+              /*  controller.SemesterDuration1.setText(String.valueOf(syllabus1.semesterDuration.get(0)));
                 controller.SemesterDuration2.setText(String.valueOf(syllabus1.semesterDuration.get(1)));
                 controller.SemesterDuration3.setText(String.valueOf(syllabus1.semesterDuration.get(2)));
                 controller.SemesterDuration4.setText(String.valueOf(syllabus1.semesterDuration.get(3)));
@@ -3538,11 +3650,62 @@ public class Controller implements SyllabusOperations{
                 controller.SemesterDuration9.setText(String.valueOf(syllabus1.semesterDuration.get(8)));
                 controller.SemesterDuration10.setText(String.valueOf(syllabus1.semesterDuration.get(9)));
                 controller.SemesterDuration11.setText(String.valueOf(syllabus1.semesterDuration.get(10)));
-                controller.SemesterDuration12.setText(String.valueOf(syllabus1.semesterDuration.get(11)));
+                controller.SemesterDuration12.setText(String.valueOf(syllabus1.semesterDuration.get(11)));*/
             }
 
             if (!syllabus1.semesterWorkload.isEmpty()) {
-                controller.SemesterWorkload1.setText(String.valueOf(String.valueOf(syllabus1.semesterNumbers.get(0)*syllabus1.semesterDuration.get(0))));
+
+                for (int i = 0; i < syllabus1.semesterWorkload.size(); i++) {
+                    int semesterNumber = syllabus1.semesterNumbers.get(i);
+                    int semesterDuration = syllabus1.semesterDuration.get(i);
+                    int semesterWorkloadValue = syllabus1.semesterWorkload.get(i);
+
+
+                    String text = (semesterNumber * semesterDuration == 0) ? "" : String.valueOf(semesterWorkloadValue);
+
+
+                    switch (i) {
+                        case 0:
+                            controller.SemesterWorkload1.setText(text);
+                            break;
+                        case 1:
+                            controller.SemesterWorkload2.setText(text);
+                            break;
+                        case 2:
+                            controller.SemesterWorkload3.setText(text);
+                            break;
+                        case 3:
+                            controller.SemesterWorkload4.setText(text);
+                            break;
+                        case 4:
+                            controller.SemesterWorkload5.setText(text);
+                            break;
+                        case 5:
+                            controller.SemesterWorkload6.setText(text);
+                            break;
+                        case 6:
+                            controller.SemesterWorkload7.setText(text);
+                            break;
+                        case 7:
+                            controller.SemesterWorkload8.setText(text);
+                            break;
+                        case 8:
+                            controller.SemesterWorkload9.setText(text);
+                            break;
+                        case 9:
+                            controller.SemesterWorkload10.setText(text);
+                            break;
+                        case 10:
+                            controller.SemesterWorkload11.setText(text);
+                            break;
+                        case 11:
+                            controller.SemesterWorkload12.setText(text);
+                            break;
+
+                    }
+                }
+
+               /* controller.SemesterWorkload1.setText(String.valueOf(String.valueOf(syllabus1.semesterNumbers.get(0)*syllabus1.semesterDuration.get(0))));
                 controller.SemesterWorkload2.setText(String.valueOf(syllabus1.semesterNumbers.get(1)*syllabus1.semesterDuration.get(1)));
                 controller.SemesterWorkload3.setText(String.valueOf(syllabus1.semesterWorkload.get(2)));
                 controller.SemesterWorkload4.setText(String.valueOf(syllabus1.semesterWorkload.get(3)));
@@ -3553,7 +3716,7 @@ public class Controller implements SyllabusOperations{
                 controller.SemesterWorkload9.setText(String.valueOf(syllabus1.semesterWorkload.get(8)));
                 controller.SemesterWorkload10.setText(String.valueOf(syllabus1.semesterWorkload.get(9)));
                 controller.SemesterWorkload11.setText(String.valueOf(syllabus1.semesterWorkload.get(10)));
-                controller.SemesterWorkload12.setText(String.valueOf(syllabus1.semesterWorkload.get(11)));
+                controller.SemesterWorkload12.setText(String.valueOf(syllabus1.semesterWorkload.get(11)));*/
             }
 
             int totalWorkload=0;
@@ -3767,105 +3930,326 @@ public class Controller implements SyllabusOperations{
 
             //Assessment
             if (!syllabus1.semesterActivityNumber.isEmpty()){
-            controller.numParticipation.setText(String.valueOf(syllabus1.semesterActivityNumber.get(0)));
-            controller.numLab.setText(String.valueOf(syllabus1.semesterActivityNumber.get(1)));
-            controller.numFieldWork.setText(String.valueOf(syllabus1.semesterActivityNumber.get(2)));
-            controller.numQuiz.setText(String.valueOf(syllabus1.semesterActivityNumber.get(3)));
-            controller.numHomework.setText(String.valueOf(syllabus1.semesterActivityNumber.get(4)));
-            controller.numPresentation.setText(String.valueOf(syllabus1.semesterActivityNumber.get(5)));
-            controller.numProject.setText(String.valueOf(syllabus1.semesterActivityNumber.get(6)));
-            controller.numSeminar.setText(String.valueOf(syllabus1.semesterActivityNumber.get(7)));
-            controller.numOral.setText(String.valueOf(syllabus1.semesterActivityNumber.get(8)));
-            controller.numMidterm.setText(String.valueOf(syllabus1.semesterActivityNumber.get(9)));
-            controller.numFinal.setText(String.valueOf(syllabus1.semesterActivityNumber.get(10)));
+                for (int i = 0; i < syllabus1.semesterActivityNumber.size(); i++) {
+                    int activityNumber = syllabus1.semesterActivityNumber.get(i);
+                    String text = (activityNumber == 0) ? "" : String.valueOf(activityNumber);
+
+
+                    switch (i) {
+                        case 0:
+                            controller.numParticipation.setText(text);
+                            break;
+                        case 1:
+                            controller.numLab.setText(text);
+                            break;
+                        case 2:
+                            controller.numFieldWork.setText(text);
+                            break;
+                        case 3:
+                            controller.numQuiz.setText(text);
+                            break;
+                        case 4:
+                            controller.numHomework.setText(text);
+                            break;
+                        case 5:
+                            controller.numPresentation.setText(text);
+                            break;
+                        case 6:
+                            controller.numProject.setText(text);
+                            break;
+                        case 7:
+                            controller.numSeminar.setText(text);
+                            break;
+                        case 8:
+                            controller.numOral.setText(text);
+                            break;
+                        case 9:
+                            controller.numMidterm.setText(text);
+                            break;
+                        case 10:
+                            controller.numFinal.setText(text);
+                            break;
+
+                    }
+                }
+
+
             }
 
             if (!syllabus1.semesterActivityWeight.isEmpty()){
-                controller.weightParticipation.setText(String.valueOf(syllabus1.semesterActivityWeight.get(0)));
-                controller.weightLab.setText(String.valueOf(syllabus1.semesterActivityWeight.get(1)));
-                controller.weightFieldWork.setText(String.valueOf(syllabus1.semesterActivityWeight.get(2)));
-                controller.weightQuiz.setText(String.valueOf(syllabus1.semesterActivityWeight.get(3)));
-                controller.weightHomework.setText(String.valueOf(syllabus1.semesterActivityWeight.get(4)));
-                controller.weightPresentation.setText(String.valueOf(syllabus1.semesterActivityWeight.get(5)));
-                controller.weightProject.setText(String.valueOf(syllabus1.semesterActivityWeight.get(6)));
-                controller.weightSeminar.setText(String.valueOf(syllabus1.semesterActivityWeight.get(7)));
-                controller.weightOral.setText(String.valueOf(syllabus1.semesterActivityWeight.get(8)));
-                controller.weightMidterm.setText(String.valueOf(syllabus1.semesterActivityWeight.get(9)));
-                controller.weightFinal.setText(String.valueOf(syllabus1.semesterActivityWeight.get(10)));
+                for (int i = 0; i < syllabus1.semesterActivityWeight.size(); i++) {
+                    int activityWeight = syllabus1.semesterActivityWeight.get(i);
+                    String text = (activityWeight == 0) ? "" : String.valueOf(activityWeight);
+
+
+                    switch (i) {
+                        case 0:
+                            controller.weightParticipation.setText(text);
+                            break;
+                        case 1:
+                            controller.weightLab.setText(text);
+                            break;
+                        case 2:
+                            controller.weightFieldWork.setText(text);
+                            break;
+                        case 3:
+                            controller.weightQuiz.setText(text);
+                            break;
+                        case 4:
+                            controller.weightHomework.setText(text);
+                            break;
+                        case 5:
+                            controller.weightPresentation.setText(text);
+                            break;
+                        case 6:
+                            controller.weightProject.setText(text);
+                            break;
+                        case 7:
+                            controller.weightSeminar.setText(text);
+                            break;
+                        case 8:
+                            controller.weightOral.setText(text);
+                            break;
+                        case 9:
+                            controller.weightMidterm.setText(text);
+                            break;
+                        case 10:
+                            controller.weightFinal.setText(text);
+                            break;
+
+                    }
+                }
             }
 
             if (!syllabus1.semesterActivityLO1.isEmpty()){
-                controller.lo1Participation.setText(String.valueOf(syllabus1.semesterActivityLO1.get(0)));
-                controller.lo1Lab.setText(String.valueOf(syllabus1.semesterActivityLO1.get(1)));
-                controller.lo1FieldWork.setText(String.valueOf(syllabus1.semesterActivityLO1.get(2)));
-                controller.lo1Quiz.setText(String.valueOf(syllabus1.semesterActivityLO1.get(3)));
-                controller.lo1Homework.setText(String.valueOf(syllabus1.semesterActivityLO1.get(4)));
-                controller.lo1Presentation.setText(String.valueOf(syllabus1.semesterActivityLO1.get(5)));
-                controller.lo1Project.setText(String.valueOf(syllabus1.semesterActivityLO1.get(6)));
-                controller.lo1Seminar.setText(String.valueOf(syllabus1.semesterActivityLO1.get(7)));
-                controller.lo1Oral.setText(String.valueOf(syllabus1.semesterActivityLO1.get(8)));
-                controller.lo1Midterm.setText(String.valueOf(syllabus1.semesterActivityLO1.get(9)));
-                controller.lo1Final.setText(String.valueOf(syllabus1.semesterActivityLO1.get(10)));
+                for (int i = 0; i < syllabus1.semesterActivityLO1.size(); i++) {
+                    int lo1Value = syllabus1.semesterActivityLO1.get(i);
+                    String text = (lo1Value == 0) ? "" : String.valueOf(lo1Value);
+
+
+                    switch (i) {
+                        case 0:
+                            controller.lo1Participation.setText(text);
+                            break;
+                        case 1:
+                            controller.lo1Lab.setText(text);
+                            break;
+                        case 2:
+                            controller.lo1FieldWork.setText(text);
+                            break;
+                        case 3:
+                            controller.lo1Quiz.setText(text);
+                            break;
+                        case 4:
+                            controller.lo1Homework.setText(text);
+                            break;
+                        case 5:
+                            controller.lo1Presentation.setText(text);
+                            break;
+                        case 6:
+                            controller.lo1Project.setText(text);
+                            break;
+                        case 7:
+                            controller.lo1Seminar.setText(text);
+                            break;
+                        case 8:
+                            controller.lo1Oral.setText(text);
+                            break;
+                        case 9:
+                            controller.lo1Midterm.setText(text);
+                            break;
+                        case 10:
+                            controller.lo1Final.setText(text);
+                            break;
+
+                    }
+                }
             }
             if (!syllabus1.semesterActivityLO2.isEmpty()){
-                controller.lo2Participation.setText(String.valueOf(syllabus1.semesterActivityLO2.get(0)));
-                controller.lo2Lab.setText(String.valueOf(syllabus1.semesterActivityLO2.get(1)));
-                controller.lo2FieldWork.setText(String.valueOf(syllabus1.semesterActivityLO2.get(2)));
-                controller.lo2Quiz.setText(String.valueOf(syllabus1.semesterActivityLO2.get(3)));
-                controller.lo2Homework.setText(String.valueOf(syllabus1.semesterActivityLO2.get(4)));
-                controller.lo2Presentation.setText(String.valueOf(syllabus1.semesterActivityLO2.get(5)));
-                controller.lo2Project.setText(String.valueOf(syllabus1.semesterActivityLO2.get(6)));
-                controller.lo2Seminar.setText(String.valueOf(syllabus1.semesterActivityLO2.get(7)));
-                controller.lo2Oral.setText(String.valueOf(syllabus1.semesterActivityLO2.get(8)));
-                controller.lo2Midterm.setText(String.valueOf(syllabus1.semesterActivityLO2.get(9)));
-                controller.lo2Final.setText(String.valueOf(syllabus1.semesterActivityLO2.get(10)));
+
+                for (int i = 0; i < syllabus1.semesterActivityLO2.size(); i++) {
+                    int lo2Value = syllabus1.semesterActivityLO2.get(i);
+                    String text = (lo2Value == 0) ? "" : String.valueOf(lo2Value);
+
+
+                    switch (i) {
+                        case 0:
+                            controller.lo2Participation.setText(text);
+                            break;
+                        case 1:
+                            controller.lo2Lab.setText(text);
+                            break;
+                        case 2:
+                            controller.lo2FieldWork.setText(text);
+                            break;
+                        case 3:
+                            controller.lo2Quiz.setText(text);
+                            break;
+                        case 4:
+                            controller.lo2Homework.setText(text);
+                            break;
+                        case 5:
+                            controller.lo2Presentation.setText(text);
+                            break;
+                        case 6:
+                            controller.lo2Project.setText(text);
+                            break;
+                        case 7:
+                            controller.lo2Seminar.setText(text);
+                            break;
+                        case 8:
+                            controller.lo2Oral.setText(text);
+                            break;
+                        case 9:
+                            controller.lo2Midterm.setText(text);
+                            break;
+                        case 10:
+                            controller.lo2Final.setText(text);
+                            break;
+                    }
+                }
             }
 
             if (!syllabus1.semesterActivityLO3.isEmpty()){
-                controller.lo3Participation.setText(String.valueOf(syllabus1.semesterActivityLO3.get(0)));
-                controller.lo3Lab.setText(String.valueOf(syllabus1.semesterActivityLO3.get(1)));
-                controller.lo3FieldWork.setText(String.valueOf(syllabus1.semesterActivityLO3.get(2)));
-                controller.lo3Quiz.setText(String.valueOf(syllabus1.semesterActivityLO3.get(3)));
-                controller.lo3Homework.setText(String.valueOf(syllabus1.semesterActivityLO3.get(4)));
-                controller.lo3Presentation.setText(String.valueOf(syllabus1.semesterActivityLO3.get(5)));
-                controller.lo3Project.setText(String.valueOf(syllabus1.semesterActivityLO3.get(6)));
-                controller.lo3Seminar.setText(String.valueOf(syllabus1.semesterActivityLO3.get(7)));
-                controller.lo3Oral.setText(String.valueOf(syllabus1.semesterActivityLO3.get(8)));
-                controller.lo3Midterm.setText(String.valueOf(syllabus1.semesterActivityLO3.get(9)));
-                controller.lo3Final.setText(String.valueOf(syllabus1.semesterActivityLO3.get(10)));
+
+                for (int i = 0; i < syllabus1.semesterActivityLO3.size(); i++) {
+                    int lo3Value = syllabus1.semesterActivityLO3.get(i);
+                    String text = (lo3Value == 0) ? "" : String.valueOf(lo3Value);
+
+                    switch (i) {
+                        case 0:
+                            controller.lo3Participation.setText(text);
+                            break;
+                        case 1:
+                            controller.lo3Lab.setText(text);
+                            break;
+                        case 2:
+                            controller.lo3FieldWork.setText(text);
+                            break;
+                        case 3:
+                            controller.lo3Quiz.setText(text);
+                            break;
+                        case 4:
+                            controller.lo3Homework.setText(text);
+                            break;
+                        case 5:
+                            controller.lo3Presentation.setText(text);
+                            break;
+                        case 6:
+                            controller.lo3Project.setText(text);
+                            break;
+                        case 7:
+                            controller.lo3Seminar.setText(text);
+                            break;
+                        case 8:
+                            controller.lo3Oral.setText(text);
+                            break;
+                        case 9:
+                            controller.lo3Midterm.setText(text);
+                            break;
+                        case 10:
+                            controller.lo3Final.setText(text);
+                            break;
+
+                    }
+                }
             }
 
             if (!syllabus1.semesterActivityLO4.isEmpty()){
-                controller.lo4Participation.setText(String.valueOf(syllabus1.semesterActivityLO4.get(0)));
-                controller.lo4Lab.setText(String.valueOf(syllabus1.semesterActivityLO4.get(1)));
-                controller.lo4FieldWork.setText(String.valueOf(syllabus1.semesterActivityLO4.get(2)));
-                controller.lo4Quiz.setText(String.valueOf(syllabus1.semesterActivityLO4.get(3)));
-                controller.lo4Homework.setText(String.valueOf(syllabus1.semesterActivityLO4.get(4)));
-                controller.lo4Presentation.setText(String.valueOf(syllabus1.semesterActivityLO4.get(5)));
-                controller.lo4Project.setText(String.valueOf(syllabus1.semesterActivityLO4.get(6)));
-                controller.lo4Seminar.setText(String.valueOf(syllabus1.semesterActivityLO4.get(7)));
-                controller.lo4Oral.setText(String.valueOf(syllabus1.semesterActivityLO4.get(8)));
-                controller.lo4Midterm.setText(String.valueOf(syllabus1.semesterActivityLO4.get(9)));
-                controller.lo4Final.setText(String.valueOf(syllabus1.semesterActivityLO4.get(10)));
+
+                for (int i = 0; i < syllabus1.semesterActivityLO4.size(); i++) {
+                    int lo4Value = syllabus1.semesterActivityLO4.get(i);
+                    String text = (lo4Value == 0) ? "" : String.valueOf(lo4Value);
+
+
+                    switch (i) {
+                        case 0:
+                            controller.lo4Participation.setText(text);
+                            break;
+                        case 1:
+                            controller.lo4Lab.setText(text);
+                            break;
+                        case 2:
+                            controller.lo4FieldWork.setText(text);
+                            break;
+                        case 3:
+                            controller.lo4Quiz.setText(text);
+                            break;
+                        case 4:
+                            controller.lo4Homework.setText(text);
+                            break;
+                        case 5:
+                            controller.lo4Presentation.setText(text);
+                            break;
+                        case 6:
+                            controller.lo4Project.setText(text);
+                            break;
+                        case 7:
+                            controller.lo4Seminar.setText(text);
+                            break;
+                        case 8:
+                            controller.lo4Oral.setText(text);
+                            break;
+                        case 9:
+                            controller.lo4Midterm.setText(text);
+                            break;
+                        case 10:
+                            controller.lo4Final.setText(text);
+                            break;
+
+                    }
+                }
             }
 
             if (!syllabus1.semesterActivityLO5.isEmpty()){
-                controller.lo5Participation.setText(String.valueOf(syllabus1.semesterActivityLO5.get(0)));
-                controller.lo5Lab.setText(String.valueOf(syllabus1.semesterActivityLO5.get(1)));
-                controller.lo5FieldWork.setText(String.valueOf(syllabus1.semesterActivityLO5.get(2)));
-                controller.lo5Quiz.setText(String.valueOf(syllabus1.semesterActivityLO5.get(3)));
-                controller.lo5Homework.setText(String.valueOf(syllabus1.semesterActivityLO5.get(4)));
-                controller.lo5Presentation.setText(String.valueOf(syllabus1.semesterActivityLO5.get(5)));
-                controller.lo5Project.setText(String.valueOf(syllabus1.semesterActivityLO5.get(6)));
-                controller.lo5Seminar.setText(String.valueOf(syllabus1.semesterActivityLO5.get(7)));
-                controller.lo5Oral.setText(String.valueOf(syllabus1.semesterActivityLO5.get(8)));
-                controller.lo5Midterm.setText(String.valueOf(syllabus1.semesterActivityLO5.get(9)));
-                controller.lo5Final.setText(String.valueOf(syllabus1.semesterActivityLO5.get(10)));
+
+                for (int i = 0; i < syllabus1.semesterActivityLO5.size(); i++) {
+                    int lo5Value = syllabus1.semesterActivityLO5.get(i);
+                    String text = (lo5Value == 0) ? "" : String.valueOf(lo5Value);
+
+                    // İlgili kontrol değerini güncelle
+                    switch (i) {
+                        case 0:
+                            controller.lo5Participation.setText(text);
+                            break;
+                        case 1:
+                            controller.lo5Lab.setText(text);
+                            break;
+                        case 2:
+                            controller.lo5FieldWork.setText(text);
+                            break;
+                        case 3:
+                            controller.lo5Quiz.setText(text);
+                            break;
+                        case 4:
+                            controller.lo5Homework.setText(text);
+                            break;
+                        case 5:
+                            controller.lo5Presentation.setText(text);
+                            break;
+                        case 6:
+                            controller.lo5Project.setText(text);
+                            break;
+                        case 7:
+                            controller.lo5Seminar.setText(text);
+                            break;
+                        case 8:
+                            controller.lo5Oral.setText(text);
+                            break;
+                        case 9:
+                            controller.lo5Midterm.setText(text);
+                            break;
+                        case 10:
+                            controller.lo5Final.setText(text);
+                            break;
+                        // Diğer durumlar için gerekirse ek case'ler ekleyebilirsiniz.
+                    }
+                }
             }
 
             if (!syllabus1.semesterActivityNumber.isEmpty()) {
                 int totalParticipation = 0, totalWeight = 0, lo1 = 0, lo2 = 0, lo3 = 0, lo4 = 0, lo5 = 0;
-                for (int i = 0; i < 10; i++) {
+                for (int i = 0; i <= 10; i++) {
                     totalParticipation += syllabus1.semesterActivityNumber.get(i);
                     totalWeight += syllabus1.semesterActivityWeight.get(i);
                     lo1 += syllabus1.semesterActivityLO1.get(i);
@@ -3879,10 +4263,13 @@ public class Controller implements SyllabusOperations{
                 controller.numTotal.setText(String.valueOf(totalParticipation));
                 controller.weightTotal.setText(String.valueOf(totalWeight));
                 
-                controller.weightFinal1.setText(String.valueOf(totalParticipation-syllabus1.semesterActivityNumber.get(10)));
-                controller.weightFinal2.setText(String.valueOf(totalWeight-syllabus1.semesterActivityWeight.get(10)));
+                controller.weightFinal1.setText(String.valueOf(totalParticipation));
+                controller.weightFinal2.setText(String.valueOf(totalWeight));
                 controller.weightEndFinal1.setText(String.valueOf(syllabus1.semesterActivityNumber.get(10)));
                 controller.weightEndFinal2.setText(String.valueOf(syllabus1.semesterActivityWeight.get(10)));
+                controller.total1.setText(String.valueOf(Integer.parseInt(controller.weightFinal1.getText()) + Integer.parseInt(controller.weightEndFinal1.getText())));
+                controller.total2.setText(String.valueOf(Integer.parseInt(controller.weightFinal2.getText()) + Integer.parseInt(controller.weightEndFinal2.getText())));
+
                 controller.lo1Total.setText(String.valueOf(lo1));
                 controller.lo2Total.setText(String.valueOf(lo2));
                 controller.lo3Total.setText(String.valueOf(lo3));
@@ -5386,15 +5773,12 @@ public class Controller implements SyllabusOperations{
                 controller.numTotal.setText(String.valueOf(totalParticipation));
                 controller.weightTotal.setText(String.valueOf(totalWeight));
 
-                controller.weightFinal1.setText(String.valueOf(totalParticipation-syllabus1.semesterActivityNumber.get(10)));
-                controller.weightFinal2.setText(String.valueOf(totalWeight-syllabus1.semesterActivityWeight.get(10)));
+                controller.weightFinal1.setText(String.valueOf(totalParticipation));
+                controller.weightFinal2.setText(String.valueOf(totalWeight));
                 controller.weightEndFinal1.setText(String.valueOf(syllabus1.semesterActivityNumber.get(10)));
                 controller.weightEndFinal2.setText(String.valueOf(syllabus1.semesterActivityWeight.get(10)));
-                controller.lo1Total.setText(String.valueOf(lo1));
-                controller.lo2Total.setText(String.valueOf(lo2));
-                controller.lo3Total.setText(String.valueOf(lo3));
-                controller.lo4Total.setText(String.valueOf(lo4));
-                controller.lo5Total.setText(String.valueOf(lo5));
+                controller.total1.setText(String.valueOf(Integer.parseInt(controller.weightFinal1.getText()) + Integer.parseInt(controller.weightEndFinal1.getText())));
+                controller.total2.setText(String.valueOf(Integer.parseInt(controller.weightFinal2.getText()) + Integer.parseInt(controller.weightEndFinal2.getText())));
             }
 
 
