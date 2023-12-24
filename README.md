@@ -1,3 +1,5 @@
+![syllabus-system-high-resolution-logo-transparent](https://github.com/egepelindag/SE-302-SYLLABUS-PROJECT---/assets/79408160/60b14b63-1e90-4ede-9ee7-9399d2f7589b)
+
  SE-302-SYLLABUS-PROJECT---
 TEAM 10
 
