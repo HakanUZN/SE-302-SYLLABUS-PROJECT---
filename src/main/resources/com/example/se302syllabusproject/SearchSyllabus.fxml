@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="515.0" prefWidth="611.0" style="-fx-background-color: #EAEAEA;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.se302syllabusproject.Controller">
+    <children>
+        <AnchorPane layoutX="-6.0" layoutY="1.0" prefHeight="517.0" prefWidth="644.0" style="-fx-background-color: #0D7377; -fx-border-color: orange;">
+            <children>
+                <Label alignment="CENTER" layoutX="178.0" layoutY="22.0" prefHeight="46.0" prefWidth="306.0" style="-fx-background-radius: 300; -fx-background-color: #142850;" text="SYLLABUS-APPLICATION" textFill="#eeeeee">
+                    <font>
+                        <Font name="Times New Roman Bold Italic" size="18.0" />
+                    </font>
+                </Label>
+                <Button fx:id="searchHelp" layoutX="507.0" layoutY="457.0" mnemonicParsing="false" onAction="#searchHelpButton" prefHeight="48.0" prefWidth="117.0" style="-fx-background-color: #142850; -fx-background-radius: 25;" text="Help" textFill="#eeeeee">
+                    <font>
+                        <Font name="Times New Roman Bold" size="27.0" />
+                    </font>
+                </Button>
+                <Button fx:id="helpToMain" layoutX="23.0" layoutY="457.0" mnemonicParsing="false" onAction="#searchToMain" prefHeight="46.0" prefWidth="124.0" style="-fx-background-color: #142850; -fx-background-radius: 25;" text="Back" textFill="#eeeeee">
+                    <font>
+                        <Font name="Times New Roman Bold" size="27.0" />
+                    </font>
+                </Button>
+                <ImageView disable="true" fitHeight="134.0" fitWidth="247.0" layoutX="214.0" layoutY="88.0" opacity="0.64" pickOnBounds="true" preserveRatio="true" style="-fx-cursor: hand;">
+                    <image>
+                        <Image url="@../../../img/logo.png" />
+                    </image>
+                </ImageView>
+                <TextField fx:id="searchTextField" layoutX="147.0" layoutY="252.0" prefHeight="26.0" prefWidth="263.0" promptText="Enter Course Code" style="-fx-border-radius: 10;" />
+                <Button fx:id="searchButton" layoutX="440.0" layoutY="252.0" mnemonicParsing="false" onAction="#searchButton" prefHeight="26.0" prefWidth="89.0" style="-fx-background-color: #142850;" text="SEARCH" textFill="#eeeeee">
+                    <font>
+                        <Font name="Times New Roman Bold" size="14.0" />
+                    </font>
+                </Button>
+                <Label fx:id="searchHelpLabel" layoutX="8.0" layoutY="2.0" prefHeight="247.0" prefWidth="168.0" style="-fx-background-color: lightblue;" text="HOW TO USE:&#10;1) User must enter the &#10;full Code  of the Course.&#10;For Example: SE 302&#10;&#10;2)After user clicked the search&#10;button the program will show&#10;the page of the course if&#10;it is found on database.&#10;If don't the program will&#10;show a warning.&#10;&#10;To close this help section &#10;click help again.&#10;" visible="false" />
+            </children>
+        </AnchorPane>
+    </children>
+</AnchorPane>

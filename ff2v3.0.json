@@ -1,0 +1,173 @@
+{
+  "Course" : [ {
+    "course_code" : "FF",
+    "course_name" : "ff2",
+    "version" : 3.0
+  } ],
+  "CourseHours" : [ {
+    "id" : 39,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "is_fall" : 0,
+    "is_spring" : 0,
+    "theory" : 0,
+    "lab_application" : 0,
+    "local_credits" : 0,
+    "ects" : 0
+  } ],
+  "CourseDetails" : [ {
+    "id" : 39,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "prerequisites" : "",
+    "course_language" : "",
+    "course_type" : "",
+    "course_level" : "",
+    "teaching_methods" : "\n"
+  } ],
+  "CourseInstructors" : [ {
+    "id" : 39,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "course_coordinator" : "",
+    "course_lecturers" : "",
+    "assistants" : ""
+  } ],
+  "CourseObjective" : [ {
+    "id" : 39,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "course_objectives" : "\n",
+    "learning_outcomes" : "",
+    "course_description" : "\n"
+  } ],
+  "CourseCategory" : [ {
+    "id" : 8,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "course_category" : "Supportive Course"
+  } ],
+  "WeeklySubjectsMaterials" : [ {
+    "id" : 609,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "week" : 1,
+    "subjects" : "",
+    "required_materials" : ""
+  }, {
+    "id" : 610,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "week" : 2,
+    "subjects" : "",
+    "required_materials" : ""
+  }, {
+    "id" : 611,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "week" : 3,
+    "subjects" : "",
+    "required_materials" : ""
+  }, {
+    "id" : 612,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "week" : 4,
+    "subjects" : "",
+    "required_materials" : ""
+  }, {
+    "id" : 613,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "week" : 5,
+    "subjects" : "",
+    "required_materials" : ""
+  }, {
+    "id" : 614,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "week" : 6,
+    "subjects" : "",
+    "required_materials" : ""
+  }, {
+    "id" : 615,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "week" : 7,
+    "subjects" : "",
+    "required_materials" : ""
+  }, {
+    "id" : 616,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "week" : 8,
+    "subjects" : "",
+    "required_materials" : ""
+  }, {
+    "id" : 617,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "week" : 9,
+    "subjects" : "",
+    "required_materials" : ""
+  }, {
+    "id" : 618,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "week" : 10,
+    "subjects" : "",
+    "required_materials" : ""
+  }, {
+    "id" : 619,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "week" : 11,
+    "subjects" : "",
+    "required_materials" : ""
+  }, {
+    "id" : 620,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "week" : 12,
+    "subjects" : "",
+    "required_materials" : ""
+  }, {
+    "id" : 621,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "week" : 13,
+    "subjects" : "",
+    "required_materials" : ""
+  }, {
+    "id" : 622,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "week" : 14,
+    "subjects" : "",
+    "required_materials" : ""
+  }, {
+    "id" : 623,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "week" : 15,
+    "subjects" : "",
+    "required_materials" : ""
+  }, {
+    "id" : 624,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "week" : 16,
+    "subjects" : "",
+    "required_materials" : ""
+  } ],
+  "CourseMaterials" : [ {
+    "id" : 39,
+    "course_code" : "FF",
+    "version" : 3.0,
+    "notes_textbooks" : "\"\"",
+    "suggested_readings" : "\"\""
+  } ],
+  "WorkloadTable" : [ ],
+  "SemesterActivities" : [ ],
+  "OutcomeMatrix" : [ ]
+}

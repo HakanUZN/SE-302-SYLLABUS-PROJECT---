@@ -3,6 +3,7 @@ module com.example.se302syllabusproject {
     requires javafx.fxml;
     requires java.sql;
     requires sqlite.jdbc;
+    requires com.fasterxml.jackson.databind;
 
 
     opens com.example.se302syllabusproject to javafx.fxml;

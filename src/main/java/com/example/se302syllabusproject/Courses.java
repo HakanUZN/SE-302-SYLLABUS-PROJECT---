@@ -49,4 +49,11 @@ public class Courses {
     }
 
 
+    public Syllabus getSyllabus() {
+        return syllabus;
+    }
+
+    public void setSyllabus(Syllabus syllabus) {
+        this.syllabus = syllabus;
+    }
 }
